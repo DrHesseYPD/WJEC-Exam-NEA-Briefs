@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Digital Technology Unit 3</title>
+		<style>
+		/* ############################################# */
+		/*			Body Style							 */
+		/* ############################################# */		
+		/* Style the Body*/
+		body {
+			font-family: Arial, Helvetica, sans-serif;
+		}
+		
+		/* ############################################# */
+		/*			Navbar - Main						 */
+		/* ############################################# */		
+		/* Style the Navigation bar */
+		.navbar {
+			width: 100%;
+			background-color: #F16522;
+			overflow: auto;
+		}
+
+		/* Navigation bar links */
+		.navbar a {
+			
+			padding: 20px 30px 20px 30px;
+			float: left;
+			display: block;
+			color: #f2f2f2;
+			text-align: center;
+			text-decoration: none;
+		}
+
+		/* Style the Navigation bar HOVER*/
+		.navbar a:hover {
+			background-color:#80BC00;
+			transition: 0.7s;
+		}		
+		
+		/* ############################################# */
+		/*			Navbar - Sub						 */
+		/* ############################################# */		
+		/* Style the Navigation bar */
+		.navbarB {
+			overflow: hidden ;
+			background-color: #F16522;
+			width: 100%;
+		}
+
+		/* Navigation bar links */
+		.navbarB a {
+			min-width:33.33%;
+			padding: 18px 0px 18px 0px;
+			float: left;
+			display: block;
+			color: #ffffff;
+			text-align: center;
+			text-decoration: none;
+		}
+
+		/* Style the Navigation bar HOVER*/
+		.navbarB a:hover {
+			background-color:#FDC24E;
+			color: black;
+			transition: 0.7s;
+		}
+		
+
+		/* ############################################# */
+		/*			Div Contents & sub-contents			 */
+		/* ############################################# */
+		/* Page content */
+		.content {
+			width:100%;
+			padding: 12px 0px 12px 0px;
+			display: none;
+		}
+
+		/* Page subcontent */
+		.subcontent {
+			width:100%;
+			padding: 12px 0px 12px 0px;
+			display: none;
+		}
+
+		/* Clear floats */
+		.clearfix::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+		/* H1 algin to middle as Page Title */
+		.title {
+			display: flex;
+			align-items:flex-end;
+		}
+		
+		/* Headings Setup */
+		H1 {
+			color: #00ADEE;
+		}		
+		
+		H2 {
+			background-color:#00ADEE;
+			color: white;
+			padding: 10px 0px 10px 0px ;
+			text-indent: 10px;
+		}
+		
+		h3 {
+			background-color:#BBBDBF;
+			color: black;
+			padding: 5px 0px 5px 0px ;
+			text-indent: 10px;
+		}		
+		/* ############################################# */
+		/*			Button Style						 */
+		/* ############################################# */		
+		.button {
+			border: none;
+			color: white;
+			padding: 15px 32px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+			background-color: #04AA6D;
+			border-radius: 10px;
+		}
+		
+		.button:hover{
+			background-color: #008CBA;
+			transition: 0.6s;
+
+		}
+	</style>
+	</head>
+	<body onload="showContent('Home')">
+		<div class="title">
+			<img src="resources/wjec-logo.png" alt="wjec-logo">
+			<span><h1>GCSE Digital Technology - Unit 3</h1></span>
+		</div>
+		
+		<div class="navbar">
+		  <a href="#Home" onclick="showContent('Home')">Home</a>
+		  <a href="#Scenario" onclick="showContent('Scenario')">Scenario</a>
+		  <a href="#SectionA" onclick="showContent('SectionA')">Section A: Online Marketing Communications</a>
+		  <a href="#SectionB" onclick="showContent('SectionB')">Section B: Planning Digital Assets</a>
+		  <a href="#SectionC" onclick="showContent('SectionC')">Section C: Creating Digital Assets</a>
+		  <a href="#SectionD" onclick="showContent('SectionD')">Section D: Evaluation</a>
+		</div>
+
+		<div id="Home" class="content" align="center">
+		  <h1>GCSE Digital Technology</h1>
+		  <h1>Unit 3 Communicating in the Digital World</h1>
+		  <h1>For 2027 Submission Only</h1>
+		</div>
+
+		<div id="Scenario" class="content">
+			<h1>Scenario: Come to Cymru!</h1>
+				<p>Glynbwl is an advertising company that specialises in digital marketing on social media. The company has seen the rise in the use of videos on the following social media platforms: Snapchat, Facebook, Instagram and X (Twitter) and would like you to make a video that will promote its new client.&nbsp;</p>
+				<p>Glynbwl has been tasked with getting more people from outside the UK to come to Wales. The client would like you to ensure that your advertisement includes information about the majority of the following:</p>
+				<ul>
+					<li>The Welsh language</li>
+					<li>Welsh heritage sites</li>
+					<li>Welsh history</li>
+					<li>Welsh beaches</li>
+					<li>Welsh mountains</li>
+					<li>Welsh music</li>
+					<li>Welsh sport</li>
+				</ul>
+				<p>The brief is to create a social media advertisement that will attract as many people as possible to &ldquo;Come to Cymru!&rdquo;.</p>	
+			<h1>Task organisation</h1>
+				<p>Your work must be organised effectively. Throughout the task you will be instructed to save your files in certain folders with specified names and in specific formats.&nbsp;&nbsp;You must keep a refinement log of your work detailing every hour you complete.</p>
+		</div>
+
+		<div id="SectionA" class="content">
+			<h1>Section A: Online Marketing Communications</h1>
+				<h2>Proposal</h2>
+				<p>Create a planning document that explains:</p>
+				<h2>Forms of online marketing communications [9 marks]</h2>
+				<ul>
+					<li>the importance of demographics (groups of people) in social media</li>
+					<li>a range of different forms of digital marketing and how they relate to different types of social media</li>
+					<li>a description of the characteristics and features of a range of different forms of social media.</li>
+				</ul>
+				<h2>Impact of online marketing communications [6 marks]</h2>
+				<ul>
+					<li>the benefits, opportunities and risks of online marketing in general, and how these apply in relation to the campaign scenario.</li>
+				</ul>
+				<p>Your work may be presented using any method you choose such as, but not limited to, text, annotated images or graphics.</p>
+				<p>This work <strong>must</strong> be saved in PDF in a file named <strong><em>Online_Marketing.pdf</em></strong> in a folder named <strong><em>Planning</em></strong>.</p>
+
+		</div>
+
+		<div id="SectionB" class="content">
+			<h1>Section B: Planning Digital Assets</h1>
+				<p>Using your work saved in your Online Marketing file, <strong><em>Online_Marketing.pdf</em></strong>, as a reference, you <strong>must</strong> now write your proposal for the &ldquo;Come to Cymru!&rdquo; campaign.</p>
+				<h2>Planning digital communications (analysis of audience needs) &nbsp;[6 marks]</h2>
+				<ul>
+					<li>analysing the given scenario, identifying where your digital asset would be useful and creating a list of measurable objectives for your specific campaign in terms of the audience you will be targeting.</li>
+				</ul>
+			<h2>Planning digital communications (plan digital asset) &nbsp;[9 marks]</h2>
+				<ul>
+					<li>designing a video advertisement that meets the needs of the chosen audience and marketing strategy</li>
+					<li>defining a marketing campaign that has a clear purpose, target audience and house style</li>
+				</ul>
+				<p>Your work may be presented using any method you choose such as, but not limited to, text, annotated images or graphics.</p>
+				<p>This work <strong>must</strong> be saved in PDF in a file named <strong><em>Design.pdf</em></strong> in a folder named <strong><em>Planning</em></strong>.</p>
+		</div>
+
+		<div id="SectionC" class="content">
+		  <h1>Section C: Creating Digital Assets</h1>
+			<h2>Creating digital assets [25 marks]</h2>
+			<p>Using appropriate software or apps, make a video advertisement that meets the needs of the demographic, the marketing strategy and your measurable objectives.&nbsp;</p>
+			<p>The video advertisement must be unique and contain some original material. However, it can include existing assets, for example music, still images, video, etc. as appropriate.</p>
+			<p>You <strong>must</strong> maintain a refinement log detailing any issues that you came across and how these were overcome.</p>
+			<p>You <strong>must</strong> save your final file as <strong><em>Digital_Asset_Final.mp4</em></strong> in a folder named <strong><em>Digital_Asset</em></strong>.</p>
+			<p>You <strong>must</strong> include your project files in an Adobe-based format in the same folder.</p>
+		</div>
+
+		<div id="SectionD" class="content">
+			<h1>Section D: Evaluation</h1>
+				<p>The evaluation <strong>must</strong> include:</p>
+				<ul>
+					<li>how well the digital asset meets your objectives and strategy by referring to your refinement log</li>
+					<li>what the successful features of the digital asset are</li>
+					<li>suggestions for future improvements to the digital asset.</li>
+				</ul>
+				<p>You <strong>must</strong> save your final evaluation as <strong><em>Evaluation.pdf</em></strong> and the refinement log as <strong><em>Refinement_Log.pdf</em></strong> in the folder named <strong><em>Digital_Asset</em></strong>.</p>
+		</div>
+
+		<script>
+			// Function to show the content
+			function showContent(id) {
+			  // Hide all elements with class="content"
+			  var contents = document.getElementsByClassName('content');
+			  for (var i = 0; i < contents.length; i++) {
+				contents[i].style.display = 'none';
+				document.title = "Digital Technology Unit 3: "+ id;
+			  }
+
+			  // Show the specific tab content
+			  document.getElementById(id).style.display = 'block';
+			}
+		</script>
+
+	</body>
+</html>
