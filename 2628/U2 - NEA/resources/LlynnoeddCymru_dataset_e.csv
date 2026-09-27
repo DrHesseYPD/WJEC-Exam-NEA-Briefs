@@ -1,0 +1,1007 @@
+DOB,sex_assigned_at_birth,local_authority,distance_km,purpose,club_member,can_swim_25m,swimming_lesson_history,school_swim_provision,open_water_confidence,water_safety_knowledge,barriers,cost_per_session_gbp,visits_Jan,visits_Feb,visits_Mar,visits_Apr,visits_May,visits_Jun,visits_Jul,visits_Aug,visits_Sep,visits_Oct,visits_Nov,visits_Dec
+10/08/1971,Female,Gwynedd,10.8,Fitness,FALSE,TRUE,Currently attending,N/A,4,2,Confidence,3.42,1,1,3,1,3,3,6,12,5,3,1,2
+14/09/2008,Male,Blaenau Gwent,10.5,Leisure,TRUE,TRUE,Attended as a child,N/A,3,3,Transport,4.78,1,3,3,3,7,3,7,6,5,0,2,3
+15/11/1951,Female,Anglesey,8.3,Leisure,FALSE,TRUE,Attended as a child,N/A,4,5,Transport,4.1,2,1,1,3,1,5,3,4,5,1,6,2
+30/06/1862,Male,Powys,9.7,Fitness,FALSE,TRUE,Private lessons,N/A,4,5,Confidence,5.65,3,3,2,6,4,3,4,11,2,2,3,1
+17/07/2002,Female,Merthyr Tydfil,1.5,Competitive training,TRUE,TRUE,Never attended lessons,N/A,2,4,Time,4.62,3,2,3,2,4,5,2,1,2,2,3,5
+13/04/1948,Female,Conwy,9.6,Fitness,FALSE,TRUE,Private lessons,N/A,3,4,Cost,2.55,1,2,1,5,7,8,10,6,3,2,1,1
+22/01/1948,Male,Torfaen,7,Social,FALSE,TRUE,Attended as a child,N/A,3,3,Cost,2.75,3,4,9,3,7,9,2,1,7,2,2,1
+19/04/1999,Female,Torfaen,3.2,Leisure,FALSE,TRUE,Attended as a child,N/A,1,4,Cost,5.44,2,1,1,2,3,6,4,3,4,3,5,1
+13/07/2020,Male,Monmouthshire,5.9,Leisure,TRUE,TRUE,Attended as a child,Irregular,5,3,None,5.59,2,2,2,6,2,9,8,6,4,4,6,2
+02/12/2001,Female,Conwy,5.4,Competitive training,TRUE,TRUE,School-only lessons,N/A,2,4,Transport,6,0,1,2,4,6,0,4,5,3,1,0,3
+13/09/1970,Male,Conwy,,Competitive training,TRUE,TRUE,Currently attending,N/A,3,5,Confidence,1.86,2,2,3,2,4,8,1,7,3,4,6,1
+15/04/2021,Male,Merthyr Tydfil,4,Fitness,FALSE,TRUE,Attended as a child,Irregular,3,3,Cost,7.12,3,3,1,3,-7,7,3,5,1,3,4,1
+07/02/1993,Male,Powys,10.6,Fitness,FALSE,FALSE,Never attended lessons,N/A,1,4,Confidence,4.64,0,2,3,4,2,4,4,3,4,4,5,1
+01/02/1985,Prefer not to say,Vale of Glamorgan,12.6,Social,FALSE,TRUE,Attended as a child,N/A,5,2,Cost,0.08,0,2,3,2,5,5,8,10,7,5,0,3
+11/10/2021,Female,Merthyr Tydfil,12.7,Fitness,FALSE,TRUE,School-only lessons,Irregular,4,4,Cost,7.5,1,5,9,2,1,5,7,4,4,1,1,2
+18/12/1959,Female,Caerphilly,15.2,Fitness,FALSE,TRUE,Attended as a child,N/A,3,3,Confidence,3.81,0,2,4,1,9,5,5,4,3,4,1,5
+11/03/1963,Male,Bridgend,8.4,Leisure,FALSE,TRUE,Attended as a child,N/A,2,4,Transport,5.49,0,2,1,3,3,4,7,4,4,4,0,1
+16/01/2002,Female,Torfaen,10.8,Competitive training,TRUE,TRUE,Attended as a child,N/A,2,3,Cost,2.51,0,3,2,3,4,4,5,3,3,2,2,2
+01/12/1990,Male,Torfaen,16.3,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,4,Time,4.83,2,0,3,2,0,6,3,4,0,1,0,1
+29/11/1947,Female,Monmouthshire,8,Social,FALSE,TRUE,Private lessons,N/A,2,4,None,6.65,1,2,1,6,3,4,3,7,2,1,2,0
+30/05/1965,Male,Caerphilly,15.3,Leisure,TRUE,TRUE,Attended as a child,N/A,3,4,Transport,3.67,2,0,4,5,6,7,3,5,4,4,2,3
+07/11/2001,Male,Denbighshire,8.1,Fitness,FALSE,FALSE,Never attended lessons,N/A,5,3,Confidence,5.75,1,2,1,3,2,6,3,5,5,0,3,1
+02/06/1974,Male,Anglesey,7.8,Leisure,FALSE,FALSE,Never attended lessons,N/A,3,5,None,2.76,6,3,3,3,5,2,5,2,3,2,3,2
+23/12/1964,Male,Caerphilly,155,Competitive training,TRUE,TRUE,Attended as a child,N/A,4,4,None,5.6,2,1,2,8,4,7,5,11,6,3,3,0
+18/02/1981,Female,Anglesey,3.6,Fitness,FALSE,TRUE,School-only lessons,N/A,3,3,Confidence,4.25,2,2,5,12,4,6,3,3,2,2,1,1
+07/04/1963,Male,Bridgend,6.4,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Time,3.95,2,2,2,2,9,6,5,4,1,7,3,4
+03/05/2008,Female,Torfaen,6.4,Fitness,TRUE,TRUE,School-only lessons,N/A,4,5,Cost,4.36,5,3,3,4,1,2,7,10,5,1,3,0
+17/11/1961,Male,Torfaen,9.6,Leisure,FALSE,TRUE,Private lessons,N/A,3,4,Confidence,2.5,2,2,4,3,2,2,2,3,2,1,3,0
+27/02/1961,Female,Carmarthenshire,4.5,Social,FALSE,TRUE,Attended as a child,N/A,4,4,Transport,7.02,1,1,1,5,3,5,6,5,4,3,1,3
+15/11/1976,Male,Swansea,10.6,Leisure,FALSE,TRUE,Private lessons,N/A,2,3,Cost,4.62,2,3,2,3,4,2,5,5,8,4,2,1
+16/08/1961,Male,Pembrokeshire,14.5,Water confidence,FALSE,TRUE,Never attended lessons,N/A,2,4,Transport,4.21,0,2,1,5,7,3,3,6,4,4,0,3
+09/03/1972,Female,Pembrokeshire,14.3,Fitness,FALSE,TRUE,Currently attending,N/A,4,4,Cost,3.87,6,4,3,3,2,2,7,5,3,2,3,2
+05/08/1968,Male,Flintshire,6.9,Social,FALSE,FALSE,Never attended lessons,N/A,3,5,Time,4.29,2,0,2,5,5,4,9,3,6,4,3,1
+14/09/1959,Male,Anglesey,17.8,Competitive training,TRUE,TRUE,Attended as a child,N/A,4,5,Confidence,5.16,0,3,2,2,4,3,6,2,6,5,1,5
+10/05/2020,Female,Merthyr Tydfil,11.8,Fitness,FALSE,TRUE,Attended as a child,Termly,5,3,Confidence,6.67,1,3,2,2,6,2,4,4,4,5,5,4
+21/01/1972,Female,Newport,7.5,Water confidence,FALSE,TRUE,Currently attending,N/A,1,4,Cost,4.91,1,2,4,7,4,3,11,9,6,2,0,0
+16/12/2016,Male,Gwynedd,15.1,Fitness,TRUE,FALSE,Never attended lessons,Termly,3,2,Cost,5.47,1,2,6,5,2,10,7,2,8,4,1,1
+13/03/2002,Male,Bridgend,13.3,Social,FALSE,TRUE,Attended as a child,N/A,3,4,Confidence,5.36,1,1,2,2,3,6,9,5,5,4,6,1
+10/09/1950,Female,Pembrokeshire,13.6,Social,FALSE,TRUE,Attended as a child,N/A,3,5,None,2.77,1,2,4,1,2,5,11,14,2,3,1,1
+09/02/1984,Male,Denbighshire,3.9,Competitive training,TRUE,TRUE,Attended as a child,N/A,4,4,Cost,5.32,0,2,2,1,4,2,0,5,3,4,2,2
+24/10/2005,Male,Flintshire,8.7,Leisure,TRUE,TRUE,Private lessons,N/A,2,4,Transport,3.94,2,4,6,4,2,3,9,7,6,4,2,1
+16/02/2019,Male,Swansea,15.6,Fitness,FALSE,TRUE,Never attended lessons,Termly,3,3,None,6.62,1,0,2,4,4,7,3,5,3,0,0,3
+02/03/1963,Female,Blaenau Gwent,11.9,Leisure,FALSE,TRUE,Private lessons,N/A,4,5,Cost,5.96,0,0,3,0,1,2,6,2,5,3,2,2
+26/09/2009,Female,Monmouthshire,12.5,Fitness,FALSE,TRUE,Currently attending,N/A,2,4,None,4.47,1,2,0,6,5,1,2,2,4,4,3,3
+24/12/2014,Male,Conwy,10.8,Competitive training,TRUE,TRUE,Attended as a child,Weekly,4,4,Confidence,116.9,1,2,2,4,3,5,3,3,7,2,3,0
+04/01/1970,Male,Neath Port Talbot,15.2,Competitive training,TRUE,TRUE,Currently attending,N/A,3,3,Transport,5.87,6,1,5,3,2,6,6,4,9,5,2,1
+05/08/2021,Male,Blaenau Gwent,6.2,Social,FALSE,TRUE,Attended as a child,Irregular,5,4,Transport,3.72,0,2,6,4,3,5,4,4,5,5,4,1
+16/02/1963,Female,Blaenau Gwent,13.5,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,5,Transport,5.23,2,1,3,2,5,5,9,10,6,4,1,2
+02/02/1952,Male,Bridgend,2.7,Competitive training,TRUE,TRUE,Currently attending,N/A,2,4,Transport,3.29,5,0,2,1,1,12,6,2,5,0,3,2
+20/11/1979,Male,Powys,13.7,Social,FALSE,TRUE,Attended as a child,N/A,3,4,None,7.5,2,3,3,2,7,8,7,4,4,4,1,2
+07/03/2015,Female,Cardiff,13.3,Competitive training,TRUE,TRUE,Attended as a child,Irregular,1,4,Time,5.94,1,2,2,2,4,4,5,3,1,5,2,1
+25/12/1976,Male,Powys,1.9,Fitness,TRUE,TRUE,Attended as a child,N/A,5,5,Time,0,2,1,1,3,5,7,9,11,5,7,2,3
+26/06/1988,Female,Ceredigion,12.3,Fitness,FALSE,TRUE,School-only lessons,N/A,1,4,Time,3.73,2,1,6,0,5,3,1,4,6,2,3,1
+02/02/1987,Male,Flintshire,7.8,Fitness,FALSE,TRUE,Attended as a child,N/A,4,3,Transport,5.71,4,1,1,5,1,8,1,8,3,3,1,2
+29/01/1973,Male,Monmouthshire,2.7,Leisure,TRUE,FALSE,Never attended lessons,N/A,3,3,Confidence,2.39,1,1,2,4,4,9,1,8,5,5,2,2
+22/12/2019,Male,Vale of Glamorgan,7.8,Leisure,TRUE,TRUE,Attended as a child,Weekly,3,4,Confidence,0,0,0,3,5,5,4,2,7,2,5,3,2
+09/05/2021,Female,Denbighshire,3.9,Water confidence,FALSE,TRUE,Private lessons,Weekly,1,5,Time,4.13,1,4,4,4,6,4,6,5,0,3,2,2
+02/11/2017,Female,Carmarthenshire,7.8,Leisure,FALSE,TRUE,Private lessons,Termly,3,5,Transport,3.57,3,3,4,0,5,5,5,5,3,2,6,1
+25/05/1969,Female,Torfaen,9.4,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Confidence,3.75,0,2,1,2,9,5,3,6,6,0,1,0
+25/09/2019,Male,Cardiff,13.4,Leisure,FALSE,TRUE,School-only lessons,Weekly,2,2,None,4.07,1,2,1,1,2,6,4,5,5,4,3,0
+08/08/1969,Female,Caerphilly,15.7,Competitive training,TRUE,TRUE,Attended as a child,N/A,5,5,Transport,2.07,4,1,5,4,4,1,6,3,1,4,4,3
+10/01/1960,Male,Torfaen,13.9,Social,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,5.55,3,1,2,5,3,3,6,4,1,2,1,2
+15/04/2005,Male,Bridgend,0.9,Competitive training,TRUE,TRUE,School-only lessons,N/A,3,4,Confidence,3.41,1,2,1,5,6,10,7,7,2,5,3,3
+11/08/1979,Female,Ceredigion,16.8,Leisure,FALSE,TRUE,School-only lessons,N/A,3,4,Transport,3.56,1,1,6,4,1,7,3,3,2,2,3,1
+07/02/1989,Male,Pembrokeshire,12.5,Leisure,FALSE,TRUE,Currently attending,N/A,2,4,Time,4,2,0,2,3,6,5,2,2,3,4,2,0
+13/04/1749,Male,Rhondda Cynon Taf,2.2,Social,FALSE,TRUE,School-only lessons,N/A,5,3,None,5.34,3,2,3,3,4,1,4,7,1,6,0,1
+10/12/1961,Male,Blaenau Gwent,15.4,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,5,Confidence,3.1,2,4,3,4,3,5,2,6,2,1,3,3
+18/02/2009,Male,Rhondda Cynon Taf,5.8,Fitness,FALSE,TRUE,School-only lessons,N/A,1,5,Confidence,3.05,4,2,3,3,4,5,0,8,2,3,3,1
+18/02/1975,Male,Powys,11.9,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Time,2.24,4,0,3,4,8,5,0,2,6,4,5,1
+13/05/2008,Female,Vale of Glamorgan,8.7,Fitness,FALSE,FALSE,Never attended lessons,N/A,3,3,Cost,5.67,2,1,4,7,5,10,1,2,6,0,1,2
+03/01/1951,Male,Vale of Glamorgan,7.8,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,3,3,Transport,5.72,1,0,7,2,2,3,5,2,4,1,3,2
+28/08/1961,Female,Denbighshire,16.1,Fitness,FALSE,TRUE,Attended as a child,N/A,3,3,None,5.32,2,0,4,4,4,3,10,9,3,1,2,1
+16/02/1983,Female,Cardiff,8.2,Fitness,FALSE,TRUE,Attended as a child,N/A,1,4,Time,5.75,3,4,4,1,1,7,2,10,5,4,1,4
+11/06/1970,Male,Conwy,1.8,Fitness,FALSE,TRUE,Attended as a child,N/A,2,4,Cost,5.5,3,0,3,4,6,5,10,3,2,1,3,1
+14/11/1999,Male,Flintshire,17.1,Leisure,FALSE,TRUE,Never attended lessons,N/A,4,5,Cost,3.95,1,1,2,4,3,4,3,5,4,5,4,4
+23/08/1997,Male,Anglesey,16.6,Leisure,FALSE,TRUE,Attended as a child,N/A,1,5,Time,5.37,3,2,2,6,3,6,2,3,5,4,2,4
+09/10/1963,Female,Conwy,12.5,Leisure,FALSE,TRUE,Attended as a child,N/A,4,4,Time,0.13,0,2,4,1,4,5,7,11,2,5,0,1
+04/11/1982,Male,Cardiff,8.7,Fitness,TRUE,TRUE,Attended as a child,N/A,1,4,None,5.97,2,1,3,7,5,9,4,11,6,2,4,3
+11/06/1994,Female,Ceredigion,2.1,Fitness,FALSE,TRUE,Attended as a child,N/A,4,3,Transport,5.15,1,2,3,4,3,8,5,9,1,3,1,0
+26/11/2008,Male,Denbighshire,14.3,Leisure,FALSE,TRUE,Currently attending,N/A,3,5,None,4.03,1,0,6,2,9,6,8,4,5,5,1,1
+26/07/1978,Female,Gwynedd,1.8,Fitness,FALSE,TRUE,School-only lessons,N/A,3,4,Confidence,4.12,2,3,1,3,4,4,9,4,2,2,6,2
+21/05/1958,Male,Carmarthenshire,1.7,Fitness,FALSE,TRUE,Private lessons,N/A,2,3,Time,3.65,1,2,5,3,5,2,2,7,3,3,2,1
+03/02/1952,Male,Denbighshire,9.9,Fitness,FALSE,TRUE,Attended as a child,N/A,1,4,Confidence,5.78,3,2,3,2,2,3,4,5,1,5,1,1
+20/02/2014,Female,Conwy,3.3,Social,FALSE,TRUE,Currently attending,Irregular,2,5,Cost,4.97,0,3,6,3,2,2,8,4,2,1,1,0
+20/05/2022,Female,Gwynedd,0.6,Rehabilitation,TRUE,TRUE,Never attended lessons,Irregular,2,5,None,5.33,1,2,4,4,4,3,10,7,4,3,3,0
+11/01/2015,Male,Merthyr Tydfil,8.6,Fitness,FALSE,TRUE,Never attended lessons,Weekly,3,2,Cost,3.92,3,1,2,2,2,6,6,4,2,4,3,2
+16/03/1960,Female,Monmouthshire,2.9,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,Transport,5.31,1,2,3,5,7,5,10,5,1,2,2,4
+26/07/2012,Male,Torfaen,4.4,Water confidence,FALSE,TRUE,Private lessons,Termly,3,4,None,5.33,2,1,2,4,5,3,6,4,1,3,3,1
+16/07/2015,Female,Bridgend,1.8,Rehabilitation,FALSE,TRUE,Attended as a child,Weekly,4,2,Confidence,6.06,4,4,5,0,1,4,4,5,2,3,1,3
+06/02/1988,Female,Flintshire,4.1,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,5,None,3.74,1,4,2,3,6,3,5,2,2,4,1,5
+29/10/1988,Male,Monmouthshire,13,Rehabilitation,FALSE,TRUE,Never attended lessons,N/A,3,5,Confidence,4.73,1,0,2,1,5,2,4,2,2,1,2,2
+20/01/1990,Male,Pembrokeshire,14.7,Competitive training,TRUE,TRUE,School-only lessons,N/A,3,4,Transport,5.63,0,1,2,5,9,5,4,6,4,2,3,0
+05/09/2028,Male,Newport,8.4,Competitive training,TRUE,TRUE,Attended as a child,Irregular,3,4,None,6.23,0,3,1,11,2,5,4,2,4,7,1,1000
+05/05/1982,Female,Wrexham,10.2,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,Cost,7.14,0,3,2,2,4,3,2,3,3,1,3,2
+04/07/1995,Female,Flintshire,1.1,Leisure,FALSE,TRUE,Attended as a child,N/A,4,5,None,3.26,2,3,2,5,5,4,8,2,3,2,4,1
+09/11/2016,Male,Carmarthenshire,1.7,Fitness,FALSE,TRUE,Attended as a child,Weekly,2,5,Cost,2.2,4,1,2,0,3,4,4,3,4,6,3,3
+13/07/1950,Male,Ceredigion,5,Social,FALSE,TRUE,Currently attending,N/A,1,4,None,6.66,0,6,4,4,6,1,0,2,0,2,2,3
+17/10/1951,Female,Powys,12.4,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,Cost,3.77,2,1,3,2,7,7,2,6,3,4,1,3
+28/04/2011,Prefer not to say,Powys,15.9,Fitness,FALSE,TRUE,School-only lessons,Weekly,2,5,Confidence,5.51,1,4,4,5,5,1,6,4,3,4,2,2
+27/11/1989,Female,Wrexham,11.8,Social,FALSE,TRUE,Attended as a child,N/A,4,3,None,3.48,2,2,3,3,4,9,6,13,2,1,2,3
+03/08/1990,Male,Monmouthshire,7.4,Social,FALSE,TRUE,Currently attending,N/A,4,5,Confidence,2.51,2,1,2,4,7,4,9,5,6,4,2,0
+06/11/1975,Male,Torfaen,,Water confidence,FALSE,TRUE,Never attended lessons,N/A,1,4,Time,36.01,0,1,4,3,3,6,3,8,3,4,1,4
+26/10/2000,Male,Conwy,14.2,Social,FALSE,TRUE,Attended as a child,N/A,2,4,None,5.55,1,1,2,2,7,4,4,4,3,1,4,3
+10/08/1961,Female,Blaenau Gwent,8.8,Water confidence,FALSE,TRUE,Attended as a child,N/A,3,4,Time,3.91,3,2,4,2,4,3,2,4,3,4,3,1
+08/07/1986,Male,Newport,13.4,Fitness,FALSE,TRUE,Attended as a child,N/A,3,2,None,4.51,1,0,3,1,3,5,9,7,3,5,4,3
+02/07/1979,Female,Cardiff,9.5,Competitive training,TRUE,TRUE,Never attended lessons,N/A,2,3,Transport,6.47,1,2,0,2,4,6,10,10,1,2,2,3
+17/01/1988,Male,Denbighshire,13.4,Competitive training,TRUE,TRUE,Private lessons,N/A,4,5,Cost,2.25,2,4,4,4,5,7,4,3,2,6,1,5
+19/06/1958,Female,Neath Port Talbot,16.4,Fitness,FALSE,TRUE,Attended as a child,N/A,3,3,Cost,6.05,2,0,2,5,5,4,2,6,3,2,2,0
+13/10/1976,Female,Wrexham,17.7,Fitness,FALSE,TRUE,Currently attending,N/A,3,4,Cost,4.58,2,3,4,3,2,4,1,7,3,5,7,4
+26/07/2020,Female,Blaenau Gwent,11.4,Water confidence,FALSE,TRUE,Private lessons,Termly,1,5,Cost,5.58,3,5,2,3,1,10,6,6,6,3,0,1
+14/07/2022,Male,Denbighshire,9.5,Fitness,FALSE,TRUE,Attended as a child,Termly,4,4,Confidence,7,1,4,5,2,8,7,9,1,5,3,3,3
+12/02/2018,Male,Cardiff,5.1,Social,FALSE,TRUE,Currently attending,Weekly,2,4,Cost,6.51,1,4,1,7,6,2,5,4,4,6,0,1
+20/03/1009,Male,Pembrokeshire,16.9,Fitness,FALSE,TRUE,Currently attending,N/A,4,4,Cost,4.33,2,0,1,4,5,2,8,5,6,5,2,5
+22/06/1996,Female,Flintshire,8.5,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,5.26,3,5,2,4,1,3,6,3,3,2,2,3
+18/07/2014,Female,Bridgend,2.7,Leisure,FALSE,TRUE,Private lessons,Irregular,3,4,None,3.84,2,7,1,7,0,5,6,1,2,7,3,2
+10/08/2008,Female,Caerphilly,9.5,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,Confidence,3.6,4,2,2,2,3,5,9,3,6,3,1,2
+15/09/1981,Female,Flintshire,2.7,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,4,4,Transport,7.12,2,0,2,2,4,6,10,7,2,1,3,3
+10/09/1972,Female,Rhondda Cynon Taf,10.6,Leisure,FALSE,TRUE,Currently attending,N/A,3,5,None,5.7,0,1,6,3,3,4,6,5,3,4,2,1
+21/02/1960,Male,Blaenau Gwent,13,Fitness,FALSE,TRUE,Attended as a child,N/A,2,4,Cost,5.1,1,3,2,3,4,6,3,4,2,5,3,2
+06/06/1971,Female,Vale of Glamorgan,6.4,Fitness,FALSE,TRUE,Attended as a child,N/A,4,4,None,3.86,4,1,4,2,4,2,2,4,6,5,2,3
+13/12/2019,Male,Rhondda Cynon Taf,3.3,Leisure,FALSE,TRUE,Attended as a child,Weekly,3,4,Confidence,0,2,1,2,4,8,3,5,3,5,3,4,4
+06/07/2000,Male,Cardiff,17,Fitness,FALSE,TRUE,Private lessons,N/A,2,5,Cost,0.43,4,1,1,2,5,6,5,6,5,8,5,2
+14/01/2008,Female,Newport,14,Competitive training,TRUE,TRUE,School-only lessons,N/A,5,4,Time,6.37,3,1,1,1,2,2,4,4,5,1,3,2
+25/05/1980,Male,Denbighshire,15.2,Leisure,TRUE,TRUE,Attended as a child,N/A,2,2,Time,5.28,2,0,1,2,1,6,11,5,2,3,1,1
+03/12/1994,Male,Powys,8.1,Fitness,FALSE,TRUE,Currently attending,N/A,1,3,Transport,3.91,1,3,2,1,4,5,9,3,5,2,1,1
+26/12/1987,Female,Rhondda Cynon Taf,16.5,Leisure,FALSE,TRUE,School-only lessons,N/A,1,4,None,5.01,4,2,2,7,6,5,2,3,2,0,3,3
+16/02/2010,Male,Newport,9,Fitness,FALSE,TRUE,Never attended lessons,No provision,3,4,Cost,0.76,1,0,1,3,3,6,5,7,5,4,4,4
+04/06/1991,Female,Monmouthshire,4,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Transport,3.99,0,4,2,3,3,7,4,1,6,2,1,0
+13/06/1952,Male,Newport,2.7,Fitness,FALSE,TRUE,Currently attending,N/A,3,2,Cost,4.48,3,4,2,2,5,8,8,5,3,3,4,1
+12/08/1964,Male,Monmouthshire,6.5,Social,FALSE,TRUE,Private lessons,N/A,3,5,Cost,3.94,1,2,3,3,7,6,5,9,6,3,4,3
+15/09/1995,Male,Ceredigion,2.9,Social,FALSE,TRUE,School-only lessons,N/A,3,4,Cost,2.55,2,0,2,1,3,4,2,3,5,2,4,2
+09/06/1957,Male,Merthyr Tydfil,19.8,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,4,None,6.76,3,2,1,1,4,4,7,5,1,6,2,0
+06/06/1981,Female,Rhondda Cynon Taf,2.5,Fitness,FALSE,TRUE,Never attended lessons,N/A,1,4,Cost,3.56,4,1,1,3,8,6,8,3,4,1,3,6
+26/12/1978,Male,Carmarthenshire,8.2,Fitness,FALSE,TRUE,Attended as a child,N/A,5,3,Transport,7.54,1,1,1,3,4,2,3,8,4,3,2,1
+01/02/1961,Female,Carmarthenshire,8.4,Leisure,TRUE,TRUE,Attended as a child,N/A,2,5,Confidence,3.81,3,1,3,5,5,4,8,10,2,4,1,3
+26/10/1966,Male,Gwynedd,5.8,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,5,3,None,6.97,1,2,1,5,1,5,3,11,4,3,2,1
+19/10/2017,Female,Pembrokeshire,10.5,Water confidence,TRUE,TRUE,Private lessons,Termly,2,4,None,5.8,5,0,1,6,3,4,6,3,2,3,3,0
+05/09/1995,Female,Merthyr Tydfil,3.9,Fitness,FALSE,TRUE,Never attended lessons,N/A,4,5,Time,8.06,7,3,4,4,2,4,5,4,3,2,3,1
+15/08/1995,Female,Swansea,14.2,Fitness,FALSE,TRUE,Private lessons,N/A,2,4,None,0.33,3,5,2,1,4,3,4,4,2,1,5,2
+18/12/1979,Male,Carmarthenshire,6.3,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,1,4,Time,5.63,1,1,2,3,2,5,6,3,3,0,2,0
+17/09/1993,Male,Newport,10.8,Competitive training,TRUE,TRUE,Attended as a child,N/A,4,4,None,7.49,1,1,2,5,2,5,6,8,2,4,1,1
+04/08/1961,Male,Merthyr Tydfil,15.5,Competitive training,TRUE,TRUE,Never attended lessons,N/A,4,5,Time,2.34,5,1,2,1,3,3,5,2,6,7,1,2
+15/05/1948,Female,Denbighshire,16.1,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,Cost,£2.28,3,2,4,5,3,8,10,2,1,4,2,1
+11/09/1961,Male,Rhondda Cynon Taf,16.8,Water confidence,TRUE,FALSE,Never attended lessons,N/A,4,4,Transport,3.66,2,5,4,3,6,3,5,4,4,3,3,6
+04/10/2022,Female,Torfaen,13,Leisure,FALSE,TRUE,School-only lessons,Irregular,3,4,Confidence,6.99,1,0,4,2,2,4,6,6,4,5,2,0
+23/10/1996,Female,Cardiff,7.3,Social,FALSE,TRUE,Private lessons,N/A,4,5,Transport,4.26,1,0,4,5,2,3,5,13,1,0,0,1
+16/07/1961,Male,Monmouthshire,9.3,Water confidence,FALSE,TRUE,Attended as a child,N/A,3,2,Transport,4.28,2,2,5,4,7,5,5,3,1,1,1,1
+01/11/2020,Female,Flintshire,14,Competitive training,TRUE,TRUE,Attended as a child,Termly,3,2,Confidence,2.52,0,2,2,1,1,5,2,5,7,4,4,0
+23/03/1953,Male,Wrexham,17.8,Fitness,FALSE,TRUE,School-only lessons,N/A,3,5,None,0.13,0,2,5,3,6,8,5,5,3,3,3,2
+25/11/1951,Male,Merthyr Tydfil,3.5,Fitness,FALSE,TRUE,Attended as a child,N/A,3,3,Cost,5.36,0,3,0,3,5,4,7,2,4,0,5,2
+05/08/1996,Female,Anglesey,7.2,Leisure,FALSE,TRUE,Never attended lessons,N/A,4,2,Time,2.39,2,2,4,4,4,2,4,3,3,2,3,0
+28/09/2014,Female,Blaenau Gwent,15.5,Leisure,FALSE,TRUE,Attended as a child,Termly,2,3,Time,5.59,1,3,1,1,3,3,8,3,3,6,1,4
+19/08/1961,Female,Denbighshire,8.1,Social,FALSE,TRUE,School-only lessons,N/A,2,4,None,6.65,1,0,2,5,7,3,3,1,4,4,0,1
+13/12/1986,Male,Merthyr Tydfil,8,Fitness,FALSE,TRUE,Private lessons,N/A,3,5,None,3.89,2,4,3,2,4,3,2,5,4,2,5,3
+24/02/1972,Male,Pembrokeshire,7.7,Fitness,TRUE,TRUE,Attended as a child,N/A,3,4,Time,5.24,3,1,4,12,4,7,5,5,6,3,2,0
+20/11/1979,Female,Gwynedd,11,Competitive training,TRUE,TRUE,School-only lessons,N/A,2,3,Confidence,2.23,2,2,2,2,4,6,4,1,2,2,1,4
+08/11/1999,Female,Ceredigion,18,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,4,Cost,4.87,1,3,1,2,7,1,7,2,4,4,4,1
+17/03/1964,Female,Cardiff,9.1,Fitness,FALSE,TRUE,Private lessons,N/A,5,5,Confidence,3.6,4,3,3,5,5,3,2,2,4,5,5,0
+08/10/1991,Male,Powys,7,Leisure,FALSE,TRUE,Attended as a child,N/A,2,5,Time,5.29,5,0,3,2,2,2,5,3,3,5,2,5
+24/09/1971,Female,Wrexham,5.1,Leisure,FALSE,TRUE,School-only lessons,N/A,3,4,None,4.35,0,1,3,4,3,3,6,6,8,5,1,1
+27/01/1961,Male,Anglesey,1.2,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,Time,4.32,3,2,2,2,4,1,10,6,3,2,2,0
+18/05/1965,Male,Cardiff,10.3,Social,FALSE,TRUE,School-only lessons,N/A,3,5,Cost,5.81,0,1,0,7,5,5,2,11,7,2,0,3
+05/02/1971,Female,Powys,11.7,Leisure,FALSE,TRUE,Currently attending,N/A,5,2,Confidence,2.17,2,1,3,1,2,4,11,6,4,1,2,1
+21/08/2011,Male,Merthyr Tydfil,6.7,Social,FALSE,TRUE,Never attended lessons,Irregular,4,2,Transport,6.27,3,3,3,2,2,5,6,2,3,1,2,1
+16/05/1984,Female,Gwynedd,12.7,Leisure,FALSE,TRUE,School-only lessons,N/A,3,3,Cost,4.53,1,2,3,3,5,2,2,5,1,1,3,3
+16/06/2021,Male,Pembrokeshire,13.5,Fitness,FALSE,TRUE,Attended as a child,Termly,3,5,Cost,5.49,3,2,2,6,3,7,6,5,5,4,3,5
+30/03/2020,Male,Pembrokeshire,5,Fitness,FALSE,TRUE,Attended as a child,Termly,3,3,Cost,2.58,0,3,3,5,6,2,1,2,4,3,2,4
+19/12/1967,Female,Bridgend,6.5,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,None,5.31,4,1,5,4,6,3,1,1,2,6,2,2
+30/05/1964,Female,Wrexham,20.6,Leisure,TRUE,TRUE,Attended as a child,N/A,4,3,Transport,2.63,3,3,1,2,4,7,4,5,8,1,4,0
+27/08/2021,Female,Wrexham,9.2,Fitness,FALSE,TRUE,Never attended lessons,No provision,3,5,Transport,3.78,2,2,3,2,3,5,2,5,3,1,6,2
+25/07/2021,Female,Torfaen,15.6,Leisure,FALSE,FALSE,Never attended lessons,No provision,2,3,None,3.39,0,2,6,2,2,5,4,6,3,1,1,4
+23/11/1969,Female,Torfaen,9.8,Leisure,FALSE,TRUE,Attended as a child,N/A,2,5,Transport,5.1,2,1,5,2,4,4,5,5,3,0,4,1
+15/06/2022,Female,Monmouthshire,14.4,Fitness,FALSE,TRUE,Private lessons,Weekly,1,5,Cost,4.01,3,1,4,2,2,4,3,5,4,2,1,2
+15/02/2004,Female,Conwy,14,Fitness,FALSE,TRUE,Attended as a child,N/A,1,2,Transport,5.16,1,2,3,5,5,4,-6,5,2,1,2,1
+30/04/2021,Male,Merthyr Tydfil,14.5,Competitive training,TRUE,TRUE,School-only lessons,Weekly,4,4,Cost,5.48,2,2,2,6,6,4,5,5,4,0,3,3
+27/03/1970,Male,Merthyr Tydfil,17.3,Social,FALSE,TRUE,Attended as a child,N/A,3,2,Cost,2.18,3,2,4,5,3,4,5,5,1,3,3,1
+05/07/1979,Male,Neath Port Talbot,16.9,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,Cost,5.27,3,0,3,4,2,10,3,5,5,2,6,3
+19/02/1991,Prefer not to say,Rhondda Cynon Taf,12.1,Fitness,FALSE,FALSE,Private lessons,N/A,3,3,Confidence,2.76,2,6,1,3,5,7,6,4,5,2,2,1
+24/11/1953,Female,Cardiff,4.7,Water confidence,FALSE,FALSE,Never attended lessons,N/A,4,1,Cost,4.77,0,2,2,3,2,2,7,4,2,2,3,1
+19/08/1991,Male,Bridgend,7.5,Fitness,FALSE,TRUE,Attended as a child,N/A,3,3,Transport,5.5,2,1,1,9,5,4,3,4,3,6,1,2
+04/01/1955,Female,Anglesey,13.8,Water confidence,FALSE,TRUE,Private lessons,N/A,4,4,None,5.76,1,0,5,2,2,5,2,6,4,2,2,1
+15/02/1968,Female,Merthyr Tydfil,12.4,Fitness,FALSE,TRUE,School-only lessons,N/A,3,5,Transport,5.64,3,1,1,3,4,5,6,7,5,4,3,3
+26/07/1948,Male,Conwy,,Social,FALSE,TRUE,School-only lessons,N/A,5,5,None,4.43,1,1,3,0,3,7,10,5,2,2,1,3
+08/06/1967,Female,Cardiff,1.4,Fitness,TRUE,TRUE,Attended as a child,N/A,3,5,Confidence,4.56,2,4,3,3,2,9,10,7,2,4,6,2
+03/05/2006,Female,Denbighshire,12.5,Social,FALSE,TRUE,School-only lessons,N/A,2,4,Transport,2.37,1,2,2,2,1,9,5,6,0,2,2,3
+01/03/1985,Male,Denbighshire,4.9,Fitness,FALSE,TRUE,Attended as a child,N/A,3,2,Time,5.11,2,1,1,4,4,4,9,10,0,1,1,0
+24/04/1999,Female,Caerphilly,9.8,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,5,Cost,3.87,3,1,5,2,1,7,6,4,2,1,2,2
+25/01/1954,Male,Merthyr Tydfil,14.1,Fitness,FALSE,TRUE,School-only lessons,N/A,2,2,Cost,5.79,1,4,5,5,6,1,4,7,4,3,5,2
+15/01/1953,Female,Blaenau Gwent,12,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,Time,4.39,0,3,1,4,4,8,3,4,4,4,1,4
+25/11/2012,Female,Swansea,2,Competitive training,FALSE,TRUE,Private lessons,Termly,3,3,Confidence,4.99,3,2,2,5,2,4,6,3,1,1,2,3
+30/05/2007,Female,Torfaen,6.7,Leisure,TRUE,TRUE,Attended as a child,N/A,1,2,Time,3.46,1,1,2,0,5,1,7,9,5,6,1,2
+26/04/1950,Male,Conwy,4.3,Social,FALSE,TRUE,Attended as a child,N/A,5,5,None,0.32,1,1,2,6,3,2,1,0,1,1,2,1
+11/03/1964,Female,Ceredigion,5,Leisure,FALSE,TRUE,Currently attending,N/A,3,5,Transport,3.45,1,4,2,5,7,7,2,6,2,3,4,3
+17/05/1953,Female,Vale of Glamorgan,10.4,Social,FALSE,TRUE,Attended as a child,N/A,4,5,Confidence,5.77,0,0,3,4,5,3,6,4,6,2,0,2
+04/03/2020,Male,Anglesey,9.3,Leisure,FALSE,TRUE,School-only lessons,Irregular,3,3,Confidence,5.39,1,1,1,3,3,3,7,5,1,3,1,2
+26/04/2003,Female,Vale of Glamorgan,4.1,Water confidence,FALSE,TRUE,Never attended lessons,N/A,3,3,None,4.21,3,3,0,4,5,5,2,4,5,1,2,2
+24/02/1964,Male,Gwynedd,1.7,Water confidence,FALSE,TRUE,Attended as a child,N/A,3,4,None,3.6,1,2,7,3,3,3,3,2,5,1,2,1
+23/08/1987,Female,Denbighshire,3.5,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,None,0.35,0,0,0,3,6,3,8,6,2,2,3,3
+13/09/2004,Male,Blaenau Gwent,19.2,Social,FALSE,TRUE,Attended as a child,N/A,5,5,Transport,5.06,2,0,1,3,5,6,5,6,2,2,2,1
+20/11/1956,Male,Wrexham,11.7,Competitive training,TRUE,TRUE,Attended as a child,N/A,2,3,Time,0,3,4,2,2,6,6,4,1,5,3,6,3
+09/02/2004,Male,Anglesey,15.7,Fitness,TRUE,TRUE,Currently attending,N/A,4,5,Transport,6.7,0,2,11,7,8,6,5,6,7,6,4,5
+06/08/2003,Female,Merthyr Tydfil,17.2,Leisure,FALSE,TRUE,School-only lessons,N/A,5,4,Cost,3.47,3,1,3,4,3,3,2,5,0,2,3,2
+18/01/1952,Male,Ceredigion,9.5,Fitness,FALSE,TRUE,School-only lessons,N/A,3,5,None,4.03,1,0,0,1,3,1,6,6,2,1,1,1
+16/01/1971,Female,Blaenau Gwent,,Competitive training,TRUE,TRUE,Private lessons,N/A,5,4,Cost,7.54,0,2,2,2,2,3,2,6,0,1,2,4
+03/08/1990,Male,Monmouthshire,3.9,Fitness,FALSE,TRUE,School-only lessons,N/A,3,4,None,0.8,4,0,10,1,1,7,6,6,4,4,2,3
+20/02/1983,Male,Anglesey,12.5,Fitness,FALSE,TRUE,Attended as a child,N/A,5,5,Cost,5.53,2,0,3,7,3,1,6,3,6,1,4,1
+11/01/1984,Female,Flintshire,5.3,Leisure,FALSE,TRUE,Private lessons,N/A,4,4,None,4.34,2,1,2,3,4,4,6,7,6,0,1,2
+24/09/2022,Female,Rhondda Cynon Taf,17.3,Leisure,FALSE,TRUE,Attended as a child,Weekly,1,5,Transport,4.07,0,3,2,3,3,4,5,3,6,1,1,1
+27/04/2012,Male,Wrexham,2.7,Social,FALSE,TRUE,Attended as a child,No provision,5,5,Transport,4.15,3,2,2,4,2,3,5,7,4,4,0,1
+01/09/1966,Female,Ceredigion,14,Water confidence,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,5.4,4,1,2,3,4,5,3,3,5,6,3,3
+08/12/1973,Female,Bridgend,2.2,Leisure,FALSE,TRUE,Attended as a child,N/A,3,4,Confidence,5.56,0,1,1,4,4,2,4,4,1,2,2,1
+01/10/2000,Female,Rhondda Cynon Taf,17.7,Fitness,FALSE,TRUE,Attended as a child,N/A,3,2,Transport,0.16,2,2,2,3,2,2,6,3,6,2,1,1
+19/09/1992,Male,Conwy,5.8,Rehabilitation,FALSE,TRUE,School-only lessons,N/A,2,2,Time,6.83,2,2,4,1,2,7,4,3,1,1,2,2
+30/03/1981,Male,Blaenau Gwent,14.3,Leisure,FALSE,TRUE,Attended as a child,N/A,3,3,Cost,92.48,1,0,1,2,5,5,4,4,1,4,2,1
+08/01/2016,Female,Neath Port Talbot,9,Leisure,FALSE,TRUE,Never attended lessons,Irregular,4,3,Cost,3.98,0,0,4,3,2,6,5,7,2,1,1,4
+24/08/2007,Male,Rhondda Cynon Taf,9.6,Fitness,FALSE,TRUE,Attended as a child,N/A,1,3,Cost,4.25,2,4,5,1,5,5,3,11,1,4,2,1
+12/10/1963,Female,Swansea,11.8,Leisure,FALSE,TRUE,Never attended lessons,N/A,2,4,Transport,0.38,1,5,2,4,1,4,3,6,1,4,4,2
+09/02/2021,Female,Carmarthenshire,17.1,Fitness,TRUE,TRUE,Never attended lessons,No provision,1,4,None,2.48,3,3,4,6,4,4,5,3,2,2,8,5
+19/07/2022,Female,Torfaen,3.9,Competitive training,TRUE,TRUE,Attended as a child,No provision,3,4,None,7.57,2,2,4,3,2,2,6,6,6,4,5,4
+23/02/1975,Female,Denbighshire,16.6,Leisure,FALSE,TRUE,Attended as a child,N/A,4,3,Cost,4.35,1,4,2,3,5,2,3,2,7,1,3,2
+29/09/2011,Prefer not to say,Neath Port Talbot,11.2,Social,FALSE,TRUE,Attended as a child,Irregular,4,2,Confidence,2.9,0,3,2,2,3,4,3,10,5,2,1,2
+21/03/1954,Male,Gwynedd,14.6,Leisure,TRUE,TRUE,Private lessons,N/A,5,4,Time,2.51,2,1,1,3,4,4,2,3,6,4,3,0
+05/09/1386,Female,Newport,7.2,Fitness,FALSE,TRUE,Currently attending,N/A,3,4,Transport,6.3,3,1,4,3,5,1,4,4,1,2,1,1
+24/01/1991,Male,Blaenau Gwent,11.3,Social,FALSE,TRUE,Attended as a child,N/A,2,4,Transport,5.8,1,2,2,3,3,4,6,4,3,1,0,2
+06/09/2014,Male,Flintshire,15.7,Leisure,FALSE,TRUE,Attended as a child,Termly,5,4,Confidence,4.47,1,2,1,3,3,4,6,6,4,3,2,2
+07/10/2004,Female,Ceredigion,7.8,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,Cost,0,2,1,4,4,4,5,5,3,5,1,2,2
+15/11/1975,Female,Powys,10.6,Leisure,FALSE,TRUE,Private lessons,N/A,3,4,Cost,3.61,0,3,2,2,7,5,2,3,3,2,2,1
+21/03/2020,Prefer not to say,Vale of Glamorgan,0.9,Fitness,FALSE,FALSE,Never attended lessons,Weekly,3,3,Cost,2.89,1,1,4,2,6,5,9,9,3,0,2,1
+23/01/2003,Female,Conwy,3.3,Competitive training,TRUE,TRUE,Never attended lessons,N/A,5,5,Confidence,2.42,0,1,3,5,3,2,5,5,3,1,1,1
+13/10/1999,Male,Caerphilly,14.4,Leisure,FALSE,TRUE,Private lessons,N/A,4,5,Cost,3.8,0,1,1,4,2,5,3,6,5,2,0,0
+10/12/1969,Male,Rhondda Cynon Taf,14.4,Rehabilitation,TRUE,TRUE,Attended as a child,N/A,3,4,Cost,3.62,6,1,4,1,6,5,5,9,4,3,200,3
+12/04/1990,Female,Blaenau Gwent,12.8,Fitness,TRUE,FALSE,Never attended lessons,N/A,4,3,Transport,3.83,2,4,1,8,6,5,10,10,4,4,2,3
+08/09/1999,Male,Blaenau Gwent,5.8,Leisure,FALSE,TRUE,Attended as a child,N/A,1,3,Cost,3.58,1,2,2,3,2,3,4,3,5,3,2,0
+17/01/1948,Male,Caerphilly,9.2,Water confidence,FALSE,TRUE,School-only lessons,N/A,3,4,Cost,7.63,0,3,3,2,2,3,5,2,1,4,2,3
+02/03/1951,Male,Torfaen,8.6,Competitive training,TRUE,TRUE,School-only lessons,N/A,3,5,None,6.99,3,2,1,2,5,5,7,2,2,5,5,0
+30/04/1987,Male,Rhondda Cynon Taf,11.6,Fitness,FALSE,TRUE,Currently attending,N/A,2,4,Cost,5.48,3,2,3,4,3,3,3,7,4,3,2,0
+23/02/1985,Male,Ceredigion,15.7,Fitness,FALSE,TRUE,Attended as a child,N/A,1,5,Time,4.18,1,4,4,5,5,7,6,9,1,3,1,2
+06/08/1998,Male,Anglesey,14.1,Fitness,FALSE,TRUE,Attended as a child,N/A,2,4,Transport,4.29,4,2,1,1,5,4,7,5,4,4,2,2
+23/03/2005,Male,Merthyr Tydfil,4,Leisure,FALSE,TRUE,School-only lessons,N/A,3,5,Time,4.28,0,0,4,1,4,3,3,3,1,3,2,2
+17/05/1957,Male,Neath Port Talbot,16.1,Competitive training,TRUE,TRUE,School-only lessons,N/A,4,4,Confidence,5.82,2,2,2,3,5,6,6,3,2,3,0,2
+25/02/1969,Prefer not to say,Monmouthshire,8.8,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,5,2,Cost,3.81,0,1,2,6,2,7,7,5,8,1,2,0
+10/11/1988,Male,Swansea,13.5,Leisure,FALSE,TRUE,Private lessons,N/A,3,4,None,6.11,1,2,2,4,2,11,9,2,3,5,1,2
+30/09/1962,Male,Flintshire,3,Competitive training,TRUE,TRUE,Never attended lessons,N/A,3,4,Confidence,7.23,1,2,1,1,1,3,4,5,3,3,0,1
+21/05/1982,Female,Neath Port Talbot,12.2,Leisure,TRUE,TRUE,Attended as a child,N/A,5,2,None,3.84,1,0,5,3,2,5,6,6,4,0,3,0
+29/05/1990,Male,Merthyr Tydfil,6.2,Fitness,FALSE,TRUE,Currently attending,N/A,2,5,Transport,5.5,2,4,1,1,6,3,4,1,4,2,2,2
+04/02/1955,Female,Wrexham,8.7,Leisure,FALSE,TRUE,Attended as a child,N/A,4,4,None,2.62,1,1,2,4,5,2,6,6,3,3,1,0
+21/03/1990,Female,Anglesey,0.8,Water confidence,FALSE,TRUE,School-only lessons,N/A,4,5,Time,4.24,0,0,0,5,4,4,3,6,2,1,6,2
+23/05/2009,Male,Flintshire,3.2,Competitive training,TRUE,TRUE,Private lessons,N/A,1,3,None,3.47,2,2,2,2,7,1,2,4,4,2,1,0
+29/2/2002,Male,Vale of Glamorgan,2.1,Leisure,FALSE,TRUE,Attended as a child,N/A,4,3,Confidence,4.21,0,3,3,4,4,0,3,4,3,1,1,2
+04/05/1975,Female,Flintshire,4.7,Leisure,FALSE,TRUE,School-only lessons,N/A,4,5,Confidence,5.43,0,1,4,2,3,5,5,4,4,4,5,3
+18/12/2003,Female,Newport,2.3,Social,FALSE,TRUE,School-only lessons,N/A,1,4,Time,3.41,2,5,2,5,4,3,6,9,2,1,4,2
+25/05/2015,Male,Anglesey,12.6,Leisure,FALSE,TRUE,Never attended lessons,Irregular,1,4,None,$4.23,2,1,2,3,5,3,3,9,3,3,2,2
+06/03/2016,Female,Caerphilly,1.7,Fitness,FALSE,TRUE,Attended as a child,Irregular,1,4,None,5.98,7,1,5,2,5,2,3,5,7,4,1,3
+18/08/1956,Male,Rhondda Cynon Taf,12.3,Water confidence,FALSE,TRUE,Attended as a child,N/A,3,4,Transport,5.91,5,2,5,5,4,5,3,5,1,3,2,2
+04/11/2006,Prefer not to say,Pembrokeshire,,Social,FALSE,TRUE,Never attended lessons,N/A,3,5,Time,4.4,6,2,1,6,3,6,1,4,5,1,4,3
+05/02/1990,Male,Blaenau Gwent,17.7,Fitness,FALSE,TRUE,School-only lessons,N/A,3,4,Cost,5.93,3,4,3,2,4,4,4,5,4,2,4,0
+08/09/1975,Female,Newport,16.8,Leisure,FALSE,TRUE,School-only lessons,N/A,2,4,Confidence,6.29,1,0,0,2,1,2,4,4,2,2,5,0
+22/07/1947,Female,Flintshire,4.4,Leisure,FALSE,FALSE,Never attended lessons,N/A,5,4,Cost,4.01,4,1,4,2,3,7,4,7,5,4,3,3
+09/05/1964,Female,Gwynedd,11.3,Fitness,TRUE,TRUE,Never attended lessons,N/A,3,3,Transport,2.76,4,2,2,2,3,4,3,6,4,2,3,2
+09/06/2001,Female,Cardiff,1,Water confidence,TRUE,TRUE,Never attended lessons,N/A,1,4,None,4.92,1,2,1,2,5,10,3,9,2,5,0,0
+11/09/1993,Male,Powys,19.5,Leisure,FALSE,TRUE,School-only lessons,N/A,3,5,Cost,5.41,1,2,2,6,2,4,2,4,3,2,2,3
+03/02/1985,Male,Denbighshire,9.7,Social,FALSE,TRUE,Never attended lessons,N/A,3,4,Confidence,5.62,0,3,4,2,4,2,2,2,2,1,1,0
+23/11/1972,Male,Anglesey,1.3,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,Confidence,5.49,1,1,5,1,10,4,2,4,3,0,3,7
+17/05/1969,Male,Bridgend,6.5,Leisure,FALSE,TRUE,Attended as a child,N/A,2,4,Cost,3.74,1,1,3,2,2,5,12,7,1,1,1,3
+03/12/2015,Female,Torfaen,4.3,Fitness,FALSE,TRUE,Attended as a child,Weekly,2,5,Transport,£2.89,4,0,5,2,2,7,4,5,4,3,2,5
+25/09/1996,Male,Newport,7.4,Competitive training,TRUE,TRUE,Never attended lessons,N/A,4,5,Confidence,0.72,0,0,2,4,3,8,6,5,3,4,2,1
+06/03/1996,Male,Powys,14.1,Leisure,FALSE,TRUE,Attended as a child,N/A,5,4,Cost,4.61,1,1,3,5,4,8,4,1,1,4,3,1
+24/06/2002,Female,Cardiff,8.7,Leisure,FALSE,TRUE,School-only lessons,N/A,3,3,None,5.71,2,0,3,3,10,2,3,4,2,1,4,0
+04/12/1993,Female,Vale of Glamorgan,7.2,Fitness,FALSE,TRUE,School-only lessons,N/A,3,4,None,5.33,5,0,2,0,4,3,5,8,4,3,0,3
+22/04/1995,Female,Blaenau Gwent,5.6,Fitness,FALSE,TRUE,Private lessons,N/A,3,5,Cost,4.01,1,4,3,5,3,5,3,3,4,1,4,0
+24/03/1959,Prefer not to say,Newport,4.8,Fitness,FALSE,TRUE,Never attended lessons,N/A,4,3,Cost,5.04,0,3,2,4,2,7,8,3,3,1,2,1
+05/03/1954,Male,Torfaen,4.8,Fitness,FALSE,TRUE,Attended as a child,N/A,3,2,Confidence,4.12,5,2,0,10,3,6,6,5,5,2,2,2
+26/07/1962,Male,Caerphilly,16.6,Leisure,FALSE,TRUE,Attended as a child,N/A,5,4,Time,4.09,3,0,4,1,1,5,2,4,3,2,3,0
+20/10/1975,Female,Carmarthenshire,2.9,Leisure,TRUE,TRUE,Attended as a child,N/A,3,5,Transport,3.66,1,2,4,3,6,6,7,7,4,4,3,1
+29/08/2004,Female,Pembrokeshire,10.9,Leisure,TRUE,TRUE,School-only lessons,N/A,3,5,Cost,2.15,0,2,5,4,3,3,8,3,4,3,2,0
+05/10/2019,Male,Ceredigion,6.5,Leisure,FALSE,TRUE,Attended as a child,Weekly,3,4,Confidence,2.6,3,2,2,5,3,4,3,1,5,5,2,3
+08/04/1988,Female,Carmarthenshire,4.5,Fitness,FALSE,TRUE,Private lessons,N/A,5,3,None,2.09,6,4,2,3,2,2,1,5,2,1,2,1
+23/07/1959,Male,Merthyr Tydfil,13.7,Fitness,FALSE,TRUE,School-only lessons,N/A,4,4,Transport,2.34,2,2,4,3,7,4,8,5,2,4,6,3
+28/09/1974,Male,Gwynedd,8.5,Fitness,TRUE,TRUE,School-only lessons,N/A,1,3,Transport,0.15,1,2,4,5,2,5,8,5,4,5,1,0
+10/11/2006,Female,Wrexham,9,Competitive training,TRUE,TRUE,Never attended lessons,N/A,3,3,None,5.21,0,1,7,4,3,4,1,3,3,5,5,2
+03/09/1979,Female,Flintshire,10.9,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,Time,4.48,1,3,4,1,4,4,7,5,3,5,1,3
+30/11/1993,Female,Pembrokeshire,9.1,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,Time,7.37,1,2,3,2,9,6,9,10,4,1,3,1
+16/04/1977,Male,Flintshire,5.8,Fitness,FALSE,TRUE,Attended as a child,N/A,4,3,Confidence,2.03,1,1,0,0,5,4,6,6,6,1,6,2
+30/04/2017,Female,Caerphilly,11.8,Social,FALSE,TRUE,Never attended lessons,Irregular,4,2,None,3.72,4,1,2,2,3,4,5,5,2,3,2,1
+02/07/1986,Male,Torfaen,13.9,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,4,4,Time,3.31,0,0,1,3,3,6,3,8,3,4,1,3
+02/03/1999,Male,Pembrokeshire,1,Leisure,FALSE,TRUE,School-only lessons,N/A,5,4,None,0,0,0,1,1,5,8,3,3,3,1,3,2
+24/05/1977,Female,Merthyr Tydfil,10.8,Leisure,FALSE,TRUE,Attended as a child,N/A,2,3,Time,5.73,2,1,1,2,5,6,8,4,1,1,2,2
+08/01/1970,Female,Merthyr Tydfil,2.1,Fitness,FALSE,TRUE,Never attended lessons,N/A,4,4,Time,0,4,2,5,3,4,4,6,1,5,3,1,0
+23/11/1963,Female,Neath Port Talbot,3.8,Water confidence,FALSE,TRUE,Attended as a child,N/A,4,3,Transport,7.14,1,0,2,3,2,3,7,2,7,4,2,4
+29/04/1960,Female,Powys,10.9,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,5,Transport,5.04,2,3,3,3,4,2,3,4,0,3,3,4
+22/06/1991,Female,Conwy,15.7,Fitness,FALSE,TRUE,School-only lessons,N/A,4,5,Time,4.24,0,2,2,4,5,5,5,3,3,6,4,3
+23/02/1990,Female,Carmarthenshire,15.9,Competitive training,TRUE,TRUE,Attended as a child,N/A,2,4,Transport,3.83,2,5,4,3,1,7,2,2,2,5,1,2
+28/05/1956,Male,Gwynedd,1.7,Competitive training,TRUE,TRUE,Never attended lessons,N/A,4,4,Confidence,5.5,1,4,3,2,4,6,2,5,4,2,4,1
+11/05/2005,Male,Conwy,7.8,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,5,Cost,3.97,2,0,3,5,3,2,1,2,3,1,3,1
+21/11/1998,Male,Rhondda Cynon Taf,11.3,Leisure,FALSE,TRUE,Private lessons,N/A,2,5,None,5.12,0,2,4,4,5,5,6,2,3,6,1,3
+05/07/1969,Male,Gwynedd,3.1,Fitness,FALSE,TRUE,Attended as a child,N/A,3,3,Cost,0,1,2,2,3,3,5,6,7,3,2,3,2
+03/03/1965,Female,Carmarthenshire,13.9,Fitness,FALSE,TRUE,Private lessons,N/A,3,3,None,2.79,4,2,3,5,4,6,7,4,2,5,2,1
+19/03/1956,Female,Wrexham,14.6,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,2,4,Confidence,4.12,0,1,3,3,6,3,5,5,2,1,1,1
+04/12/1977,Male,Newport,16.3,Fitness,FALSE,TRUE,Attended as a child,N/A,1,3,Cost,5.02,1,4,2,9,3,4,4,6,7,3,1,5
+28/11/1999,Male,Swansea,0.6,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,4,Confidence,6.3,4,2,3,3,0,0,8,4,3,1,0,1
+16/04/1991,Female,Powys,6.9,Water confidence,FALSE,TRUE,School-only lessons,N/A,3,4,Transport,2.54,1,3,5,3,9,3,1,2,3,1,1,2
+21/05/1976,Male,Cardiff,15,Fitness,FALSE,TRUE,School-only lessons,N/A,4,4,Transport,5.68,1,3,3,7,7,2,3,1,3,2,3,2
+27/10/2000,Female,Wrexham,15.1,Leisure,FALSE,TRUE,Attended as a child,N/A,5,4,Transport,3.92,1,2,2,2,3,2,5,3,3,5,4,3
+10/07/1957,Female,Torfaen,17.5,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,4,Cost,3.99,3,1,1,4,5,5,5,6,3,1,3,1
+21/08/1996,Male,Pembrokeshire,1.5,Competitive training,TRUE,TRUE,Never attended lessons,N/A,4,5,None,4.59,2,2,2,3,3,2,5,7,3,2,2,0
+04/09/2021,Female,Newport,,Competitive training,TRUE,TRUE,Attended as a child,Irregular,3,3,Cost,4.91,0,1,2,5,1,4,3,1,7,3,1,0
+29/04/2006,Female,Torfaen,13,Fitness,FALSE,TRUE,Attended as a child,N/A,4,4,Time,2.96,6,5,1,4,4,5,9,3,3,3,3,3
+11/02/1990,Male,Neath Port Talbot,1.1,Leisure,FALSE,TRUE,School-only lessons,N/A,2,2,Transport,4.18,1,1,1,7,4,7,7,2,2,7,3,3
+25/03/2014,Female,Blaenau Gwent,10.6,Leisure,FALSE,TRUE,School-only lessons,No provision,3,2,Confidence,5.29,1,5,4,1,5,2,4,6,3,1,0,3
+23/03/1980,Female,Torfaen,12.6,Water confidence,FALSE,TRUE,Attended as a child,N/A,3,4,Transport,4.04,0,1,1,4,3,3,4,4,2,2,0,1
+09/02/1975,Male,Conwy,3.8,Fitness,FALSE,TRUE,Attended as a child,N/A,1,3,Time,4.07,2,3,0,7,4,3,3,4,4,2,2,3
+06/02/1984,Female,Cardiff,5.3,Social,FALSE,TRUE,School-only lessons,N/A,4,2,Time,5.92,1,3,6,2,4,0,0,3,4,4,1,2
+15/03/1981,Female,Gwynedd,11.7,Fitness,FALSE,TRUE,Private lessons,N/A,4,3,Time,5.38,3,3,3,5,4,7,5,2,6,4,1,1
+14/02/1997,Female,Monmouthshire,8.7,Water confidence,FALSE,TRUE,Never attended lessons,N/A,3,4,Cost,3.94,2,0,4,3,6,3,4,3,3,7,0,2
+03/11/1973,Female,Gwynedd,15.5,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,Time,4.48,2,1,3,2,33,2,5,3,1,5,2,1
+09/08/1998,Female,Newport,6.5,Leisure,FALSE,TRUE,Attended as a child,N/A,4,3,Transport,5.58,2,3,6,6,8,5,5,5,0,1,6,2
+25/06/1999,Female,Conwy,5.2,Leisure,FALSE,TRUE,Attended as a child,N/A,4,4,Cost,5.86,1,0,2,1,5,3,5,7,3,1,0,3
+18/11/2010,Female,Wrexham,20.6,Fitness,FALSE,TRUE,Never attended lessons,Weekly,2,3,Transport,3.72,2,0,1,6,4,4,3,5,2,4,1,1
+30/09/1963,Female,Cardiff,16.4,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,4,Transport,4.29,3,4,3,6,3,1,2,4,6,9,2,4
+28/01/2016,Female,Carmarthenshire,1,Fitness,FALSE,TRUE,Attended as a child,Termly,3,4,Confidence,5.85,3,4,7,6,5,4,7,4,3,4,2,3
+02/06/1966,Female,Pembrokeshire,14,Fitness,TRUE,TRUE,Attended as a child,N/A,3,4,Time,0.22,3,4,4,8,2,6,4,5,7,5,2,2
+11/08/1987,Female,Anglesey,2.4,Fitness,FALSE,TRUE,Never attended lessons,N/A,2,5,Transport,7.38,0,3,1,6,1,2,4,6,5,1,1,3
+04/11/1978,Male,Rhondda Cynon Taf,2.6,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,5,Transport,2.74,1,5,1,3,6,1,4,4,4,4,0,2
+20/03/2003,Female,Wrexham,7.4,Leisure,FALSE,TRUE,Private lessons,N/A,4,2,Cost,6.12,3,1,1,1,2,5,5,2,3,2,2,2
+12/01/1958,Female,Pembrokeshire,5.2,Fitness,FALSE,TRUE,School-only lessons,N/A,3,5,Time,4.17,3,2,2,2,5,5,5,5,3,2,5,2
+09/01/2015,Male,Denbighshire,14.8,Social,FALSE,TRUE,Attended as a child,Termly,5,2,Confidence,3.95,1,2,0,1,8,6,3,7,1,3,3,1
+23/08/2007,Female,Gwynedd,12.9,Leisure,FALSE,TRUE,Attended as a child,N/A,4,5,Transport,5.6,2,1,1,3,4,5,5,4,3,2,1,2
+30/07/2009,Male,Denbighshire,17.7,Water confidence,FALSE,TRUE,School-only lessons,N/A,5,4,Time,4.37,2,2,2,2,4,5,2,7,3,3,2,1
+01/12/1947,Male,Anglesey,13,Leisure,FALSE,TRUE,Attended as a child,N/A,2,4,Confidence,3.77,1,0,6,1,5,8,11,9,2,2,0,1
+20/09/2008,Female,Blaenau Gwent,10.7,Fitness,FALSE,TRUE,Attended as a child,N/A,4,3,Confidence,0,3,1,5,1,5,0,2,4,3,3,0,5
+07/12/1957,Male,Carmarthenshire,12.7,Leisure,FALSE,TRUE,Attended as a child,N/A,1,3,Confidence,0,3,1,2,6,6,5,1,3,1,4,2,2
+08/03/1991,Female,Monmouthshire,18,Leisure,TRUE,FALSE,Never attended lessons,N/A,3,4,Confidence,3.37,1,3,6,3,0,6,6,6,1,2,5,1
+15/02/1960,Female,Cardiff,12.9,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,Time,6.24,3,3,4,2,0,3,2,0,4,2,2,3
+07/12/1972,Female,Newport,13.8,Fitness,FALSE,TRUE,School-only lessons,N/A,3,4,Transport,2.63,3,1,4,5,4,5,5,6,7,4,1,2
+15/12/1998,Male,Blaenau Gwent,18.3,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,Cost,2.52,1,5,4,2,3,1,3,6,0,3,4,1
+10/05/1965,Male,Rhondda Cynon Taf,5.2,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,Cost,4.26,2,4,3,2,3,4,1,5,2,4,2,1
+14/05/1960,Female,Monmouthshire,12.8,Leisure,TRUE,TRUE,School-only lessons,N/A,1,4,Confidence,5.36,3,2,4,9,7,4,3,1,1,3,3,1
+25/05/1961,Prefer not to say,Newport,15.4,Leisure,FALSE,FALSE,Never attended lessons,N/A,3,1,None,6.7,4,2,2,3,3,4,5,3,1,2,1,1
+14/01/2001,Female,Denbighshire,17.2,Fitness,FALSE,TRUE,Attended as a child,N/A,3,2,Transport,2.06,4,3,0,8,2,6,4,8,4,5,2,1
+26/02/1965,Male,Gwynedd,4.2,Leisure,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,2.86,1,3,1,2,5,2,3,4,4,4,2,5
+12/06/1965,Female,Bridgend,9.3,Leisure,FALSE,TRUE,Attended as a child,N/A,4,3,Time,7.2,4,4,2,2,8,2,4,2,2,2,7,0
+06/05/1974,Female,Anglesey,12.4,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,2,None,3.49,5,2,4,3,1,7,7,6,7,4,3,4
+13/11/1971,Female,Merthyr Tydfil,6.1,Fitness,FALSE,TRUE,Attended as a child,N/A,5,3,None,6.31,3,2,4,3,3,4,3,2,5,2,3,4
+26/10/1981,Male,Bridgend,11,Fitness,FALSE,TRUE,Attended as a child,N/A,2,3,Confidence,5.48,0,1,3,3,3,4,8,6,5,3,1,4
+17/09/1953,Female,Denbighshire,5,Leisure,FALSE,TRUE,Currently attending,N/A,3,5,None,5.24,0,4,2,3,5,4,4,7,3,2,0,2
+15/07/2008,Female,Powys,7.3,Fitness,FALSE,TRUE,Attended as a child,N/A,3,3,Cost,2.08,0,2,1,4,4,4,5,9,2,2,0,1
+12/03/1969,Female,Merthyr Tydfil,10.1,Fitness,TRUE,TRUE,Attended as a child,N/A,2,4,Cost,5.43,1,3,2,1,9,4,3,5,6,6,1,4
+30/06/1963,Male,Pembrokeshire,9.8,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,4,Cost,5.46,2,1,1,2,2,4,3,5,2,1,0,0
+07/01/2015,Female,Denbighshire,8.4,Leisure,FALSE,TRUE,Attended as a child,Termly,4,4,Time,5.53,0,1,2,3,4,6,4,6,3,6,0,2
+03/09/1970,Female,Blaenau Gwent,10.6,Fitness,FALSE,TRUE,Never attended lessons,N/A,4,3,Cost,3.91,1,0,4,3,7,5,5,4,3,3,2,1
+28/09/1963,Male,Anglesey,,Fitness,FALSE,TRUE,School-only lessons,N/A,3,4,Confidence,4.19,4,3,6,1,5,5,4,6,4,0,0,3
+23/12/2018,Female,Carmarthenshire,3.3,Leisure,FALSE,TRUE,Attended as a child,Weekly,3,2,Confidence,2.38,0,1,6,4,1,7,4,3,1,7,3,1
+28/03/1955,Female,Denbighshire,1.3,Social,FALSE,TRUE,Attended as a child,N/A,1,4,Transport,3.42,1,4,4,5,3,3,7,10,2,1,4,1
+08/07/2017,Male,Pembrokeshire,3.9,Competitive training,TRUE,TRUE,Private lessons,Weekly,2,3,None,5.46,1,0,3,2,1,6,3,3,0,1,3,0
+27/10/1976,Male,Bridgend,10.7,Leisure,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,3.29,3,3,2,3,2,5,5,4,4,1,3,2
+18/08/1968,Female,Vale of Glamorgan,14.3,Fitness,FALSE,TRUE,Attended as a child,N/A,1,5,Transport,4.11,1,3,0,7,2,2,4,6,4,2,2,2
+11/04/1983,Male,Carmarthenshire,3.5,Fitness,FALSE,TRUE,Private lessons,N/A,4,4,Time,3.71,0,1,3,3,5,5,5,5,6,6,2,4
+22/05/1971,Female,Wrexham,4.5,Social,FALSE,TRUE,School-only lessons,N/A,4,4,Cost,5.55,1,2,4,5,2,3,3,1,8,1,4,0
+19/07/2007,Male,Rhondda Cynon Taf,16.2,Fitness,TRUE,TRUE,Currently attending,N/A,5,4,Time,7.39,3,5,3,7,5,9,11,6,4,2,10,3
+27/01/2010,Female,Wrexham,8.7,Water confidence,FALSE,TRUE,Never attended lessons,Weekly,3,5,None,2.22,2,2,2,1,3,4,5,6,4,2,1,3
+26/08/1993,Male,Merthyr Tydfil,20.1,Leisure,FALSE,TRUE,Attended as a child,N/A,5,3,None,4.32,1,1,4,3,2,6,2,5,2,4,1,2
+27/04/2004,Female,Carmarthenshire,13,Rehabilitation,FALSE,TRUE,Private lessons,N/A,3,5,None,2.37,1,2,2,1,3,5,6,4,3,5,1,2
+30/01/2006,Female,Caerphilly,8.2,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,5,Transport,6.03,0,2,0,4,4,8,2,3,6,4,5,2
+09/12/1960,Female,Newport,5.6,Leisure,TRUE,TRUE,Attended as a child,N/A,5,4,Confidence,6.09,3,1,3,4,5,5,8,6,2,1,4,4
+14/07/2004,Female,Caerphilly,11.6,Leisure,FALSE,TRUE,School-only lessons,N/A,3,4,Cost,6.75,3,2,2,3,5,4,2,1,3,3,2,4
+06/02/1965,Male,Conwy,1.9,Fitness,FALSE,FALSE,Never attended lessons,N/A,1,3,Transport,4.21,1,1,1,2,6,1,4,7,6,2,1,3
+14/10/1968,Female,Torfaen,5.2,Fitness,FALSE,TRUE,Private lessons,N/A,4,3,Cost,6.87,0,0,2,2,4,3,5,2,4,1,2,1
+05/05/1961,Male,Monmouthshire,3.6,Social,FALSE,TRUE,Attended as a child,N/A,5,2,Transport,2.25,3,4,1,1,7,5,2,0,6,2,3,1
+26/03/2000,Male,Cardiff,14.1,Leisure,FALSE,TRUE,Attended as a child,N/A,4,3,None,6.06,1,4,2,3,6,4,4,2,99,3,3,1
+22/05/2014,Male,Cardiff,9.5,Leisure,FALSE,TRUE,Never attended lessons,Termly,3,3,Transport,3.19,1,1,5,3,2,5,4,4,3,4,1,0
+21/01/2011,Male,Denbighshire,0.7,Fitness,TRUE,TRUE,Private lessons,Termly,3,4,Confidence,5.9,2,2,1,3,9,9,4,5,6,4,0,2
+29/08/2022,Female,Pembrokeshire,12.3,Rehabilitation,FALSE,TRUE,Attended as a child,Termly,5,5,Transport,3.42,0,2,6,2,5,3,5,2,4,5,1,2
+24/06/1965,Female,Blaenau Gwent,9.2,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,1,3,Confidence,5.51,1,1,5,3,2,4,2,2,6,3,2,4
+25/11/2022,Male,Merthyr Tydfil,12.2,Leisure,FALSE,TRUE,Currently attending,No provision,3,5,None,5.69,1,2,2,3,5,3,6,3,4,0,4,1
+27/03/1989,Male,Swansea,4.2,Leisure,FALSE,TRUE,Currently attending,N/A,2,5,Transport,3.26,0,0,2,2,3,5,5,3,4,2,4,0
+13/05/1975,Prefer not to say,Pembrokeshire,10.2,Leisure,FALSE,TRUE,School-only lessons,N/A,3,5,Confidence,0.39,1,1,2,6,3,5,6,3,3,1,3,1
+29/04/2022,Male,Carmarthenshire,17.6,Leisure,FALSE,TRUE,Attended as a child,Termly,3,5,Transport,5.48,1,0,5,1,3,4,9,4,2,3,3,2
+20/11/2007,Male,Caerphilly,2.4,Fitness,FALSE,TRUE,Attended as a child,N/A,2,4,Cost,3.94,0,1,4,8,3,5,8,9,2,3,1,1
+27/08/1962,Male,Torfaen,8.3,Social,FALSE,TRUE,School-only lessons,N/A,2,2,Confidence,2.68,1,1,1,1,0,6,3,3,1,2,3,0
+03/05/1959,Female,Bridgend,4.8,Leisure,FALSE,TRUE,Attended as a child,N/A,3,4,None,4.03,2,2,3,3,2,1,4,5,2,0,4,3
+09/03/1960,Female,Ceredigion,4.8,Fitness,FALSE,TRUE,Attended as a child,N/A,2,4,Cost,5.38,1,0,5,8,3,5,9,7,2,4,3,2
+09/08/1954,Male,Powys,9,Leisure,FALSE,TRUE,Never attended lessons,N/A,2,5,Cost,0.15,2,4,2,1,7,6,5,4,2,4,1,2
+01/05/2001,Male,Merthyr Tydfil,17.1,Competitive training,TRUE,TRUE,Private lessons,N/A,4,5,Cost,3.8,3,0,0,0,5,7,6,5,4,1,3,1
+04/05/1956,Female,Monmouthshire,16.5,Fitness,TRUE,TRUE,Attended as a child,N/A,3,4,Time,0,3,1,2,5,5,8,5,11,9,2,2,1
+16/07/1947,Female,Cardiff,4,Fitness,FALSE,TRUE,Currently attending,N/A,3,4,Time,4.54,3,2,1,2,6,5,6,4,5,4,5,2
+21/05/1997,Male,Torfaen,12.4,Leisure,FALSE,TRUE,Attended as a child,N/A,5,3,Confidence,5.91,2,4,2,4,3,4,4,4,3,2,2,2
+03/01/2007,Female,Cardiff,11.6,Fitness,FALSE,TRUE,Never attended lessons,N/A,2,2,Confidence,6.73,1,1,5,2,7,7,0,4,1,2,2,2
+07/11/1972,Male,Anglesey,9.6,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,4,None,5.62,3,2,2,4,2,4,5,4,3,3,3,2
+01/03/1966,Male,Vale of Glamorgan,8.1,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,4,Time,2.51,0,0,1,4,3,4,6,6,4,1,0,0
+28/01/1994,Female,Flintshire,3.9,Competitive training,TRUE,TRUE,Attended as a child,N/A,4,5,None,6.5,1,4,3,4,3,1,2,4,5,4,2,3
+16/11/1954,Male,Swansea,9,Fitness,FALSE,TRUE,Attended as a child,N/A,5,4,None,4.79,0,3,2,5,2,6,7,5,4,3,1,0
+13/07/1976,Female,Rhondda Cynon Taf,8.2,Fitness,FALSE,TRUE,Attended as a child,N/A,5,5,Confidence,2.64,2,1,6,5,3,2,1,7,3,6,3,2
+03/07/1961,Male,Gwynedd,14.4,Social,TRUE,TRUE,Currently attending,N/A,4,4,Confidence,7.18,2,1,4,4,3,9,5,9,5,1,1,1
+15/07/1954,Male,Ceredigion,13.9,Leisure,FALSE,TRUE,Private lessons,N/A,2,5,None,4.7,4,1,2,4,3,2,4,6,1,3,1,2
+23/08/1947,Prefer not to say,Swansea,2.8,Fitness,FALSE,TRUE,Private lessons,N/A,1,3,None,6.61,0,0,1,1,4,3,8,6,5,3,0,3
+14/01/2007,Male,Caerphilly,3.4,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,5,Cost,5.28,1,2,4,3,3,3,3,6,6,2,0,1
+25/03/1975,Female,Conwy,16.4,Leisure,FALSE,FALSE,Never attended lessons,N/A,2,3,Cost,4.21,3,1,4,0,1,3,2,3,5,0,1,2
+02/04/1984,Male,Anglesey,9.9,Leisure,TRUE,TRUE,Attended as a child,N/A,4,3,None,4.22,0,2,4,10,2,5,4,3,2,2,3,2
+29/05/1990,Male,Swansea,15.5,Water confidence,FALSE,TRUE,School-only lessons,N/A,3,3,Transport,5.94,0,1,2,4,3,1,6,7,6,2,1,3
+03/09/2000,Male,Rhondda Cynon Taf,3.1,Water confidence,TRUE,TRUE,Private lessons,N/A,1,5,None,4.2,4,1,6,5,1,4,6,5,7,6,4,2
+18/10/2013,Female,Caerphilly,11,Leisure,FALSE,TRUE,Private lessons,No provision,4,2,Transport,3.88,3,3,1,1,2,4,5,3,6,3,2,1
+28/03/1954,Male,Rhondda Cynon Taf,12.1,Leisure,TRUE,TRUE,Attended as a child,N/A,2,4,Cost,4.88,6,6,3,7,8,1,3,4,4,4,1,1
+10/11/1989,Female,Carmarthenshire,15.6,Leisure,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,5.85,1,3,3,2,0,5,5,6,6,2,3,1
+22/05/1971,Male,Caerphilly,4.5,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,3.77,3,5,3,2,1,4,5,9,2,1,2,1
+01/10/2013,Female,Wrexham,7.7,Fitness,FALSE,FALSE,Never attended lessons,Termly,3,4,Cost,5.24,1,2,4,2,5,6,4,9,4,4,3,5
+08/11/2004,Male,Blaenau Gwent,10.1,Fitness,FALSE,FALSE,Never attended lessons,N/A,3,3,Confidence,5.38,4,3,3,3,2,5,6,5,0,5,4,2
+01/08/1965,Female,Denbighshire,15.7,Fitness,TRUE,TRUE,School-only lessons,N/A,1,4,Time,5.58,1,4,4,6,6,5,2,15,1,4,1,2
+28/05/2022,Female,Bridgend,16.9,Fitness,FALSE,TRUE,Attended as a child,Irregular,3,5,None,3.98,3,3,2,0,5,5,6,4,4,5,4,1
+05/02/1954,Female,Vale of Glamorgan,17.9,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,Transport,4.16,1,3,3,2,4,3,4,11,4,7,4,5
+17/07/2019,Female,Conwy,17.3,Leisure,FALSE,TRUE,Never attended lessons,Weekly,5,5,Confidence,3.6,0,1,5,3,4,4,7,6,2,1,1,1
+11/11/2007,Female,Carmarthenshire,0.6,Competitive training,TRUE,TRUE,School-only lessons,N/A,3,4,Confidence,2.28,2,2,4,0,8,3,10,10,4,4,4,2
+16/05/1999,Female,Wrexham,4.2,Leisure,FALSE,TRUE,Attended as a child,N/A,3,3,Confidence,3.97,2,3,3,4,4,7,4,5,2,4,3,1
+28/06/2021,Male,Anglesey,3.1,Fitness,FALSE,TRUE,Currently attending,Irregular,4,4,Confidence,4.57,0,3,2,6,3,4,8,10,4,6,3,1
+07/05/1991,Male,Vale of Glamorgan,6.6,Fitness,FALSE,TRUE,School-only lessons,N/A,5,5,Cost,3.97,1,1,0,3,1,6,6,10,1,2,1,1
+01/01/1999,Female,Ceredigion,15,Leisure,FALSE,TRUE,Attended as a child,N/A,2,3,Cost,7.33,1,0,3,3,0,5,6,2,4,4,1,1
+18/04/2011,Female,Blaenau Gwent,18.7,Fitness,FALSE,TRUE,Attended as a child,Weekly,3,4,Cost,2.51,2,1,2,6,1,2,4,4,1,2,2,1
+21/09/1973,Female,Vale of Glamorgan,,Leisure,FALSE,TRUE,Never attended lessons,N/A,4,2,Cost,5.35,3,0,3,5,3,4,10,2,4,0,0,1
+12/08/1988,Male,Carmarthenshire,11.3,Water confidence,FALSE,TRUE,Private lessons,N/A,3,4,Time,5.43,2,1,1,2,1,4,2,3,5,0,1,2
+26/10/1990,Male,Merthyr Tydfil,18.9,Fitness,FALSE,TRUE,Private lessons,N/A,2,5,Cost,2.45,3,5,4,1,4,4,1,2,1,3,6,2
+03/03/1990,Male,Pembrokeshire,8.6,Fitness,FALSE,TRUE,Private lessons,N/A,3,2,None,7.18,5,2,2,2,2,2,7,6,5,3,0,1
+04/09/1962,Female,Wrexham,4.6,Leisure,FALSE,TRUE,Attended as a child,N/A,2,4,None,5.91,1,1,2,4,5,4,8,3,0,4,0,1
+27/06/1972,Male,Swansea,8.5,Water confidence,FALSE,TRUE,Attended as a child,N/A,3,5,None,4.81,0,2,2,1,3,9,7,6,0,3,1,1
+22/03/1980,Male,Powys,7.8,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,3,None,5.86,2,3,1,2,2,7,6,8,2,3,2,4
+06/05/2011,Female,Merthyr Tydfil,13.4,Social,TRUE,FALSE,Never attended lessons,Weekly,4,4,Transport,3.71,2,1,2,4,2,6,6,8,8,2,4,2
+03/11/1956,Male,Anglesey,8.2,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,Confidence,5.38,3,0,3,1,3,2,13,7,6,2,3,0
+26/11/1958,Female,Newport,0.8,Water confidence,FALSE,TRUE,Attended as a child,N/A,2,5,Cost,0.48,1,0,3,2,4,6,7,3,1,1,3,2
+09/03/1990,Male,Flintshire,17.9,Fitness,FALSE,TRUE,Attended as a child,N/A,2,3,None,5.59,2,6,4,5,2,4,3,2,5,2,1,1
+24/08/1983,Female,Pembrokeshire,10,Fitness,FALSE,TRUE,Private lessons,N/A,4,3,None,3.89,2,4,2,0,2,1,2,5,4,4,0,2
+25/05/1949,Male,Caerphilly,10,Social,FALSE,TRUE,Attended as a child,N/A,2,3,None,5.72,2,4,1,5,6,2,2,5,5,4,3,4
+10/01/1980,Male,Monmouthshire,17.2,Social,FALSE,TRUE,Never attended lessons,N/A,3,5,Transport,3.72,2,3,3,5,5,8,7,5,1,2,1,1
+02/03/1979,Male,Gwynedd,3.2,Fitness,FALSE,TRUE,Attended as a child,N/A,2,5,Time,5.51,1,2,-2,3,3,3,6,3,2,4,3,0
+26/08/1994,Male,Swansea,3.8,Fitness,FALSE,TRUE,School-only lessons,N/A,4,4,Cost,6.41,1,0,1,2,6,4,2,2,6,5,1,0
+03/07/2010,Male,Wrexham,16.1,Fitness,FALSE,TRUE,Attended as a child,Weekly,3,4,Cost,3.38,0,4,2,1,2,5,4,1,3,6,6,3
+19/08/2011,Male,Ceredigion,5.1,Fitness,FALSE,TRUE,Never attended lessons,Irregular,3,3,Time,6.14,4,4,4,2,7,3,3,2,5,4,2,2
+04/12/1977,Female,Denbighshire,14.5,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Transport,3.92,2,0,4,3,2,6,5,10,7,1,6,2
+16/01/2021,Male,Caerphilly,5.9,Water confidence,TRUE,TRUE,Currently attending,Weekly,4,4,None,4.89,1,3,3,4,3,12,7,9,5,3,3,2
+06/02/1988,Female,Swansea,1.1,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,Cost,4.75,1,1,1,0,3,5,2,6,5,0,0,1
+01/07/2015,Female,Flintshire,9.5,Competitive training,TRUE,TRUE,Private lessons,Weekly,4,4,None,5.51,0,1,2,0,5,5,11,5,4,2,3,0
+23/04/1997,Female,Cardiff,3.9,Competitive training,TRUE,TRUE,School-only lessons,N/A,4,4,Confidence,6.18,0,0,2,4,4,3,3,9,3,2,0,2
+29/04/1949,Male,Caerphilly,14.9,Leisure,TRUE,TRUE,Private lessons,N/A,5,4,None,4.3,4,5,3,6,6,2,0,4,4,9,4,2
+26/02/1989,Male,Gwynedd,11.7,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,3,None,4.22,2,1,8,1,5,6,7,5,4,1,2,5
+27/03/2016,Male,Newport,16.7,Leisure,FALSE,TRUE,Attended as a child,Weekly,5,4,None,4.79,2,2,4,3,6,2,2,2,2,3,3,0
+13/06/1955,Male,Swansea,14.2,Fitness,FALSE,TRUE,Never attended lessons,N/A,1,3,Transport,6.34,0,2,4,5,1,4,4,3,3,6,1,2
+18/03/1965,Prefer not to say,Bridgend,3.7,Leisure,FALSE,TRUE,School-only lessons,N/A,3,4,None,3.97,2,0,3,4,1,5,3,5,2,3,1,3
+30/2/1948,Male,Denbighshire,14.5,Leisure,FALSE,TRUE,Attended as a child,N/A,4,2,Cost,4.53,0,1,2,4,3,4,6,2,1,5,3,1
+15/09/1994,Female,Newport,11.7,Competitive training,TRUE,TRUE,Never attended lessons,N/A,2,3,Cost,5.76,1,2,5,3,2,6,9,6,3,0,2,3
+11/11/1987,Female,Powys,13.8,Water confidence,FALSE,TRUE,Currently attending,N/A,2,5,Transport,4.04,3,4,4,2,3,6,7,5,7,3,1,4
+02/10/2002,Female,Swansea,15.1,Leisure,FALSE,TRUE,Attended as a child,N/A,3,4,None,6.22,1,3,3,2,6,1,3,6,0,1,0,2
+23/03/1987,Female,Newport,10.5,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,4,Confidence,4.94,0,0,2,1,3,9,4,5,4,0,5,1
+05/06/2013,Male,Denbighshire,8.7,Fitness,FALSE,TRUE,Attended as a child,No provision,3,5,None,2.25,3,1,1,4,7,4,1,1,7,1,2,2
+17/08/1950,Male,Cardiff,11.6,Competitive training,TRUE,TRUE,Attended as a child,N/A,4,4,Time,5.68,6,1,2,4,4,0,1,5,4,4,3,1
+09/06/1999,Female,Anglesey,5.7,Fitness,FALSE,TRUE,Private lessons,N/A,4,5,Cost,2.55,2,2,8,3,5,8,5,6,5,4,3,2
+02/02/1959,Male,Conwy,3.7,Fitness,FALSE,TRUE,Attended as a child,N/A,3,2,None,4.08,0,3,4,2,5,5,3,3,7,3,2,3
+28/09/1974,Male,Vale of Glamorgan,11.3,Fitness,FALSE,TRUE,Attended as a child,N/A,2,5,Cost,5.95,0,4,0,5,3,5,3,6,5,2,3,1
+16/06/1987,Male,Wrexham,6.8,Leisure,FALSE,TRUE,Attended as a child,N/A,5,5,None,3.62,5,0,4,3,4,4,4,4,4,2,1,0
+30/03/1999,Male,Caerphilly,3.2,Fitness,FALSE,TRUE,Currently attending,N/A,2,5,Transport,7.35,1,2,3,2,3,4,7,6,6,1,2,2
+26/10/2000,Male,Anglesey,0.5,Social,FALSE,TRUE,Private lessons,N/A,2,3,Confidence,7.71,3,2,2,5,0,4,4,5,4,3,1,2
+27/06/1961,Male,Wrexham,13.5,Fitness,FALSE,TRUE,Attended as a child,N/A,1,4,Transport,3.89,1,3,2,3,1,2,9,6,3,1,4,2
+13/11/1986,Female,Wrexham,9.7,Social,FALSE,TRUE,Attended as a child,N/A,3,3,Cost,0,1,2,1,4,2,6,6,6,2,4,1,1
+12/11/2011,Female,Monmouthshire,13.7,Rehabilitation,FALSE,TRUE,Never attended lessons,Weekly,2,4,Transport,5.38,1,1,3,2,0,2,8,5,1,1,1,1
+08/07/1968,Female,Rhondda Cynon Taf,9.5,Fitness,FALSE,TRUE,School-only lessons,N/A,2,5,Cost,4,4,2,0,5,4,5,8,6,2,2,2,1
+27/03/2010,Male,Flintshire,9,Leisure,FALSE,TRUE,Attended as a child,Termly,3,4,Cost,2.67,4,3,6,6,1,4,4,9,3,2,3,2
+22/03/2000,Male,Merthyr Tydfil,8.7,Rehabilitation,TRUE,TRUE,Currently attending,N/A,2,4,Cost,5.32,3,1,7,2,5,6,7,8,1,2,3,1
+14/11/1993,Male,Carmarthenshire,11.9,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,5,Confidence,0.47,1,0,1,5,5,4,4,9,3,4,1,1
+04/08/2006,Female,Monmouthshire,6.7,Leisure,FALSE,TRUE,Attended as a child,N/A,4,4,Time,5.17,1,0,8,4,5,3,6,4,1,2,5,0
+02/11/1961,Female,Caerphilly,19.5,Leisure,FALSE,TRUE,Attended as a child,N/A,4,5,Confidence,1.98,2,2,5,2,3,6,9,4,8,5,2,4
+06/03/2010,Male,Powys,18.1,Leisure,FALSE,TRUE,School-only lessons,Termly,2,5,None,2.83,3,0,3,6,5,2,3,2,5,4,2,0
+19/08/1964,Female,Conwy,15.3,Water confidence,FALSE,TRUE,Attended as a child,N/A,2,2,Confidence,1.82,0,3,3,0,9,9,3,1,3,1,2,0
+12/01/2004,Male,Bridgend,16.6,Fitness,FALSE,TRUE,School-only lessons,N/A,5,4,Time,6.94,6,2,4,2,3,6,7,5,5,2,2,0
+06/05/1974,Female,Cardiff,8.4,Leisure,FALSE,TRUE,Attended as a child,N/A,1,3,Time,7.14,5,2,4,1,4,8,5,3,2,0,1,2
+23/12/2011,Female,Torfaen,10.8,Fitness,FALSE,TRUE,Attended as a child,Weekly,4,4,Transport,5.5,2,3,2,3,4,5,3,0,2,4,3,1
+23/04/1962,Female,Blaenau Gwent,15.6,Competitive training,TRUE,TRUE,Never attended lessons,N/A,2,5,Time,3.66,2,0,1,2,2,5,4,1,2,3,0,0
+23/09/2004,Female,Conwy,12.7,Competitive training,TRUE,TRUE,Private lessons,N/A,5,5,Cost,3.98,1,0,2,5,1,3,3,5,4,2,4,1
+02/02/1947,Female,Denbighshire,16.1,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,None,3.98,2,1,7,2,3,4,2,6,7,3,1,1
+02/07/2014,Male,Flintshire,13,Fitness,FALSE,TRUE,School-only lessons,Termly,3,4,Time,4.05,1,2,2,5,4,4,1,1,4,2,2,5
+04/02/1952,Female,Anglesey,18,Fitness,FALSE,TRUE,School-only lessons,N/A,4,3,Cost,5.7,4,4,1,5,4,3,0,3,4,4,1,3
+03/07/1995,Male,Denbighshire,6.6,Leisure,FALSE,TRUE,School-only lessons,N/A,3,4,Time,5.19,2,2,1,2,1,4,4,6,3,2,1,3
+30/03/1971,Female,Neath Port Talbot,15.1,Leisure,FALSE,TRUE,Attended as a child,N/A,3,3,Cost,4.51,1,1,5,2,4,4,5,5,4,2,6,1
+30/12/2007,Female,Carmarthenshire,12.7,Water confidence,FALSE,TRUE,Currently attending,N/A,3,4,Cost,7.07,1,1,5,1,5,2,5,7,4,1,2,5
+12/07/1954,Female,Monmouthshire,12.6,Leisure,FALSE,TRUE,Private lessons,N/A,4,2,Cost,2.72,1,0,2,3,5,7,2,2,2,2,5,0
+14/11/2011,Male,Torfaen,7.3,Fitness,FALSE,FALSE,Never attended lessons,Termly,1,3,Time,6.81,2,3,8,4,5,5,2,6,6,7,3,1
+05/02/1998,Female,Bridgend,14.2,Social,FALSE,TRUE,Attended as a child,N/A,1,3,Time,0.39,2,1,5,4,1,4,3,9,5,3,2,1
+28/06/1971,Female,Vale of Glamorgan,16.3,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,5,None,3.92,1,1,3,2,3,5,3,4,3,5,3,1
+15/08/1970,Female,Flintshire,4.3,Leisure,FALSE,TRUE,Attended as a child,N/A,2,5,Cost,4.08,0,2,3,3,2,5,2,1,1,3,1,3
+25/07/2000,Male,Denbighshire,11.4,Fitness,TRUE,FALSE,Never attended lessons,N/A,3,3,Confidence,3.72,0,3,1,7,3,0,4,9,2,3,6,1
+10/01/2007,Male,Vale of Glamorgan,7.4,Leisure,FALSE,TRUE,Never attended lessons,N/A,2,3,Time,5.2,2,7,4,2,2,2,8,0,4,8,0,0
+26/04/1966,Male,Carmarthenshire,17.8,Social,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,4.21,0,4,2,2,1,8,9,7,4,7,3,1
+22/01/1984,Male,Merthyr Tydfil,11,Leisure,FALSE,TRUE,Attended as a child,N/A,2,3,Confidence,3.87,1,2,0,2,1,4,4,3,2,2,0,1
+05/06/1970,Female,Carmarthenshire,4.5,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,5.24,1,2,1,6,4,5,1,4,3,5,2,0
+11/07/1981,Male,Powys,8.5,Leisure,FALSE,TRUE,Never attended lessons,N/A,2,5,Cost,5.31,2,1,1,5,7,7,3,7,2,4,0,1
+02/06/1965,Female,Rhondda Cynon Taf,14,Social,FALSE,TRUE,Attended as a child,N/A,1,4,Confidence,5.71,3,1,2,1,3,5,5,6,2,3,1,2
+27/04/1984,Male,Anglesey,1.8,Fitness,TRUE,TRUE,Never attended lessons,N/A,1,4,Time,3.81,1,1,3,4,4,7,12,3,5,4,4,6
+06/04/2009,Male,Merthyr Tydfil,12.3,Leisure,FALSE,TRUE,Attended as a child,N/A,5,4,Cost,5.46,4,2,1,1,4,2,3,5,3,4,3,0
+20/01/2018,Female,Monmouthshire,16.8,Water confidence,FALSE,TRUE,Attended as a child,Weekly,2,5,Cost,5.5,0,1,3,5,5,5,6,4,4,2,4,1
+22/07/1988,Female,Pembrokeshire,15.4,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,Cost,3.42,1,2,3,4,3,6,3,3,2,3,4,1
+28/08/1948,Female,Wrexham,3.2,Rehabilitation,FALSE,TRUE,Currently attending,N/A,1,4,Cost,3.56,2,1,2,0,3,3,4,3,5,2,2,1
+16/07/2005,Female,Blaenau Gwent,20,Leisure,FALSE,TRUE,Attended as a child,N/A,2,4,Cost,4.1,3,1,3,2,2,5,6,6,0,6,7,1
+09/06/1947,Female,Bridgend,12.7,Leisure,FALSE,TRUE,Private lessons,N/A,3,4,Transport,2.28,2,2,5,3,0,3,6,4,3,1,2,0
+28/11/2014,Male,Conwy,3.3,Fitness,FALSE,TRUE,Attended as a child,No provision,3,3,Time,4.32,4,0,4,4,5,6,6,5,3,0,3,0
+28/10/1949,Prefer not to say,Powys,1.8,Fitness,FALSE,TRUE,Attended as a child,N/A,5,4,Transport,2.79,2,3,6,4,6,8,2,5,4,2,3,4
+09/07/1965,Female,Newport,3.5,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,5,4,Time,6.42,2,3,2,2,4,4,2,6,3,4,1,3
+26/06/2006,Female,Pembrokeshire,,Fitness,FALSE,TRUE,Never attended lessons,N/A,4,3,Time,6.05,0,6,3,2,5,5,4,4,7,8,5,0
+18/02/2016,Male,Newport,0.9,Leisure,FALSE,TRUE,Currently attending,Termly,3,3,Cost,7.68,0,2,1,2,3,4,3,5,2,1,4,2
+14/05/1977,Female,Flintshire,4.6,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,5.69,0,1,2,0,6,4,5,4,2,4,0,2
+25/08/2010,Male,Carmarthenshire,13.8,Fitness,FALSE,TRUE,Attended as a child,Irregular,3,5,None,2.32,1,7,6,3,6,4,3,2,4,6,1,3
+22/11/1983,Male,Merthyr Tydfil,12.7,Water confidence,TRUE,TRUE,Never attended lessons,N/A,5,4,Cost,6.24,1,5,6,4,6,8,2,6,5,5,3,2
+21/07/1981,Male,Neath Port Talbot,14.2,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,5,Cost,6.1,0,4,2,4,2,7,3,6,2,2,2,0
+24/12/2014,Male,Rhondda Cynon Taf,16.3,Water confidence,FALSE,TRUE,School-only lessons,Weekly,3,4,Cost,4,4,2,0,4,4,3,4,4,6,1,2,1
+20/09/1973,Female,Conwy,1.4,Fitness,FALSE,TRUE,Currently attending,N/A,2,4,Confidence,5.62,2,2,3,4,3,8,4,2,1,2,1,1
+29/04/1996,Female,Newport,16.1,Leisure,FALSE,TRUE,Never attended lessons,N/A,1,4,Confidence,8.11,1,1,4,4,6,1,3,0,1,8,2,3
+04/07/1957,Female,Pembrokeshire,4.5,Fitness,FALSE,TRUE,Attended as a child,N/A,5,4,None,3.96,2,2,3,4,2,6,8,7,3,5,1,1
+10/11/2018,Male,Cardiff,10.2,Competitive training,TRUE,TRUE,Attended as a child,Weekly,3,2,None,7.5,2,5,0,0,2,9,12,9,5,1,2,1
+19/11/1994,Male,Flintshire,11.8,Competitive training,TRUE,TRUE,Private lessons,N/A,3,4,Transport,2.76,5,1,4,2,4,8,10,5,1,3,2,3
+10/02/1986,Male,Bridgend,3.5,Fitness,FALSE,TRUE,Never attended lessons,N/A,2,4,Transport,2.52,0,2,2,3,4,2,3,4,2,0,5,4
+03/09/1985,Prefer not to say,Vale of Glamorgan,17.6,Social,FALSE,TRUE,Attended as a child,N/A,4,4,Transport,4.05,0,2,1,5,1,4,6,5,1,4,1,3
+28/12/2015,Male,Torfaen,11.9,Fitness,FALSE,TRUE,School-only lessons,No provision,1,5,Cost,5.25,2,2,5,4,5,8,3,8,5,2,3,1
+20/08/1958,Female,Cardiff,1.5,Leisure,FALSE,TRUE,Never attended lessons,N/A,4,3,Cost,5.68,2,2,1,4,4,3,9,5,3,5,2,4
+17/11/2006,Female,Rhondda Cynon Taf,19,Water confidence,FALSE,TRUE,Attended as a child,N/A,2,4,Cost,7.07,1,1,0,4,3,6,4,4,2,5,2,1
+20/02/1952,Male,Bridgend,10.8,Social,FALSE,TRUE,School-only lessons,N/A,4,4,Cost,4.27,1,1,0,3,3,3,9,6,4,4,1,1
+11/08/1978,Female,Merthyr Tydfil,15.6,Water confidence,FALSE,TRUE,Attended as a child,N/A,4,5,Cost,0,2,0,0,3,3,3,3,7,2,0,1,3
+09/11/2019,Male,Ceredigion,9.7,Fitness,FALSE,TRUE,Attended as a child,Weekly,2,4,Transport,5.93,2,3,4,0,1,3,6,4,4,2,3,1
+12/06/1987,Female,Monmouthshire,15.1,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,5,None,5.29,1,4,2,1,1,4,6,5,5,3,1,1
+15/09/1953,Female,Gwynedd,1.1,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,5,Confidence,2.18,3,4,0,7,5,3,1,3,5,3,2,2
+25/10/1992,Male,Flintshire,5.2,Leisure,TRUE,TRUE,Attended as a child,N/A,2,4,None,3.98,3,6,3,4,7,4,5,7,7,3,4,0
+01/08/2004,Male,Wrexham,10.6,Competitive training,TRUE,TRUE,School-only lessons,N/A,4,4,Transport,5.48,3,1,3,3,2,4,5,3,3,5,3,2
+15/04/1962,Female,Neath Port Talbot,1.8,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Confidence,5.73,1,0,3,6,3,9,6,2,5,1,2,0
+05/07/1969,Female,Caerphilly,13.4,Leisure,FALSE,TRUE,Currently attending,N/A,3,5,Transport,3.77,0,2,3,1,2,7,5,2,2,2,2,1
+05/05/1984,Male,Newport,7.4,Fitness,FALSE,TRUE,School-only lessons,N/A,2,2,Cost,5.11,3,0,4,6,3,3,2,5,4,3,3,1
+29/12/1949,Female,Newport,5.3,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,8.29,4,3,4,6,6,11,6,7,3,4,1,0
+04/10/2004,Female,Anglesey,0.6,Leisure,FALSE,TRUE,Never attended lessons,N/A,4,4,None,5.49,0,0,1,4,5,6,4,3,3,2,2,1
+15/06/1984,Female,Merthyr Tydfil,14.5,Leisure,FALSE,TRUE,Attended as a child,N/A,3,4,None,4.37,2,3,1,3,5,3,6,3,2,2,0,1
+09/03/1956,Male,Swansea,15.1,Competitive training,TRUE,TRUE,School-only lessons,N/A,5,4,Cost,4.38,2,1,1,4,0,7,6,2,1,2,2,1
+25/07/1978,Female,Carmarthenshire,7.4,Fitness,FALSE,TRUE,Private lessons,N/A,5,4,Cost,5.82,2,3,1,2,3,1,2,1,4,6,2,5
+02/10/2010,Female,Blaenau Gwent,10.9,Competitive training,TRUE,TRUE,Never attended lessons,No provision,2,3,Transport,4.31,1,0,1,4,2,4,3,5,3,3,3,2
+19/09/1965,Male,Vale of Glamorgan,4.5,Fitness,FALSE,TRUE,Currently attending,N/A,2,4,Cost,2.76,4,1,3,2,6,2,9,4,5,4,3,0
+25/10/2003,Male,Carmarthenshire,11.4,Fitness,FALSE,TRUE,Attended as a child,N/A,4,4,Transport,4,0,0,2,9,2,5,5,1,4,4,6,3
+01/04/1951,Female,Cardiff,0.7,Leisure,TRUE,TRUE,School-only lessons,N/A,3,5,Cost,3.81,3,1,1,2,3,4,11,5,2,1,4,3
+12/09/1962,Male,Blaenau Gwent,11.4,Social,TRUE,FALSE,Never attended lessons,N/A,1,3,Confidence,5.31,3,2,1,4,3,5,4,4,3,3,6,0
+06/08/1984,Female,Denbighshire,11.8,Fitness,TRUE,TRUE,Attended as a child,N/A,2,5,Transport,2.31,2,4,0,1,5,7,4,9,3,2,2,1
+17/09/2022,Female,Gwynedd,16.6,Fitness,FALSE,TRUE,School-only lessons,Irregular,3,4,Transport,5.21,6,2,7,7,4,1,5,3,2,5,0,6
+22/09/2020,Male,Pembrokeshire,7.2,Leisure,FALSE,TRUE,Attended as a child,Termly,4,2,Cost,4.04,1,3,2,2,2,6,5,2,3,2,1,2
+08/06/1961,Female,Carmarthenshire,13.9,Fitness,FALSE,TRUE,Attended as a child,N/A,2,5,Transport,0,1,1,3,3,1,4,7,4,5,7,0,2
+26/04/1960,Male,Swansea,11,Competitive training,TRUE,TRUE,Never attended lessons,N/A,2,2,None,2.95,0,4,3,4,2,7,9,7,1,1,4,1
+16/09/1998,Female,Vale of Glamorgan,16.7,Competitive training,TRUE,TRUE,Attended as a child,N/A,5,5,Transport,6.68,3,4,2,2,5,4,2,2,0,2,2,2
+18/06/1967,Male,Powys,8.8,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,None,5.29,1,2,2,3,5,6,8,8,2,4,1,0
+02/05/1990,Female,Cardiff,6.1,Leisure,FALSE,TRUE,School-only lessons,N/A,3,4,None,5.04,1,1,6,4,4,6,3,1,6,4,0,2
+24/06/1985,Male,Newport,16,Competitive training,TRUE,TRUE,Attended as a child,N/A,4,3,None,6,1,0,0,4,5,2,6,4,2,2,0,0
+23/03/2017,Male,Blaenau Gwent,2.5,Fitness,FALSE,TRUE,Attended as a child,No provision,3,4,Time,5.35,3,0,3,2,4,7,7,5,1,3,3,3
+25/12/1965,Female,Newport,2.9,Leisure,FALSE,TRUE,Currently attending,N/A,4,4,Time,7.56,1,1,3,3,4,3,6,6,2,1,1,0
+16/10/1979,Male,Cardiff,1.9,Fitness,TRUE,TRUE,Never attended lessons,N/A,3,4,None,4.8,1,3,3,3,7,7,10,6,3,4,1,1
+17/03/1978,Female,Ceredigion,15.3,Leisure,TRUE,TRUE,Attended as a child,N/A,2,4,Cost,5.64,0,1,4,5,5,5,8,4,5,3,2,0
+25/12/1991,Male,Swansea,0.7,Fitness,TRUE,TRUE,Currently attending,N/A,4,4,Confidence,2.29,1,4,3,5,3,6,9,7,2,5,1,1
+23/02/1978,Female,Pembrokeshire,15.6,Competitive training,TRUE,TRUE,School-only lessons,N/A,3,3,None,4.31,5,1,2,5,1,2,6,7,3,5,0,2
+16/06/1962,Male,Cardiff,8.4,Fitness,FALSE,TRUE,Attended as a child,N/A,5,5,Time,8.13,0,1,4,4,5,6,6,16,3,0,0,3
+18/10/1976,Female,Anglesey,0.6,Fitness,FALSE,TRUE,Currently attending,N/A,3,5,None,3.68,2,2,2,3,3,3,7,5,3,3,3,1
+27/03/2002,Male,Anglesey,7.5,Competitive training,TRUE,TRUE,Never attended lessons,N/A,5,3,Time,3.71,1,1,3,3,2,6,5,4,7,4,3,0
+13/03/1948,Male,Blaenau Gwent,5.7,Fitness,FALSE,TRUE,School-only lessons,N/A,5,5,None,2.36,1,3,5,1,3,2,4,7,4,3,2,3
+17/01/1987,Male,Conwy,11.4,Leisure,FALSE,TRUE,Never attended lessons,N/A,2,3,Time,5.27,1,1,3,2,1,7,6,7,0,1,1,1
+06/05/2004,Male,Carmarthenshire,12.4,Fitness,TRUE,TRUE,Private lessons,N/A,4,2,Time,5.57,2,2,3,5,5,10,10,1,4,1,1,2
+06/08/2003,Female,Ceredigion,9,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Confidence,3.42,3,0,1,5,6,4,3,6,6,2,2,3
+20/04/1966,Male,Cardiff,1.2,Social,FALSE,TRUE,School-only lessons,N/A,5,4,None,7.36,0,2,2,5,6,6,3,2,2,3,2,2
+12/03/2005,Female,Carmarthenshire,12,Competitive training,TRUE,TRUE,Currently attending,N/A,3,4,None,0.46,0,3,1,5,0,7,4,6,3,0,1,1
+09/01/1976,Male,Anglesey,15.2,Fitness,FALSE,TRUE,Private lessons,N/A,4,5,None,3.72,0,7,1,3,4,5,6,9,4,0,2,3
+21/01/1974,Male,Caerphilly,14.8,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,3,5,Time,7.37,3,2,4,5,2,7,6,6,5,3,4,1
+19/06/2009,Female,Gwynedd,15,Leisure,FALSE,TRUE,Attended as a child,N/A,2,4,Transport,4.11,1,3,2,4,5,5,4,2,11,4,3,4
+17/05/2008,Female,Blaenau Gwent,6.9,Social,FALSE,TRUE,Attended as a child,N/A,2,5,Cost,3.46,3,0,4,4,2,4,1,9,4,3,4,1
+14/12/1992,Male,Bridgend,16.1,Fitness,FALSE,TRUE,Private lessons,N/A,3,3,None,4.19,2,3,4,4,1,7,4,5,3,2,2,0
+14/01/2022,Male,Newport,6.1,Leisure,FALSE,TRUE,Never attended lessons,Irregular,4,3,Confidence,6.16,1,3,0,4,0,5,2,8,1,1,1,0
+27/08/1969,Male,Anglesey,0.7,Leisure,TRUE,TRUE,School-only lessons,N/A,3,5,Transport,2.36,1,0,3,3,5,4,2,7,3,1,2,4
+06/05/2020,Female,Gwynedd,15.3,Leisure,TRUE,TRUE,School-only lessons,No provision,3,4,Cost,7.07,1,5,1,4,9,9,9,4,2,0,1,0
+19/06/2007,Female,Rhondda Cynon Taf,19.7,Leisure,FALSE,TRUE,Attended as a child,N/A,2,4,None,5.64,0,1,2,2,3,2,4,2,5,3,1,1
+11/04/1966,Male,Cardiff,12,Fitness,TRUE,TRUE,Private lessons,N/A,3,4,None,3.41,1,4,4,5,8,8,4,9,5,4,4,2
+22/09/1948,Female,Bridgend,4.6,Competitive training,TRUE,TRUE,Attended as a child,N/A,1,4,None,5.85,0,3,2,1,8,5,8,7,3,3,2,3
+02/05/2011,Female,Rhondda Cynon Taf,7.1,Leisure,FALSE,TRUE,Attended as a child,No provision,4,3,Confidence,4.12,2,2,2,5,4,5,4,2,3,0,1,0
+11/12/1949,Female,Merthyr Tydfil,10,Water confidence,FALSE,TRUE,Attended as a child,N/A,5,4,Transport,3.59,1,5,5,1,3,6,6,2,5,4,2,2
+29/04/2007,Female,Monmouthshire,16.2,Fitness,FALSE,TRUE,Attended as a child,N/A,3,3,Transport,5.36,3,4,1,3,3,12,5,3,3,3,3,1
+02/11/1951,Male,Powys,4.2,Rehabilitation,FALSE,TRUE,Currently attending,N/A,1,2,Cost,7.88,5,3,3,3,2,2,3,4,0,1,1,2
+07/03/1947,Male,Merthyr Tydfil,16.2,Social,FALSE,TRUE,Attended as a child,N/A,2,4,None,2.72,0,3,2,1,4,8,3,3,4,1,0,3
+03/10/1999,Male,Powys,7.6,Leisure,FALSE,TRUE,Attended as a child,N/A,3,3,Cost,4.71,1,1,3,3,3,5,3,6,3,3,3,1
+28/02/1995,Male,Bridgend,14.7,Social,FALSE,TRUE,Currently attending,N/A,3,5,Confidence,4.42,1,0,7,4,2,5,4,3,2,4,2,0
+12/04/2015,Female,Flintshire,16.6,Competitive training,TRUE,TRUE,Currently attending,Weekly,4,2,Confidence,4.07,0,2,7,2,1,3,6,9,3,2,0,0
+15/12/1987,Female,Merthyr Tydfil,9.7,Fitness,FALSE,FALSE,Never attended lessons,N/A,2,2,Confidence,4.09,1,3,1,4,1,7,6,4,2,1,2,0
+27/02/2015,Male,Conwy,6.9,Leisure,FALSE,TRUE,School-only lessons,Termly,4,4,None,2.49,3,1,4,3,4,4,5,8,4,1,2,0
+27/02/1965,Male,Powys,17.5,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,4.98,1,2,4,6,7,2,9,3,2,2,1,2
+13/09/1963,Male,Merthyr Tydfil,10.4,Leisure,TRUE,TRUE,Attended as a child,N/A,3,2,Time,4.01,1,0,1,3,9,3,7,6,5,4,4,1
+24/04/1973,Female,Powys,15.4,Fitness,FALSE,TRUE,Attended as a child,N/A,3,2,Cost,2.86,4,0,3,3,1,8,3,3,4,3,0,1
+03/07/1995,Male,Monmouthshire,11.4,Rehabilitation,TRUE,TRUE,Attended as a child,N/A,2,5,Cost,5.32,1,3,2,5,4,5,9,14,2,6,3,2
+26/03/1982,Female,Anglesey,3.2,Leisure,FALSE,TRUE,School-only lessons,N/A,3,4,Transport,5.62,1,2,5,4,3,4,4,1,6,1,1,4
+16/07/1959,Male,Merthyr Tydfil,16.9,Leisure,TRUE,TRUE,Attended as a child,N/A,4,4,Cost,4.26,3,2,6,1,4,7,9,6,3,3,3,3
+09/01/1996,Male,Merthyr Tydfil,5.6,Fitness,FALSE,TRUE,Currently attending,N/A,3,4,Time,3.73,2,1,1,3,2,6,6,4,2,4,0,0
+19/01/1960,Prefer not to say,Swansea,16.8,Water confidence,FALSE,TRUE,Never attended lessons,N/A,4,4,Confidence,6.06,6,3,2,5,1,3,0,2,3,4,4,5
+09/12/2006,Female,Conwy,4.9,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,3.69,2,1,6,8,5,1,8,1,5,4,0,1
+10/05/1950,Male,Cardiff,13.3,Fitness,FALSE,TRUE,School-only lessons,N/A,2,4,Cost,4.45,1,2,0,8,5,3,1,5,4,1,4,5
+09/11/1990,Female,Monmouthshire,5.5,Fitness,FALSE,TRUE,Private lessons,N/A,3,5,Confidence,5.11,2,0,2,3,0,6,4,11,1,2,1,2
+21/09/1994,Female,Swansea,6.1,Water confidence,FALSE,TRUE,Attended as a child,N/A,3,3,None,0.43,2,2,3,8,1,4,5,2,6,3,0,2
+08/02/2010,Female,Rhondda Cynon Taf,8.7,Water confidence,FALSE,TRUE,Attended as a child,Weekly,3,5,Transport,2.93,2,1,3,1,4,2,2,7,5,1,3,1
+01/08/1977,Male,Newport,13.6,Leisure,FALSE,TRUE,Attended as a child,N/A,2,3,Confidence,0.43,1,2,2,6,3,5,7,7,3,5,2,1
+24/09/1988,Female,Pembrokeshire,10.2,Social,FALSE,TRUE,Attended as a child,N/A,3,3,Time,2.54,0,3,2,4,4,7,7,4,4,1,2,2
+10/07/2017,Male,Anglesey,16,Fitness,TRUE,TRUE,Private lessons,Weekly,1,2,Confidence,2.35,2,2,4,4,5,5,5,9,4,6,2,3
+06/03/1954,Female,Newport,5.9,Water confidence,FALSE,TRUE,Private lessons,N/A,1,3,Cost,8.05,1,1,0,3,3,1,7,3,3,1,5,2
+10/01/1976,Male,Rhondda Cynon Taf,14.5,Fitness,TRUE,TRUE,Attended as a child,N/A,3,5,Confidence,4.39,4,2,4,5,1,10,5,6,4,2,3,1
+26/11/1998,Male,Pembrokeshire,13.7,Fitness,FALSE,TRUE,School-only lessons,N/A,3,4,Confidence,2.76,0,0,4,3,4,4,3,6,3,3,2,1
+22/07/1957,Male,Blaenau Gwent,6.1,Fitness,FALSE,TRUE,Attended as a child,N/A,5,2,Time,4.09,1,2,3,5,3,8,4,7,2,2,1,1
+24/06/2013,Female,Neath Port Talbot,7.5,Leisure,FALSE,TRUE,Attended as a child,Weekly,3,5,Confidence,6.93,1,4,2,3,5,2,3,5,2,2,4,3
+18/12/1967,Male,Blaenau Gwent,11.3,Competitive training,TRUE,TRUE,Attended as a child,N/A,4,5,None,3.64,2,3,3,1,0,9,6,4,4,3,3,3
+21/01/1993,Female,Newport,6.7,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,Cost,5.28,4,2,2,8,6,5,2,2,2,3,2,6
+12/01/2018,Female,Pembrokeshire,6.1,Water confidence,FALSE,TRUE,Attended as a child,Weekly,4,5,None,5.27,3,2,2,1,3,3,1,6,3,3,4,1
+24/01/1990,Male,Powys,13.7,Leisure,FALSE,TRUE,Attended as a child,N/A,2,3,Confidence,4.2,1,3,2,5,6,4,4,2,4,4,2,2
+26/08/1958,Female,Vale of Glamorgan,4.3,Fitness,FALSE,TRUE,Attended as a child,N/A,5,5,Time,4.32,0,0,2,2,3,4,5,5,1,1,0,0
+04/06/2005,Male,Blaenau Gwent,15.2,Leisure,FALSE,FALSE,Private lessons,N/A,3,4,Cost,3.83,1,1,3,1,4,5,6,5,3,4,2,4
+25/12/1974,Female,Blaenau Gwent,18.7,Leisure,FALSE,TRUE,Private lessons,N/A,4,5,Transport,4.31,0,2,1,4,5,7,5,2,3,3,1,0
+20/10/2012,Male,Gwynedd,10.4,Competitive training,TRUE,TRUE,Attended as a child,Irregular,3,5,Time,4.23,0,2,7,3,4,4,5,5,1,0,5,1
+30/01/1997,Female,Pembrokeshire,11.2,Leisure,FALSE,FALSE,Never attended lessons,N/A,2,3,Time,6.02,0,1,2,3,3,6,5,2,1,1,0,2
+17/04/1960,Female,Bridgend,1.7,Leisure,FALSE,TRUE,Private lessons,N/A,3,5,Cost,3.86,2,1,2,4,1,6,10,6,5,5,2,2
+12/05/1964,Female,Cardiff,15.6,Fitness,FALSE,TRUE,School-only lessons,N/A,1,4,Confidence,5.81,0,1,5,3,8,4,10,12,4,0,2,2
+22/04/1996,Female,Conwy,5.5,Leisure,TRUE,TRUE,School-only lessons,N/A,3,4,Cost,2.35,0,4,4,4,3,11,6,3,7,4,1,1
+29/2/1974,Female,Swansea,11.3,Water confidence,FALSE,TRUE,Attended as a child,N/A,2,3,None,3.26,2,1,3,5,3,5,5,7,5,2,2,2
+14/03/1990,Female,Monmouthshire,17.6,Fitness,FALSE,FALSE,Never attended lessons,N/A,3,5,None,4.02,2,0,1,4,2,4,3,3,4,3,2,5
+10/08/2022,Female,Vale of Glamorgan,10.9,Social,FALSE,TRUE,Attended as a child,Termly,5,4,Cost,6.88,3,2,0,4,0,2,8,4,3,2,1,1
+17/11/2002,Female,Ceredigion,13.2,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,4,None,3.43,1,2,3,6,2,2,4,5,2,7,3,2
+05/05/1968,Male,Caerphilly,9.5,Fitness,TRUE,TRUE,School-only lessons,N/A,4,4,None,5.64,3,1,2,4,6,4,8,6,4,5,7,2
+08/01/2017,Female,Blaenau Gwent,3.7,Water confidence,FALSE,TRUE,Never attended lessons,Termly,3,5,Transport,4.59,3,1,1,3,2,2,4,1,1,2,1,1
+08/12/1954,Female,Rhondda Cynon Taf,16.7,Leisure,FALSE,TRUE,Attended as a child,N/A,3,4,Time,2.64,0,2,3,1,3,4,2,3,1,3,1,4
+08/05/2018,Female,Gwynedd,1.1,Fitness,FALSE,TRUE,Attended as a child,Termly,5,5,Transport,2.68,0,2,4,1,5,4,7,7,3,2,1,0
+26/06/2020,Male,Ceredigion,12.8,Fitness,FALSE,TRUE,Attended as a child,Termly,4,5,Time,4.17,3,1,3,4,4,0,6,5,1,4,2,3
+10/03/1970,Female,Newport,0.9,Fitness,TRUE,TRUE,Private lessons,N/A,4,4,Transport,3.32,3,1,3,3,5,7,6,6,3,5,2,0
+14/02/2000,Male,Wrexham,17.1,Competitive training,TRUE,TRUE,Attended as a child,N/A,2,4,Transport,2.78,1,3,3,3,2,4,1,6,2,0,1,2
+21/10/1970,Female,Neath Port Talbot,3.3,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,5,Transport,5.62,0,1,3,3,2,7,0,5,7,2,2,1
+12/02/1986,Male,Cardiff,9.5,Social,FALSE,TRUE,Attended as a child,N/A,2,5,Cost,0.61,0,1,1,4,12,6,6,5,1,2,2,1
+20/02/1949,Female,Ceredigion,11,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,None,5.26,3,4,3,1,2,6,6,5,8,2,2,0
+27/04/1949,Prefer not to say,Denbighshire,8.5,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,3,Transport,3.93,1,1,2,2,1,9,4,6,1,2,3,2
+15/06/2006,Male,Cardiff,6.5,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,Transport,4.79,1,2,1,5,4,3,4,4,4,8,4,3
+26/12/1950,Female,Torfaen,11.3,Leisure,FALSE,TRUE,Attended as a child,N/A,4,4,None,5.41,0,4,7,0,4,5,6,3,6,2,2,1
+21/09/2022,Male,Merthyr Tydfil,8.6,Water confidence,FALSE,TRUE,Currently attending,Irregular,3,4,Confidence,4.09,5,2,5,6,2,6,5,4,2,4,1,5
+02/05/1972,Female,Bridgend,8.2,Rehabilitation,FALSE,TRUE,School-only lessons,N/A,1,5,Confidence,4.13,0,1,0,2,6,5,5,5,5,1,1,1
+09/12/1978,Female,Caerphilly,8.3,Fitness,FALSE,TRUE,School-only lessons,N/A,4,3,None,5.75,0,2,6,4,3,2,8,6,3,4,4,1
+21/12/2019,Female,Gwynedd,10.4,Social,FALSE,TRUE,School-only lessons,Irregular,2,5,None,5.88,2,2,0,3,3,5,2,8,2,2,2,1
+18/03/1961,Female,Bridgend,4.7,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,4,Cost,2.52,1,1,1,3,0,5,4,5,6,2,3,1
+03/04/1958,Female,Bridgend,17.8,Fitness,FALSE,TRUE,Never attended lessons,N/A,1,5,Confidence,2.11,2,1,3,5,7,4,0,4,3,3,4,2
+22/05/1991,Male,Newport,9.3,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,3,None,6.1,1,2,4,2,1,5,6,5,2,5,3,1
+25/07/1989,Male,Cardiff,3.9,Fitness,TRUE,TRUE,School-only lessons,N/A,5,4,Transport,4.71,4,3,0,0,4,5,6,11,2,2,1,0
+06/09/1951,Female,Torfaen,11.8,Fitness,FALSE,TRUE,School-only lessons,N/A,2,5,Transport,4.95,3,2,4,3,5,4,7,7,2,2,2,1
+13/03/1984,Female,Carmarthenshire,15.7,Fitness,FALSE,TRUE,School-only lessons,N/A,3,2,Cost,4.42,0,2,3,2,9,8,6,5,5,2,3,1
+15/02/1997,Female,Conwy,0.9,Leisure,FALSE,FALSE,Never attended lessons,N/A,3,2,Cost,2.54,0,2,2,2,3,4,2,10,4,5,2,2
+24/08/1989,Female,Blaenau Gwent,13.5,Leisure,FALSE,TRUE,School-only lessons,N/A,5,5,Time,5.61,1,1,5,2,3,6,6,6,2,1,0,1
+29/03/1969,Male,Conwy,10.1,Fitness,FALSE,TRUE,Attended as a child,N/A,4,4,Time,4.41,2,1,3,3,4,6,8,9,4,2,3,0
+28/12/2020,Female,Newport,3.5,Fitness,FALSE,TRUE,Private lessons,Termly,2,5,None,4.51,3,4,1,2,2,0,3,6,1,5,3,0
+07/03/1973,Male,Vale of Glamorgan,14.8,Competitive training,TRUE,TRUE,Attended as a child,N/A,1,3,Time,4.17,3,4,3,1,5,2,2,5,2,2,2,2
+23/01/2011,Female,Ceredigion,7,Water confidence,FALSE,TRUE,Never attended lessons,No provision,3,4,Cost,5.47,1,2,1,5,4,6,7,4,3,3,2,1
+04/01/1958,Male,Denbighshire,5.6,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,5,Cost,5.44,1,3,7,6,5,4,6,2,5,4,1,1
+05/09/1969,Male,Torfaen,16.1,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,None,2.27,1,3,1,1,4,4,3,8,6,1,1,0
+23/11/2018,Male,Swansea,11.7,Fitness,FALSE,TRUE,Attended as a child,Termly,1,4,Transport,5.2,0,3,4,5,4,1,5,8,4,2,2,1
+13/11/1966,Male,Swansea,16.2,Fitness,FALSE,TRUE,Attended as a child,N/A,2,4,Transport,6.09,2,2,3,2,5,7,6,8,3,2,1,2
+24/11/2006,Female,Swansea,11.5,Fitness,FALSE,TRUE,School-only lessons,N/A,3,5,None,6.41,1,1,0,6,3,4,3,4,3,4,3,2
+14/07/1976,Male,Gwynedd,13.5,Leisure,FALSE,TRUE,Currently attending,N/A,2,3,Confidence,4.94,1,0,2,2,3,3,8,8,2,4,4,1
+20/10/2000,Male,Merthyr Tydfil,16.2,Leisure,FALSE,TRUE,Attended as a child,N/A,4,4,Cost,2.85,4,4,4,2,0,8,2,4,1,4,3,4
+05/12/2009,Male,Pembrokeshire,1.5,Rehabilitation,FALSE,TRUE,Private lessons,N/A,1,3,None,5.82,0,1,4,2,5,5,5,7,2,3,2,0
+19/06/1957,Male,Gwynedd,14.1,Rehabilitation,TRUE,TRUE,School-only lessons,N/A,2,4,None,5.53,0,0,2,3,3,7,3,9,3,2,3,0
+24/05/1948,Male,Cardiff,11.2,Fitness,FALSE,TRUE,Private lessons,N/A,5,3,Cost,0.63,3,3,5,1,5,3,3,1,5,4,2,3
+17/04/1972,Male,Rhondda Cynon Taf,3.2,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,None,4.12,0,4,2,3,4,7,7,8,3,1,4,1
+27/03/1985,Female,Denbighshire,9.4,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,4,4,Transport,4.69,1,3,3,5,5,4,7,3,1,5,5,4
+06/02/1959,Female,Ceredigion,1.9,Fitness,FALSE,TRUE,Never attended lessons,N/A,2,2,Confidence,4.97,1,1,4,6,4,3,2,3,4,2,1,3
+21/01/1985,Female,Pembrokeshire,13.4,Fitness,FALSE,TRUE,Currently attending,N/A,3,3,None,4.23,1,2,2,0,0,3,4,8,3,2,3,3
+07/01/1973,Male,Flintshire,10.1,Fitness,FALSE,TRUE,School-only lessons,N/A,4,5,None,5.23,0,3,1,4,1,2,3,6,4,4,3,0
+29/2/1993,Male,Rhondda Cynon Taf,18.7,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,4,Transport,6.99,1,2,3,3,8,5,4,6,6,4,2,5
+09/06/1972,Female,Bridgend,3.7,Fitness,TRUE,TRUE,Private lessons,N/A,4,5,Cost,5.43,4,6,3,4,5,3,2,3,2,5,3,4
+20/12/1960,Female,Powys,12.5,Competitive training,TRUE,TRUE,School-only lessons,N/A,3,5,Cost,6.87,1,1,1,2,5,6,6,3,2,3,0,0
+07/12/1971,Male,Torfaen,6.7,Social,FALSE,TRUE,School-only lessons,N/A,3,2,Confidence,7,0,1,3,4,4,5,4,5,5,4,2,0
+21/04/1985,Male,Merthyr Tydfil,11.8,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,0,1,0,5,2,2,5,6,12,2,1,4,2
+22/11/1993,Male,Conwy,13.1,Fitness,TRUE,TRUE,School-only lessons,N/A,3,3,Transport,5.81,1,1,3,1,13,7,13,9,5,3,3,3
+19/02/1972,Male,Flintshire,13.1,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,2,5,Cost,3.46,2,4,4,3,2,3,7,8,1,1,3,2
+18/03/2018,Male,Blaenau Gwent,16.9,Fitness,FALSE,TRUE,Attended as a child,Irregular,3,5,Transport,5.66,3,5,0,3,3,5,10,6,3,1,3,3
+08/06/1994,Female,Neath Port Talbot,15.4,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,4,Cost,3.9,2,2,3,5,3,5,1,6,4,0,3,0
+28/07/2019,Female,Powys,3.6,Fitness,FALSE,TRUE,Never attended lessons,No provision,3,5,None,6.65,1,6,1,1,13,8,3,8,6,2,3,2
+17/09/2013,Female,Pembrokeshire,6.5,Fitness,FALSE,TRUE,Currently attending,Termly,4,3,Cost,5.56,2,1,1,2,2,7,5,10,5,1,1,2
+30/03/1967,Female,Wrexham,13.8,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,4,Transport,5.03,3,0,4,5,2,6,3,3,2,0,1,2
+24/02/2006,Female,Merthyr Tydfil,9.8,Competitive training,TRUE,TRUE,Attended as a child,N/A,5,5,None,2.51,0,2,5,2,4,7,3,6,4,5,4,2
+21/05/1949,Female,Rhondda Cynon Taf,4.8,Fitness,FALSE,FALSE,Never attended lessons,N/A,2,2,Time,2.07,4,2,2,1,2,4,6,1,6,3,6,2
+05/02/2006,Female,Conwy,10.2,Fitness,FALSE,TRUE,Currently attending,N/A,3,4,Cost,5.64,4,2,5,1,6,4,7,7,4,2,0,1
+07/04/1954,Male,Monmouthshire,7.6,Fitness,FALSE,TRUE,Never attended lessons,N/A,4,4,Cost,0,1,2,4,7,3,6,5,10,3,2,4,2
+24/08/1989,Male,Denbighshire,7.3,Fitness,FALSE,TRUE,Private lessons,N/A,3,5,Time,5.36,2,0,1,3,2,3,9,5,4,1,5,4
+06/08/2017,Male,Carmarthenshire,14.7,Water confidence,FALSE,TRUE,Never attended lessons,Weekly,3,4,Transport,0.09,1,3,6,3,2,5,5,5,6,1,2,2
+19/09/1970,Female,Flintshire,7.6,Leisure,FALSE,TRUE,Never attended lessons,N/A,1,5,Time,5.27,0,2,1,6,2,4,4,6,1,1,1,2
+25/03/1957,Female,Monmouthshire,1,Leisure,TRUE,TRUE,Attended as a child,N/A,3,3,Transport,3.98,1,4,1,1,3,4,13,8,3,3,3,3
+11/06/1980,Male,Newport,1.5,Competitive training,TRUE,TRUE,Attended as a child,N/A,2,4,Transport,5.75,2,1,1,4,1,0,4,3,2,1,3,0
+09/02/1948,Female,Carmarthenshire,15.5,Competitive training,TRUE,TRUE,Attended as a child,N/A,5,5,Confidence,5.69,3,2,2,3,6,2,1,4,3,3,3,2
+05/12/2000,Male,Neath Port Talbot,17.3,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,3,Time,4.53,5,1,3,6,8,8,7,4,1,0,2,2
+29/09/1968,Female,Carmarthenshire,12.5,Fitness,FALSE,TRUE,School-only lessons,N/A,4,4,None,3.34,2,5,6,6,2,3,5,7,4,4,3,2
+16/07/1948,Male,Bridgend,6.9,Fitness,TRUE,TRUE,Attended as a child,N/A,3,3,Cost,2.53,2,4,3,4,3,7,5,7,3,7,2,1
+24/04/2007,Male,Swansea,16.9,Leisure,FALSE,FALSE,Never attended lessons,N/A,3,1,Confidence,6.44,4,2,1,4,5,6,5,5,1,0,3,1
+20/10/2015,Male,Newport,12.1,Fitness,FALSE,TRUE,Attended as a child,Irregular,3,3,Cost,4.17,1,1,1,6,4,2,3,7,7,2,2,0
+23/02/2019,Male,Rhondda Cynon Taf,16.7,Water confidence,FALSE,TRUE,School-only lessons,Termly,4,5,Confidence,5.95,1,3,2,6,1,7,3,5,8,1,5,1
+09/03/2019,Male,Ceredigion,13.9,Leisure,FALSE,TRUE,Attended as a child,Termly,4,4,None,4.23,1,2,0,4,1,2,2,5,3,3,3,3
+04/09/1967,Male,Ceredigion,7.1,Water confidence,FALSE,TRUE,Never attended lessons,N/A,2,5,Transport,3.85,2,4,1,3,1,4,6,5,2,1,2,0
+08/11/1998,Female,Ceredigion,8.9,Fitness,FALSE,TRUE,Private lessons,N/A,3,4,None,4.37,1,3,1,6,1,6,10,7,3,0,1,3
+10/04/1956,Female,Bridgend,3.8,Social,FALSE,TRUE,Attended as a child,N/A,3,4,Confidence,0,0,0,1,2,1,5,4,5,2,2,1,2
+08/05/1956,Male,Gwynedd,5.6,Fitness,FALSE,TRUE,Attended as a child,N/A,1,4,None,3.86,2,3,2,2,5,9,9,9,0,4,3,2
+05/07/1996,Female,Neath Port Talbot,14.1,Water confidence,FALSE,TRUE,Never attended lessons,N/A,3,5,Time,7.14,0,0,4,2,5,2,5,1,6,4,0,4
+25/10/1991,Female,Carmarthenshire,16.1,Fitness,FALSE,TRUE,Never attended lessons,N/A,4,5,Cost,5.18,0,2,3,1,1,5,3,10,1,2,5,2
+23/01/1973,Male,Neath Port Talbot,13.2,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,Cost,4.31,1,1,6,6,5,11,8,8,3,3,2,1
+28/08/1962,Male,Swansea,8.6,Competitive training,TRUE,TRUE,Attended as a child,N/A,4,2,Transport,5.88,2,1,0,6,4,6,2,3,3,3,0,1
+19/06/1972,Male,Cardiff,2,Leisure,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,5.88,1,1,1,3,3,3,6,3,3,2,3,2
+30/01/2004,Male,Rhondda Cynon Taf,3.2,Leisure,FALSE,TRUE,Attended as a child,N/A,3,4,Confidence,3.73,5,2,2,2,7,6,4,3,1,1,2,2
+06/02/2002,Female,Merthyr Tydfil,9.9,Water confidence,FALSE,TRUE,Attended as a child,N/A,2,5,Confidence,0.23,2,0,2,4,4,7,11,4,4,1,1,0
+02/02/2018,Male,Gwynedd,8.6,Leisure,FALSE,TRUE,School-only lessons,Irregular,4,3,None,2.31,0,4,1,2,4,4,6,5,2,6,1,2
+24/08/1981,Female,Caerphilly,11.9,Leisure,FALSE,TRUE,Private lessons,N/A,4,4,Transport,3.6,2,3,7,3,6,3,2,5,2,3,7,4
+19/10/1962,Female,Neath Port Talbot,0.6,Fitness,FALSE,TRUE,Currently attending,N/A,3,4,Time,996.82,3,2,3,4,2,3,7,5,5,2,2,1
+26/10/2001,Male,Blaenau Gwent,20.3,Competitive training,TRUE,TRUE,Never attended lessons,N/A,1,3,None,5.49,3,1,4,3,4,2,4,7,1,4,3,2
+22/10/2002,Female,Caerphilly,9.5,Leisure,FALSE,TRUE,Never attended lessons,N/A,2,3,None,2.15,2,0,2,2,6,2,6,7,5,2,2,1
+02/04/1953,Male,Merthyr Tydfil,17.2,Leisure,FALSE,TRUE,Attended as a child,N/A,1,5,Cost,2.15,0,0,4,1,3,3,3,2,6,4,2,3
+05/03/2022,Female,Wrexham,11.7,Fitness,FALSE,FALSE,Never attended lessons,Termly,3,3,Confidence,6.13,2,1,1,2,5,5,10,5,2,0,3,1
+24/11/2018,Male,Cardiff,2.8,Leisure,FALSE,TRUE,School-only lessons,Irregular,4,5,Transport,5.94,1,1,1,2,5,4,11,3,4,3,2,3
+03/10/2011,Female,Conwy,14.5,Fitness,FALSE,TRUE,Never attended lessons,Termly,2,5,Transport,5.4,1,0,1,4,4,8,5,6,4,4,3,1
+06/05/1977,Female,Wrexham,15.1,Fitness,TRUE,TRUE,Attended as a child,N/A,4,4,Transport,5.39,1,4,5,1,4,5,6,3,5,4,5,2
+01/01/1989,Male,Conwy,9.7,Leisure,FALSE,TRUE,Attended as a child,N/A,3,4,None,0,4,1,4,3,4,6,3,4,3,2,0,3
+27/01/1974,Female,Anglesey,9.5,Fitness,FALSE,TRUE,Attended as a child,N/A,3,3,Confidence,5.69,3,0,3,2,3,2,4,11,1,4,1,0
+23/03/1978,Female,Bridgend,2,Fitness,FALSE,FALSE,Never attended lessons,N/A,5,5,Confidence,5.78,0,2,4,2,5,5,3,5,2,3,1,2
+12/05/1996,Female,Monmouthshire,12,Leisure,FALSE,TRUE,Attended as a child,N/A,1,4,None,3.91,0,3,3,2,7,4,3,2,1,3,0,3
+30/05/1950,Female,Vale of Glamorgan,16.4,Fitness,FALSE,TRUE,Attended as a child,N/A,5,4,Cost,5.13,1,4,3,0,2,3,1,7,4,3,5,3
+20/01/1997,Female,Bridgend,2.1,Fitness,FALSE,TRUE,School-only lessons,N/A,2,4,Confidence,4.38,4,0,3,4,2,6,7,5,3,3,1,1
+06/09/1976,Male,Denbighshire,5.1,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,4,Time,0,2,7,4,4,7,3,4,2,4,6,0,4
+15/04/1967,Male,Powys,18.4,Leisure,FALSE,TRUE,School-only lessons,N/A,4,3,Cost,4.52,3,4,4,6,3,3,9,6,2,4,4,2
+27/04/1960,Female,Newport,5.5,Leisure,FALSE,TRUE,Private lessons,N/A,5,4,Confidence,2.53,0,1,0,3,4,6,2,3,3,4,4,1
+22/06/1975,Male,Carmarthenshire,11.9,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,3,5,Cost,4.06,1,2,4,2,6,5,5,5,5,3,2,1
+28/12/1962,Female,Powys,11.9,Fitness,FALSE,TRUE,Private lessons,N/A,3,5,None,4.58,3,3,5,1,6,4,2,4,5,0,2,2
+08/03/1997,Female,Monmouthshire,10.9,Fitness,FALSE,FALSE,Private lessons,N/A,4,3,Transport,3.89,0,3,2,4,0,2,6,4,6,4,3,3
+03/05/1987,Male,Cardiff,7.8,Fitness,FALSE,TRUE,School-only lessons,N/A,4,4,Transport,4.63,0,2,3,7,2,1,11,5,4,1,1,2
+24/07/2022,Male,Cardiff,5.7,Leisure,FALSE,TRUE,Attended as a child,Termly,2,5,Confidence,4.79,2,4,4,7,3,6,4,3,7,5,0,1
+12/02/2015,Female,Denbighshire,1.3,Social,FALSE,TRUE,Attended as a child,Irregular,4,2,Cost,0,2,2,3,1,3,2,6,3,1,0,3,0
+14/02/1971,Male,Wrexham,15.4,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,Transport,5.41,3,2,2,5,6,3,2,1,1,1,3,4
+30/2/1976,Female,Torfaen,15.7,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,3,Transport,3.9,3,2,2,5,3,4,4,7,5,3,2,2
+05/12/1967,Male,Flintshire,12.2,Fitness,FALSE,TRUE,School-only lessons,N/A,3,4,Transport,3.81,3,2,1,3,3,1,7,6,1,1,3,1
+09/12/2009,Female,Torfaen,14.7,Leisure,FALSE,TRUE,Private lessons,N/A,3,4,Confidence,5.87,1,1,3,3,4,2,5,4,4,7,1,3
+21/05/1995,Male,Neath Port Talbot,4.8,Leisure,FALSE,TRUE,Currently attending,N/A,5,4,Confidence,5.64,1,0,2,7,0,8,9,4,4,2,3,1
+06/08/2021,Female,Anglesey,0.9,Leisure,FALSE,TRUE,Attended as a child,Weekly,3,5,Confidence,5.58,3,4,0,3,3,5,2,2,1,1,2,1
+23/11/1997,Male,Ceredigion,14.7,Social,TRUE,TRUE,School-only lessons,N/A,5,3,Time,4.24,1,1,1,4,10,6,8,4,2,5,1,2
+30/10/2009,Female,Anglesey,9.1,Leisure,FALSE,TRUE,Attended as a child,N/A,2,4,Transport,2.42,3,2,4,2,5,4,2,6,4,1,2,1
+10/07/1964,Male,Flintshire,5.9,Fitness,FALSE,TRUE,Attended as a child,N/A,4,4,Cost,5.27,3,4,1,2,5,7,5,7,2,1,4,0
+21/03/1967,Female,Newport,2.3,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,Time,4.52,2,2,2,3,6,6,6,10,4,4,3,1
+22/04/2016,Female,Wrexham,4.5,Leisure,FALSE,TRUE,Currently attending,Termly,3,3,None,4,1,1,5,4,3,6,10,7,5,3,4,3
+17/12/2020,Male,Monmouthshire,6.6,Leisure,TRUE,TRUE,Private lessons,Irregular,3,5,Transport,2.18,3,2,3,5,5,5,7,4,2,2,1,1
+21/05/2000,Male,Conwy,14.6,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,4,Transport,5.35,2,1,0,3,2,2,2,0,7,1,1,3
+17/05/2005,Male,Cardiff,16.6,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,4,3,Confidence,3.05,1,3,4,1,4,5,8,6,3,4,0,0
+20/04/1985,Female,Flintshire,16.2,Leisure,FALSE,TRUE,Currently attending,N/A,4,5,Confidence,7.64,0,5,5,2,2,2,4,5,1,1,1,3
+02/11/2008,Female,Vale of Glamorgan,16.6,Social,FALSE,TRUE,Never attended lessons,N/A,2,3,Time,4.67,2,0,0,2,4,4,2,2,4,6,0,2
+23/11/1959,Female,Caerphilly,18.5,Leisure,TRUE,TRUE,Attended as a child,N/A,4,4,Cost,3.95,2,3,5,4,7,5,10,4,4,7,4,3
+04/02/1995,Male,Rhondda Cynon Taf,10.2,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,2,Time,6.02,0,4,6,7,4,6,9,6,4,3,2,2
+08/05/1949,Male,Wrexham,6.7,Fitness,FALSE,TRUE,School-only lessons,N/A,2,4,Cost,5.54,5,3,4,4,4,0,4,5,0,5,1,4
+14/08/1984,Female,Vale of Glamorgan,14.5,Leisure,FALSE,TRUE,School-only lessons,N/A,4,4,Confidence,5.73,0,1,2,9,4,6,5,3,4,2,1,0
+08/06/1966,Female,Ceredigion,4.2,Social,FALSE,TRUE,Attended as a child,N/A,3,4,None,4.03,0,2,1,3,6,2,9,7,1,2,4,1
+29/01/2006,Prefer not to say,Powys,7.9,Leisure,FALSE,TRUE,Attended as a child,N/A,4,4,Confidence,5.3,3,4,4,2,2,5,4,10,6,3,2,2
+24/07/1979,Male,Ceredigion,4.6,Competitive training,TRUE,TRUE,Attended as a child,N/A,2,4,Cost,3.33,3,1,2,1,4,3,8,6,2,2,0,0
+07/09/1998,Female,Bridgend,9.5,Rehabilitation,FALSE,TRUE,Never attended lessons,N/A,1,3,None,7.06,0,0,1,3,4,6,6,5,4,5,1,2
+01/03/2006,Male,Wrexham,8.2,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,None,3.77,2,1,4,5,3,6,3,3,5,1,4,4
+05/10/2010,Male,Caerphilly,6.2,Leisure,FALSE,TRUE,Currently attending,No provision,2,5,Time,3.76,2,3,3,1,2,5,3,2,1,4,0,4
+03/09/1998,Female,Gwynedd,8.4,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,Transport,5.35,3,3,3,5,2,6,7,6,5,2,4,4
+06/02/1955,Female,Ceredigion,15.8,Water confidence,FALSE,TRUE,School-only lessons,N/A,2,3,Cost,6.02,0,2,3,8,1,2,8,4,4,0,2,0
+06/11/2013,Prefer not to say,Swansea,10.5,Competitive training,TRUE,TRUE,Attended as a child,Irregular,3,2,None,6.92,1,3,4,2,6,11,3,8,3,1,1,2
+21/09/1956,Male,Anglesey,15.9,Fitness,FALSE,TRUE,Currently attending,N/A,1,5,Confidence,2.57,3,4,3,4,8,3,2,5,7,7,6,2
+29/09/2005,Male,Newport,3.9,Fitness,FALSE,TRUE,Attended as a child,N/A,2,4,None,4.56,2,2,3,3,3,4,2,5,6,2,4,4
+13/12/1989,Female,Wrexham,4.2,Leisure,FALSE,TRUE,Attended as a child,N/A,4,4,Transport,6.65,0,4,5,3,4,7,1,4,3,3,1,1
+30/01/2015,Female,Rhondda Cynon Taf,13.5,Fitness,TRUE,TRUE,Attended as a child,No provision,2,5,Transport,5.64,4,1,2,2,5,9,5,2,7,8,2,3
+14/04/1983,Male,Torfaen,10.9,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,None,6.03,3,3,4,1,4,8,3,4,3,3,3,2
+25/11/1981,Male,Neath Port Talbot,12.1,Leisure,FALSE,TRUE,Attended as a child,N/A,5,4,Confidence,0,3,1,1,3,2,5,7,4,5,2,2,1
+15/10/1982,Male,Swansea,14.4,Leisure,FALSE,TRUE,Currently attending,N/A,3,5,Cost,993,5,3,5,6,3,2,5,1,1,3,6,4
+07/08/2017,Female,Carmarthenshire,13.6,Fitness,FALSE,TRUE,School-only lessons,Irregular,4,4,Cost,5.7,1,1,4,5,1,6,8,5,4,2,3,1
+27/06/1971,Male,Conwy,17,Competitive training,TRUE,TRUE,Attended as a child,N/A,2,3,Confidence,5.8,2,4,4,3,5,2,6,8,4,2,1,1
+07/08/1997,Male,Bridgend,7.5,Social,FALSE,FALSE,Never attended lessons,N/A,2,2,Cost,0,1,2,1,2,1,7,6,8,7,5,0,0
+02/08/1959,Male,Conwy,4.1,Competitive training,TRUE,TRUE,Attended as a child,N/A,4,3,Confidence,5.55,0,0,2,3,1,10,5,6,3,2,4,1
+15/02/1964,Male,Cardiff,10.1,Competitive training,TRUE,TRUE,Attended as a child,N/A,4,5,Transport,4.84,1,2,4,2,3,1,5,2,2,3,2,1
+21/05/1967,Male,Rhondda Cynon Taf,3.9,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,4,Time,2.48,0,3,3,4,4,2,2,8,5,7,2,2
+02/04/1964,Female,Bridgend,5.6,Fitness,FALSE,TRUE,Private lessons,N/A,3,2,Transport,3.76,0,2,3,6,3,6,6,2,2,2,4,1
+19/03/1953,Male,Merthyr Tydfil,5,Fitness,FALSE,TRUE,School-only lessons,N/A,3,5,None,4.3,1,0,2,2,5,6,4,4,2,1,4,2
+02/09/1990,Female,Conwy,7.4,Competitive training,TRUE,TRUE,School-only lessons,N/A,1,3,Cost,3.88,2,1,3,3,1,5,5,3,4,0,0,2
+21/02/1970,Male,Torfaen,3.1,Social,FALSE,FALSE,Never attended lessons,N/A,4,1,Confidence,2.05,3,2,2,2,5,4,8,5,2,0,2,3
+23/11/2001,Female,Swansea,1.1,Rehabilitation,FALSE,TRUE,School-only lessons,N/A,3,3,Cost,2.59,3,4,0,3,4,1,3,7,0,3,2,0
+26/08/2002,Female,Monmouthshire,12,Social,TRUE,TRUE,Currently attending,N/A,3,3,Time,5.88,1,3,3,3,6,3,10,13,4,4,5,3
+10/10/1953,Female,Blaenau Gwent,13.7,Leisure,FALSE,TRUE,Attended as a child,N/A,4,4,None,2.68,3,4,5,4,4,7,4,4,3,1,2,4
+13/10/1953,Female,Newport,12.9,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,None,4.73,0,4,2,3,3,1,4,3,6,5,3,2
+05/05/2019,Male,Swansea,12.1,Leisure,FALSE,TRUE,Private lessons,Weekly,2,5,Confidence,4.57,1,3,3,4,1,4,4,5,4,1,1,2
+23/06/1948,Male,Rhondda Cynon Taf,4.6,Fitness,FALSE,TRUE,Attended as a child,N/A,4,4,Confidence,3.84,3,1,3,4,2,5,5,1,5,2,1,0
+19/07/1961,Female,Monmouthshire,5.6,Fitness,FALSE,TRUE,Attended as a child,N/A,4,4,None,5.18,1,1,2,5,6,4,6,5,2,3,4,3
+25/09/1961,Prefer not to say,Conwy,2.8,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,3,4,None,3.87,1,3,1,8,6,2,4,2,7,3,1,1
+23/10/1999,Female,Newport,15.3,Leisure,FALSE,TRUE,Attended as a child,N/A,2,3,None,5.56,0,2,2,3,3,0,5,5,6,1,1,1
+24/06/1968,Female,Wrexham,15.7,Leisure,FALSE,FALSE,Never attended lessons,N/A,2,1,Transport,5.28,3,2,2,2,2,2,5,5,6,2,3,3
+06/04/2014,Female,Vale of Glamorgan,4,Leisure,FALSE,TRUE,School-only lessons,Termly,3,5,None,2.41,2,0,1,1,4,2,8,3,6,3,4,3
+03/12/2020,Male,Caerphilly,8,Fitness,FALSE,TRUE,Currently attending,Weekly,3,3,Cost,2.68,0,2,1,2,4,4,9,7,5,4,2,2
+09/03/1992,Male,Merthyr Tydfil,19.7,Leisure,FALSE,TRUE,Attended as a child,N/A,4,3,Transport,3.99,1,4,2,5,2,5,9,2,2,1,2,2
+02/07/1983,Female,Denbighshire,10.9,Leisure,FALSE,TRUE,Never attended lessons,N/A,5,4,Cost,4.24,1,1,3,5,6,4,2,9,1,3,2,0
+14/08/1987,Female,Cardiff,14.5,Leisure,FALSE,TRUE,Attended as a child,N/A,4,4,Transport,6.6,3,4,4,1,2,7,4,9,1,2,5,0
+01/03/1999,Male,Swansea,5.1,Competitive training,TRUE,TRUE,Never attended lessons,N/A,3,2,Time,6.52,1,2,2,2,3,6,3,6,3,2,3,2
+06/10/2017,Female,Conwy,4.2,Leisure,TRUE,FALSE,Never attended lessons,Weekly,4,2,None,4.14,4,0,1,4,6,6,7,10,6,0,1,1
+29/07/1957,Male,Conwy,14.2,Leisure,FALSE,TRUE,Attended as a child,N/A,3,4,Time,2.5,1,4,1,7,1,5,8,4,4,4,1,0
+10/10/1948,Female,Rhondda Cynon Taf,15.5,Social,FALSE,TRUE,Attended as a child,N/A,2,5,Confidence,3.71,2,0,2,4,2,7,9,0,4,2,5,2
+04/11/2019,Male,Flintshire,12.4,Social,FALSE,TRUE,Attended as a child,Irregular,1,3,Confidence,5.72,4,1,2,6,1,3,3,4,3,6,1,1
+17/06/2017,Male,Monmouthshire,10.2,Social,FALSE,TRUE,Never attended lessons,No provision,3,4,Time,4.5,0,1,1,7,3,3,3,5,5,0,4,0
+28/06/1972,Female,Carmarthenshire,10.4,Fitness,FALSE,TRUE,Attended as a child,N/A,5,4,Transport,4.1,2,1,1,4,6,6,4,4,2,1,4,3
+20/04/1961,Male,Blaenau Gwent,15.2,Fitness,FALSE,TRUE,Never attended lessons,N/A,2,5,None,3.08,0,2,3,2,4,4,4,8,4,4,1,1
+17/12/1966,Female,Denbighshire,5.2,Fitness,TRUE,TRUE,School-only lessons,N/A,2,4,Time,5.04,1,1,4,5,7,5,10,9,3,4,3,2
+07/07/1957,Female,Blaenau Gwent,7.3,Fitness,FALSE,TRUE,Attended as a child,N/A,5,3,Time,5.15,1,3,1,5,1,10,7,3,3,5,4,0
+23/10/1948,Female,Swansea,15.8,Social,FALSE,TRUE,Currently attending,N/A,1,4,Confidence,4.96,1,0,2,5,4,4,2,1,2,3,1,3
+18/01/2015,Male,Gwynedd,5.9,Leisure,FALSE,TRUE,Attended as a child,Termly,4,5,None,4.08,1,1,3,1,3,2,9,5,6,3,1,0
+07/12/1997,Male,Carmarthenshire,10.1,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,3,Transport,7.39,4,1,3,4,5,1,5,3,4,3,2,3
+01/02/1972,Male,Swansea,12.8,Fitness,FALSE,TRUE,School-only lessons,N/A,1,4,Transport,4.7,1,4,1,2,8,4,7,3,2,0,2,6
+15/02/1978,Prefer not to say,Torfaen,18.6,Fitness,FALSE,TRUE,Attended as a child,N/A,5,2,Time,5.24,2,2,2,4,6,4,6,6,3,6,0,0
+17/02/1979,Female,Rhondda Cynon Taf,11,Leisure,FALSE,TRUE,Attended as a child,N/A,2,2,Confidence,2.44,1,1,7,4,2,7,10,4,7,2,1,2
+29/10/2018,Female,Blaenau Gwent,9.9,Rehabilitation,TRUE,TRUE,Attended as a child,Termly,3,4,None,5.04,2,2,1,4,5,7,3,6,2,4,4,0
+06/03/1953,Female,Swansea,15.2,Social,FALSE,TRUE,Never attended lessons,N/A,2,4,Transport,2.86,1,1,3,4,6,3,6,4,0,3,0,1
+02/11/1997,Female,Vale of Glamorgan,14.6,Social,FALSE,TRUE,Private lessons,N/A,1,5,Transport,7.29,0,2,1,2,2,7,8,9,4,0,0,1
+21/08/1955,Female,Gwynedd,13.3,Fitness,FALSE,TRUE,Attended as a child,N/A,1,4,None,5.76,1,3,2,9,2,6,12,8,5,1,2,1
+23/12/2004,Male,Flintshire,8.6,Fitness,FALSE,TRUE,Attended as a child,N/A,2,4,Confidence,5.61,1,2,4,5,5,4,1,2,3,3,2,4
+02/02/2003,Female,Flintshire,6.2,Fitness,FALSE,TRUE,Never attended lessons,N/A,1,4,Confidence,4.98,2,0,2,5,6,3,8,3,1,6,4,3
+18/03/2011,Male,Blaenau Gwent,12.9,Fitness,FALSE,TRUE,Never attended lessons,Irregular,4,4,Transport,5.39,2,6,5,4,2,7,6,6,4,3,0,1
+25/10/1976,Female,Monmouthshire,15.8,Social,FALSE,TRUE,School-only lessons,N/A,3,2,Transport,3.63,2,1,1,1,3,3,3,8,1,2,1,1
+25/10/2022,Female,Neath Port Talbot,16,Leisure,FALSE,TRUE,Currently attending,Weekly,3,5,Time,5.85,2,2,2,4,4,3,5,5,4,4,2,1
+25/05/2009,Female,Caerphilly,3.6,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,3,5,Cost,6.82,0,2,3,7,2,6,3,3,1,3,1,2
+15/05/1959,Male,Denbighshire,8,Leisure,FALSE,TRUE,Never attended lessons,N/A,5,3,None,3.67,6,3,3,3,2,5,5,10,5,1,1,1
+01/05/1985,Male,Newport,8.6,Fitness,FALSE,TRUE,Currently attending,N/A,5,3,Time,7.71,3,1,2,3,7,7,10,5,5,4,0,2
+20/07/1986,Male,Merthyr Tydfil,19.3,Fitness,FALSE,TRUE,Attended as a child,N/A,4,3,Cost,5.31,1,2,0,3,2,6,6,6,1,1,2,3
+27/05/2012,Male,Carmarthenshire,12.4,Leisure,FALSE,TRUE,Attended as a child,Termly,4,4,Time,4.45,0,2,1,3,3,3,4,3,5,1,2,3
+28/10/2020,Male,Torfaen,9.1,Rehabilitation,TRUE,TRUE,Attended as a child,Termly,3,4,Confidence,3.78,1,4,3,3,4,4,2,6,4,3,4,2
+13/11/1990,Female,Wrexham,2.7,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,Cost,3.58,3,2,3,8,1,7,9,8,4,2,4,3
+02/09/2017,Female,Vale of Glamorgan,10.4,Rehabilitation,FALSE,TRUE,Currently attending,Termly,3,5,Transport,0,0,1,2,5,3,4,4,4,7,1,4,1
+26/02/1973,Male,Swansea,2.2,Competitive training,TRUE,TRUE,School-only lessons,N/A,3,4,Transport,4.69,5,0,2,2,7,7,6,1,5,6,2,3
+15/01/2013,Male,Swansea,15.1,Leisure,FALSE,TRUE,Never attended lessons,Irregular,3,4,Time,4.53,0,0,2,2,0,5,4,3,2,3,1,1
+16/07/2018,Male,Caerphilly,16.2,Rehabilitation,FALSE,TRUE,Attended as a child,Weekly,3,5,Confidence,3.57,1,1,1,0,2,2,4,5,2,1,4,1
+09/08/2000,Female,Newport,8.6,Leisure,TRUE,TRUE,Attended as a child,N/A,5,4,Confidence,5.06,0,0,2,2,6,5,9,7,1,1,1,4
+09/12/2013,Female,Caerphilly,9.2,Leisure,FALSE,TRUE,Attended as a child,No provision,4,4,Time,7.2,1,2,2,4,3,5,5,4,5,4,1,1
+03/08/1979,Female,Swansea,16.2,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,4,Time,4.69,0,3,3,2,5,3,6,7,0,3,4,2
+17/06/2021,Female,Monmouthshire,5.5,Water confidence,FALSE,TRUE,Private lessons,No provision,4,4,Confidence,4.41,3,3,2,3,4,7,5,5,1,3,3,0
+25/05/2010,Prefer not to say,Neath Port Talbot,4.9,Fitness,FALSE,TRUE,Attended as a child,Weekly,2,4,Time,2.7,3,0,4,4,2,7,3,5,1,2,4,6
+09/08/1983,Female,Flintshire,16.9,Leisure,FALSE,TRUE,Attended as a child,N/A,2,4,Transport,0,2,2,1,5,4,3,5,5,6,1,4,3
+28/07/2021,Male,Pembrokeshire,14.7,Fitness,FALSE,TRUE,Attended as a child,No provision,3,5,None,5.19,3,3,2,2,5,4,9,11,3,3,1,3
+17/07/1958,Female,Pembrokeshire,14.9,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,4,Confidence,5.75,2,4,4,2,4,2,3,6,4,3,1,4
+03/08/1960,Male,Newport,3.9,Rehabilitation,FALSE,TRUE,Never attended lessons,N/A,1,4,None,6.32,2,1,1,4,5,3,6,5,3,3,3,2
+29/01/1950,Female,Carmarthenshire,3,Social,FALSE,TRUE,Currently attending,N/A,4,5,Confidence,2.55,0,4,4,1,1,4,4,8,3,3,4,2
+08/10/2006,Male,Newport,1,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,4,Cost,5.95,2,1,1,3,6,2,2,8,1,3,1,1
+10/06/2014,Female,Blaenau Gwent,5.2,Fitness,FALSE,TRUE,Currently attending,Irregular,3,3,Confidence,4.18,1,3,3,2,6,3,5,11,2,4,2,2
+25/10/1948,Female,Anglesey,14,Fitness,TRUE,TRUE,Attended as a child,N/A,1,2,Transport,3.77,2,4,3,5,6,8,9,8,7,3,3,3
+16/04/2008,Female,Powys,7.6,Leisure,FALSE,TRUE,Attended as a child,N/A,2,4,Time,0,3,2,2,3,5,5,6,4,1,4,0,3
+13/10/1999,Female,Denbighshire,13.3,Fitness,FALSE,TRUE,Attended as a child,N/A,4,4,Confidence,2.93,1,4,3,5,6,5,6,7,1,4,1,0
+30/04/1985,Male,Anglesey,4.9,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,None,3.8,2,2,3,4,1,8,3,2,3,3,2,0
+05/08/1988,Male,Cardiff,7.4,Rehabilitation,FALSE,FALSE,Never attended lessons,N/A,5,3,Time,2.73,0,1,3,3,5,2,6,7,3,4,3,2
+08/11/1974,Male,Ceredigion,17.7,Fitness,FALSE,TRUE,Attended as a child,N/A,5,4,Time,6.68,2,2,2,3,3,5,8,6,4,0,3,2
+26/10/1954,Male,Neath Port Talbot,4.8,Leisure,FALSE,TRUE,Currently attending,N/A,3,3,Cost,4.3,2,1,2,4,3,3,4,7,3,2,2,1
+29/01/1961,Female,Newport,7.1,Competitive training,TRUE,TRUE,Currently attending,N/A,2,2,None,3.28,4,0,0,4,4,3,3,2,4,1,1,0
+07/11/1963,Male,Newport,5.8,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,None,3.16,2,0,1,6,6,5,6,6,2,2,3,0
+28/08/1973,Female,Caerphilly,3.3,Leisure,FALSE,TRUE,Attended as a child,N/A,5,3,Time,5.35,2,0,2,5,3,4,6,7,3,3,4,2
+14/04/1948,Female,Cardiff,9.1,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,4,Transport,3.35,2,2,2,5,4,4,3,9,5,3,1,4
+28/11/2014,Female,Merthyr Tydfil,9.2,Leisure,FALSE,TRUE,Attended as a child,Termly,4,5,Confidence,5.25,1,2,3,5,2,3,2,5,2,4,1,1
+25/11/1989,Male,Vale of Glamorgan,12.7,Leisure,FALSE,TRUE,Never attended lessons,N/A,4,4,Cost,7.09,0,0,4,1,7,4,2,4,5,0,2,2
+20/01/1947,Female,Vale of Glamorgan,14.8,Fitness,FALSE,TRUE,School-only lessons,N/A,3,5,Confidence,3.78,0,0,2,8,1,4,9,4,2,0,0,1
+18/06/1988,Female,Caerphilly,12.1,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,4,Cost,3.73,1,0,1,1,1,2,6,3,2,4,2,3
+11/11/2032,Male,Torfaen,3.8,Competitive training,TRUE,TRUE,Attended as a child,Weekly,4,4,Confidence,0,4,3,1,2,5,6,5,7,3,6,0,3
+15/10/1983,Female,Caerphilly,13.6,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,Confidence,5.39,1,3,4,3,5,1,4,2,4,2,3,2
+25/10/1959,Female,Rhondda Cynon Taf,2.8,Fitness,FALSE,FALSE,Never attended lessons,N/A,1,4,Transport,3.99,2,2,3,4,3,3,6,5,6,3,3,3
+12/11/2001,Male,Anglesey,11.3,Fitness,FALSE,TRUE,Attended as a child,N/A,3,3,Confidence,240,2,3,2,2,5,2,1,4,5,3,3,1
+10/10/1963,Female,Swansea,12.5,Fitness,TRUE,TRUE,Never attended lessons,N/A,2,2,None,3.59,4,5,2,3,4,4,2,3,5,4,5,6
+03/02/1959,Male,Cardiff,4,Leisure,FALSE,TRUE,Never attended lessons,N/A,2,3,Cost,5.96,1,1,2,3,1,1,6,4,3,0,4,2
+05/01/1951,Male,Neath Port Talbot,14.8,Fitness,TRUE,TRUE,Attended as a child,N/A,5,4,Time,3.88,0,5,1,5,8,6,6,11,3,2,3,3
+29/11/2012,Male,Ceredigion,16.4,Fitness,FALSE,TRUE,Attended as a child,Weekly,1,5,Cost,2.95,2,1,3,2,6,3,6,7,3,3,3,0
+09/03/2009,Male,Newport,14.7,Competitive training,TRUE,TRUE,Currently attending,N/A,2,4,Cost,5.88,1,2,2,5,3,5,1,7,3,2,5,2
+09/10/1963,Male,Torfaen,7.9,Fitness,FALSE,TRUE,Attended as a child,N/A,3,4,Cost,5.55,0,1,1,4,4,6,4,7,4,3,2,0
+28/03/1993,Male,Wrexham,12.1,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,5,Time,5.95,0,0,1,5,4,5,5,2,4,3,3,2
+29/12/1988,Female,Conwy,16.5,Rehabilitation,TRUE,TRUE,Currently attending,N/A,3,4,Transport,2.11,4,2,3,5,4,7,7,2,4,2,1,1
+13/11/1986,Female,Bridgend,6.1,Fitness,FALSE,TRUE,Private lessons,N/A,2,4,None,5.62,1,1,1,4,2,6,8,6,4,4,5,5
+17/12/2018,Female,Bridgend,14.9,Rehabilitation,FALSE,TRUE,Attended as a child,Termly,2,5,Confidence,5.26,0,3,7,6,2,6,4,4,1,3,4,1
+21/07/1997,Male,Gwynedd,0.7,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,2,5,Cost,2.35,2,1,3,2,1,5,5,3,4,2,2,1
+25/10/1961,Male,Flintshire,0.6,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,Time,5.26,1,4,3,5,6,3,2,3,3,7,0,1
+27/12/2019,Female,Merthyr Tydfil,16.5,Fitness,FALSE,TRUE,Attended as a child,Irregular,2,4,Cost,3.78,2,2,5,1,4,2,4,5,2,3,2,3
+07/10/1981,Male,Wrexham,15,Leisure,FALSE,TRUE,School-only lessons,N/A,5,5,Time,€ 7.82,2,1,6,3,2,5,3,5,4,1,3,0
+27/09/2005,Male,Gwynedd,14.3,Social,FALSE,TRUE,School-only lessons,N/A,3,3,Cost,2.75,3,2,0,4,3,4,6,6,3,4,1,3
+05/10/1983,Female,Denbighshire,16.8,Leisure,FALSE,TRUE,Attended as a child,N/A,1,4,Transport,5.83,0,3,3,4,6,12,6,9,4,1,4,2
+30/12/1951,Male,Newport,2.6,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,Time,4.85,0,1,0,2,3,7,6,2,3,2,1,0
+13/11/1984,Female,Swansea,4.6,Rehabilitation,TRUE,TRUE,Attended as a child,N/A,3,4,None,7.22,2,1,4,3,4,4,8,7,1,2,1,1
+23/10/2009,Female,Ceredigion,16.3,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,Transport,4.12,0,1,2,2,3,8,3,6,3,3,1,5
+10/01/1991,Male,Neath Port Talbot,3.6,Leisure,FALSE,TRUE,Attended as a child,N/A,2,4,None,7.32,1,0,6,4,1,4,3,8,0,0,1,0
+02/08/1972,Male,Ceredigion,12.4,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,3,2,Cost,6.74,0,2,4,2,4,5,8,11,5,4,1,3
+26/05/1985,Female,Swansea,9.8,Leisure,FALSE,TRUE,School-only lessons,N/A,4,5,None,4.99,0,3,1,5,5,5,6,3,6,7,5,4
+23/11/2000,Male,Newport,2,Competitive training,TRUE,TRUE,Attended as a child,N/A,5,3,Time,6.41,0,1,2,1,4,4,4,4,8,1,4,2
+04/02/1960,Male,Torfaen,7.9,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,2,4,Cost,7.56,3,3,5,1,4,6,5,4,2,2,1,2
+18/08/2008,Prefer not to say,Ceredigion,9.6,Leisure,TRUE,TRUE,Attended as a child,N/A,3,3,Transport,3.87,3,3,3,3,6,7,6,8,3,1,3,1
+28/09/1998,Male,Ceredigion,15.4,Fitness,FALSE,TRUE,Private lessons,N/A,3,5,Cost,3.67,1,1,3,2,2,2,5,7,5,2,3,3
+07/06/2006,Female,Merthyr Tydfil,14.6,Competitive training,TRUE,TRUE,Currently attending,N/A,5,4,Transport,£3.89,3,1,1,7,2,3,2,4,4,2,3,1
+15/09/1957,Prefer not to say,Torfaen,13.6,Social,FALSE,TRUE,Attended as a child,N/A,5,3,Cost,4.43,3,3,2,5,4,2,3,1,3,3,1,2
+27/06/1970,Male,Torfaen,9.9,Fitness,FALSE,TRUE,Attended as a child,N/A,1,3,Confidence,0,3,3,4,4,5,2,5,2,1,3,3,3
+08/07/1972,Male,Rhondda Cynon Taf,8.4,Leisure,FALSE,TRUE,Private lessons,N/A,2,5,None,3.38,4,3,2,4,4,4,5,3,2,1,2,1
+07/08/1984,Male,Vale of Glamorgan,2.6,Fitness,FALSE,TRUE,Never attended lessons,N/A,3,5,Cost,4.03,4,2,7,2,4,6,4,5,2,4,4,1
+11/06/1972,Male,Swansea,7.7,Competitive training,TRUE,TRUE,School-only lessons,N/A,2,5,Confidence,4.57,2,1,2,3,6,5,8,5,5,4,3,1
+10/04/1953,Male,Powys,2.9,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,3,4,Confidence,2.5,1,8,5,5,3,1,11,2,2,1,2,1
+27/11/2017,Female,Rhondda Cynon Taf,6.5,Fitness,FALSE,TRUE,Attended as a child,Weekly,2,4,None,5.78,2,4,4,3,4,10,3,6,4,4,2,5
+10/09/1956,Male,Bridgend,8.1,Social,FALSE,TRUE,Attended as a child,N/A,3,3,Confidence,5.33,0,0,0,5,3,7,1,7,1,4,0,1
+10/05/2016,Female,Cardiff,7.8,Fitness,FALSE,TRUE,Currently attending,Termly,5,4,Confidence,2.64,1,0,3,1,2,4,5,10,3,0,0,2
+07/07/1972,Prefer not to say,Rhondda Cynon Taf,4.2,Competitive training,TRUE,TRUE,Never attended lessons,N/A,5,3,Confidence,6.11,2,0,3,4,5,4,9,7,5,3,3,4
+25/04/1951,Female,Monmouthshire,10.8,Leisure,FALSE,TRUE,School-only lessons,N/A,3,5,Transport,5.2,3,1,5,3,3,3,4,4,2,1,4,1
+21/01/1981,Female,Pembrokeshire,10.1,Fitness,FALSE,TRUE,Attended as a child,N/A,3,5,Cost,6.68,2,5,3,4,1,6,4,9,2,5,3,0
+01/02/1959,Male,Conwy,1.9,Fitness,FALSE,TRUE,Attended as a child,N/A,4,4,Transport,0.33,0,3,5,5,7,5,1,2,5,1,1,2
+05/01/2008,Female,Blaenau Gwent,18.3,Fitness,FALSE,TRUE,Never attended lessons,N/A,2,3,Cost,3.88,1,2,3,4,4,7,5,6,3,1,5,2
+21/04/1994,Female,Torfaen,4,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,Confidence,6.98,1,6,4,6,2,4,5,5,2,1,2,1
+21/02/1990,Male,Flintshire,15.5,Leisure,TRUE,TRUE,Attended as a child,N/A,3,3,Transport,7.14,4,2,2,3,7,5,4,10,6,5,2,1
+02/11/1996,Male,Carmarthenshire,0.5,Fitness,FALSE,TRUE,Attended as a child,N/A,2,3,Confidence,5.83,1,4,3,1,2,5,11,5,4,2,1,1
+26/10/1987,Female,Merthyr Tydfil,18.8,Fitness,FALSE,TRUE,Currently attending,N/A,3,3,Cost,5.4,4,1,8,6,7,2,6,4,2,5,0,0
+24/10/1994,Male,Cardiff,0.8,Fitness,FALSE,TRUE,Attended as a child,N/A,1,4,None,3.66,3,3,3,2,5,7,7,3,9,1,3,2
+02/05/1985,Male,Ceredigion,13.8,Rehabilitation,FALSE,TRUE,School-only lessons,N/A,3,5,None,3.36,2,0,0,3,3,4,2,5,2,2,4,3
+15/11/1966,Male,Cardiff,6.8,Rehabilitation,FALSE,TRUE,Attended as a child,N/A,2,4,Cost,4.93,2,0,2,2,3,12,4,4,5,3,2,2
+26/02/1996,Male,Monmouthshire,13.4,Fitness,FALSE,TRUE,Private lessons,N/A,3,3,Transport,2.25,1,2,4,4,1,11,6,5,2,10,1,1
+27/05/1968,Female,Vale of Glamorgan,7.5,Leisure,FALSE,TRUE,Never attended lessons,N/A,2,4,Confidence,5.91,4,0,1,3,2,3,7,8,8,1,2,2
+22/12/1990,Female,Torfaen,3.2,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,Cost,2.54,1,0,3,4,3,7,8,6,3,4,2,2
+09/11/1955,Female,Powys,16,Social,FALSE,TRUE,Attended as a child,N/A,3,3,Transport,3.8,0,0,2,1,6,2,5,3,5,6,3,1
+13/06/1957,Male,Monmouthshire,1.7,Social,FALSE,TRUE,Attended as a child,N/A,3,3,Transport,7.2,2,1,2,4,2,0,2,3,1,2,2,8
+26/05/2013,Male,Neath Port Talbot,16.6,Rehabilitation,FALSE,TRUE,School-only lessons,Irregular,3,5,None,2.77,2,3,2,4,7,6,5,3,3,2,0,1
+28/04/2018,Male,Merthyr Tydfil,3.9,Social,FALSE,TRUE,Never attended lessons,Termly,3,5,None,7.19,2,3,2,5,3,3,9,3,1,4,0,1
+22/04/1949,Male,Merthyr Tydfil,9.5,Competitive training,TRUE,TRUE,Never attended lessons,N/A,2,5,Confidence,6.69,1,0,2,1,4,6,4,4,5,4,2,0
+04/10/1985,Male,Carmarthenshire,13.2,Competitive training,TRUE,TRUE,School-only lessons,N/A,4,5,Confidence,5.35,1,1,4,6,3,7,9,5,4,5,3,0
+30/04/2010,Female,Blaenau Gwent,9.9,Leisure,FALSE,TRUE,Attended as a child,Weekly,2,3,None,2.5,0,0,4,1,4,4,3,5,5,2,4,0
+03/04/1992,Male,Vale of Glamorgan,4.3,Fitness,FALSE,TRUE,Currently attending,N/A,2,3,None,3.99,0,1,1,3,4,5,11,9,6,3,2,0
+13/01/1976,Female,Swansea,13.8,Fitness,FALSE,TRUE,Attended as a child,N/A,4,4,None,4.92,1,0,4,5,5,9,5,6,9,1,2,0
+02/04/1971,Male,Gwynedd,14.2,Fitness,TRUE,TRUE,Private lessons,N/A,2,4,Cost,3.4,2,1,2,1,4,8,5,5,4,2,5,2
+22/10/1967,Male,Caerphilly,17.8,Leisure,FALSE,TRUE,Never attended lessons,N/A,3,5,Cost,4.1,1,2,3,4,2,2,5,5,4,3,2,1
+15/04/2008,Male,Powys,9.2,Fitness,TRUE,TRUE,Never attended lessons,N/A,3,5,Time,6.91,1,4,2,7,4,6,5,6,2,6,0,5
+10/10/1994,Female,Neath Port Talbot,9.4,Fitness,TRUE,TRUE,Attended as a child,N/A,3,5,Confidence,2.25,0,3,3,6,6,4,8,5,5,1,2,2
+21/06/2015,Female,Gwynedd,6.9,Leisure,FALSE,TRUE,School-only lessons,Weekly,4,3,Cost,5.28,3,2,3,4,4,8,7,7,1,1,0,2
+16/12/2018,Female,Torfaen,6.7,Fitness,FALSE,TRUE,Attended as a child,Irregular,3,5,Cost,0,0,3,4,2,4,2,6,5,1,5,1,6
+04/07/1994,Male,Caerphilly,15.5,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,None,4.42,4,2,2,5,5,5,3,3,2,2,3,1
+24/07/1976,Male,Wrexham,9,Social,FALSE,TRUE,Attended as a child,N/A,4,3,None,6.79,1,3,7,1,8,4,5,12,4,2,0,2
+26/06/1955,Female,Carmarthenshire,8,Rehabilitation,FALSE,TRUE,School-only lessons,N/A,2,5,Transport,3.74,3,1,2,7,3,5,0,3,1,2,1,2
+25/09/1947,Male,Torfaen,9.4,Leisure,TRUE,TRUE,Private lessons,N/A,3,4,None,2.66,0,2,2,1,7,2,4,2,3,1,1,3
+06/06/1978,Female,Cardiff,13,Leisure,FALSE,TRUE,School-only lessons,N/A,3,3,Confidence,5.96,0,0,1,5,3,2,8,7,4,2,4,1
+12/12/2021,Male,Flintshire,16.6,Leisure,FALSE,FALSE,Never attended lessons,Weekly,3,3,None,5.44,2,1,1,6,4,6,3,6,2,1,3,3
+27/01/1996,Male,Torfaen,14.9,Fitness,FALSE,TRUE,Never attended lessons,N/A,5,4,Transport,5.96,1,0,5,4,3,4,7,7,2,3,2,3
+15/05/1987,Male,Conwy,8.8,Social,FALSE,TRUE,Attended as a child,N/A,4,3,Cost,4.3,0,2,4,1,3,3,3,6,5,3,3,3
+03/03/1987,Male,Flintshire,14.1,Fitness,FALSE,TRUE,Private lessons,N/A,2,4,Transport,4.27,1,1,1,5,3,5,9,10,4,3,2,3
+14/12/1997,Female,Ceredigion,11.7,Fitness,FALSE,TRUE,Attended as a child,N/A,1,5,Confidence,6.85,0,1,4,5,5,5,3,6,8,4,0,1
+07/11/1980,Male,Ceredigion,1.6,Competitive training,TRUE,TRUE,Attended as a child,N/A,1,4,Confidence,7.16,2,1,3,7,3,2,2,2,4,4,4,2
+23/04/1996,Male,Ceredigion,2.2,Fitness,FALSE,TRUE,Private lessons,N/A,2,5,Cost,3.93,0,1,1,1,2,5,8,9,1,2,2,2
+11/02/1954,Male,Neath Port Talbot,1.2,Fitness,FALSE,TRUE,Never attended lessons,N/A,2,3,None,5.44,2,0,2,3,7,5,4,7,2,2,1,1
+20/10/2003,Male,Ceredigion,8.5,Fitness,FALSE,TRUE,Attended as a child,N/A,3,2,Cost,4.12,2,3,1,6,1,4,1,4,5,3,4,1
+01/09/2012,Female,Swansea,15,Fitness,FALSE,TRUE,Attended as a child,Termly,4,4,Cost,4.52,1,3,6,3,2,14,6,4,2,2,1,3
+21/10/1949,Female,Vale of Glamorgan,6,Fitness,FALSE,TRUE,Attended as a child,N/A,4,3,Confidence,2.95,4,1,2,4,5,3,5,5,6,4,0,3
+22/03/1985,Female,Ceredigion,7.2,Fitness,FALSE,TRUE,Currently attending,N/A,2,3,Confidence,3.95,2,7,2,3,2,6,7,3,9,2,5,1
+26/08/2017,Female,Carmarthenshire,16.4,Leisure,TRUE,TRUE,Attended as a child,Weekly,3,3,Transport,4.19,1,5,1,3,4,5,4,5,5,6,1,3
+20/12/1951,Male,Powys,17.2,Competitive training,TRUE,TRUE,Attended as a child,N/A,3,4,Time,0.44,3,0,1,1,2,3,3,6,4,0,2,2
+01/02/2000,Female,Merthyr Tydfil,13.7,Fitness,TRUE,TRUE,Attended as a child,N/A,4,4,Confidence,4.31,3,1,6,5,3,4,5,6,6,4,3,3
+05/09/1976,Male,Denbighshire,5.2,Social,FALSE,TRUE,Attended as a child,N/A,4,5,Confidence,5.08,5,2,6,2,7,4,4,3,2,3,3,5
+01/10/1977,Male,Bridgend,2.5,Fitness,FALSE,TRUE,Attended as a child,N/A,5,3,Time,5.63,1,1,5,4,2,6,5,5,5,2,0,2
+11/05/2011,Female,Denbighshire,0.8,Fitness,FALSE,TRUE,Attended as a child,Irregular,3,4,Cost,5.76,1,2,3,9,9,2,5,7,4,3,1,1
+08/06/2010,Male,Flintshire,2.4,Fitness,FALSE,TRUE,Never attended lessons,Weekly,3,2,Confidence,7.27,0,1,1,2,2,3,8,8,6,2,1,2
+18/02/1961,Female,Newport,5.6,Leisure,FALSE,TRUE,Never attended lessons,N/A,2,4,None,0.37,1,2,3,3,1,1,3,6,2,3,1,2
+27/01/1963,Male,Denbighshire,10.2,Leisure,FALSE,TRUE,Attended as a child,N/A,3,2,Cost,5.3,0,4,3,3,4,5,8,3,5,1,2,4
+15/02/1980,Female,Caerphilly,3.4,Leisure,TRUE,TRUE,Attended as a child,N/A,2,5,Transport,5.8,0,2,4,4,2,5,6,9,7,0,6,3
+20/05/1947,Female,Wrexham,5.4,Competitive training,TRUE,TRUE,Private lessons,N/A,3,5,None,3.77,1,2,0,4,7,5,6,5,5,2,8,1
+14/06/1955,Female,Newport,3.7,Leisure,FALSE,TRUE,Currently attending,N/A,3,4,Transport,4.61,0,0,3,6,3,5,8,4,5,2,2,0
+02/01/2018,Female,Gwynedd,11.6,Leisure,FALSE,TRUE,Private lessons,Termly,2,3,Confidence,2.97,0,1,1,3,6,6,6,3,6,6,1,3
+11/08/1986,Female,Swansea,11.3,Social,FALSE,TRUE,Attended as a child,N/A,1,4,None,6.19,1,2,1,4,6,1,5,4,3,1,3,1
+11/02/1951,Male,Vale of Glamorgan,10.1,Fitness,FALSE,TRUE,Attended as a child,N/A,1,5,Cost,3.78,1,0,4,3,2,5,5,2,1,5,0,1
+11/09/1992,Female,Flintshire,4.9,Fitness,FALSE,TRUE,Attended as a child,N/A,1,3,Cost,5.24,2,1,6,4,2,2,6,8,4,1,1,1
+09/09/2014,Male,Wrexham,9.6,Rehabilitation,FALSE,TRUE,Never attended lessons,Termly,1,4,None,5.6,1,1,1,1,6,0,3,2,6,6,2,3
+16/12/1972,Female,Carmarthenshire,2.2,Leisure,FALSE,TRUE,Never attended lessons,N/A,2,5,None,5.1,3,3,3,5,3,3,2,5,5,2,1,1
+24/12/1994,Female,Ceredigion,4.5,Fitness,FALSE,TRUE,Attended as a child,N/A,2,5,Confidence,5.43,1,1,3,3,5,3,7,6,2,3,1,0
+13/09/1983,Female,Vale of Glamorgan,16.2,Fitness,FALSE,TRUE,School-only lessons,N/A,2,5,Confidence,5.6,4,1,2,1,4,5,7,4,1,3,3,0
+30/06/1982,Male,Conwy,17.6,Leisure,FALSE,TRUE,Never attended lessons,N/A,5,5,None,4.39,3,1,3,1,3,3,8,8,3,2,0,4
+06/06/2012,Male,Neath Port Talbot,11.8,Leisure,TRUE,TRUE,Never attended lessons,Weekly,3,5,Time,4.2,2,3,6,2,4,3,3,5,11,4,3,5
+16/11/2000,Female,Rhondda Cynon Taf,18.7,Fitness,FALSE,TRUE,Private lessons,N/A,2,4,Transport,5.29,0,2,2,0,2,10,6,5,3,2,6,2
+08/10/2022,Male,Merthyr Tydfil,14.5,Social,FALSE,TRUE,Attended as a child,Irregular,3,4,Cost,4.35,1,3,5,1,3,4,4,4,6,3,1,3
+25/09/1977,Male,Anglesey,1.1,Competitive training,TRUE,TRUE,Private lessons,N/A,4,5,Confidence,3.91,2,4,3,2,1,6,4,8,4,3,1,2
+16/03/2002,Male,Carmarthenshire,17.9,Leisure,FALSE,TRUE,Currently attending,N/A,3,5,None,2.13,2,4,2,4,5,3,4,2,3,2,2,1
+20/02/1987,Female,Carmarthenshire,2.2,Rehabilitation,FALSE,TRUE,School-only lessons,N/A,2,5,None,€ 6.95,2,4,2,6,1,2,6,2,4,4,5,0
+20/12/1969,Female,Monmouthshire,12.4,Social,FALSE,TRUE,Attended as a child,N/A,3,2,None,2.93,1,2,3,3,6,6,7,3,3,1,2,2
+11/08/1966,Male,Gwynedd,4.9,Fitness,FALSE,TRUE,Currently attending,N/A,4,4,None,5.55,1,0,4,2,2,4,6,6,7,2,4,4
+12/08/2022,Male,Pembrokeshire,7.4,Fitness,TRUE,TRUE,Attended as a child,Irregular,4,4,Confidence,4,2,0,4,4,4,4,7,3,4,3,4,4
+26/06/1960,Male,Newport,11.8,Leisure,FALSE,TRUE,Attended as a child,N/A,3,4,Transport,5.19,1,1,7,1,5,1,5,8,3,6,4,0
+14/03/1969,Female,Bridgend,8.1,Competitive training,TRUE,TRUE,Attended as a child,N/A,4,3,Time,5.07,1,1,2,1,6,9,4,3,2,3,3,1
+21/10/1968,Female,Rhondda Cynon Taf,6.3,Fitness,FALSE,TRUE,Never attended lessons,N/A,4,5,Time,2.11,3,5,2,6,3,3,1,6,3,3,3,4
+11/06/1983,Male,Caerphilly,8.4,Water confidence,TRUE,TRUE,Attended as a child,N/A,3,3,Confidence,5.02,3,1,3,2,4,1,8,5,8,3,2,1
+09/08/2008,Male,Blaenau Gwent,9.2,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,Cost,5.61,1,2,4,2,5,3,3,5,3,2,2,1
+22/04/2002,Male,Neath Port Talbot,17.3,Fitness,FALSE,TRUE,Private lessons,N/A,3,5,None,5.55,1,1,4,7,7,4,4,4,7,3,1,4
+27/04/1976,Female,Ceredigion,14.5,Fitness,FALSE,TRUE,Currently attending,N/A,4,3,Confidence,2.96,4,2,3,2,5,5,1,8,3,3,3,2
+14/07/1950,Female,Merthyr Tydfil,9.1,Fitness,FALSE,TRUE,Currently attending,N/A,1,3,Transport,5.57,2,1,2,2,2,4,6,7,2,5,4,5
+15/11/1970,Male,Cardiff,4,Competitive training,TRUE,TRUE,Never attended lessons,N/A,5,4,Confidence,6.08,3,4,3,4,5,3,1,3,9,1,4,2
+06/02/2014,Male,Carmarthenshire,14.7,Water confidence,FALSE,TRUE,Currently attending,Weekly,2,5,Time,5.5,4,0,4,1,3,6,8,2,1,1,5,4
+21/10/1949,Male,Cardiff,3.3,Leisure,FALSE,TRUE,Attended as a child,N/A,3,5,Cost,4.74,2,0,3,2,5,3,5,4,3,1,1,2
+28/12/1971,Female,Cardiff,4.2,Water confidence,FALSE,TRUE,School-only lessons,N/A,4,5,None,4.2,6,3,4,5,3,7,5,2,0,1,3,0
+26/09/1966,Male,Powys,7.8,Competitive training,TRUE,TRUE,School-only lessons,N/A,2,5,Transport,7.81,2,2,3,2,4,4,6,9,2,1,2,3
+28/08/1997,Female,Bridgend,15.9,Leisure,FALSE,FALSE,Never attended lessons,N/A,3,3,Cost,5.66,1,4,1,3,2,8,8,6,2,0,2,0
+21/12/1982,Female,Merthyr Tydfil,3.4,Leisure,FALSE,TRUE,Private lessons,N/A,2,5,Transport,4.06,3,2,4,8,4,5,5,8,4,1,1,5
+08/02/1988,Male,Pembrokeshire,2.6,Leisure,FALSE,FALSE,Never attended lessons,N/A,3,4,Time,4.18,1,2,3,3,4,1,1,0,2,2,5,2
+12/10/1960,Male,Ceredigion,9.1,Leisure,FALSE,TRUE,Attended as a child,N/A,2,5,None,4.21,3,2,1,3,4,3,3,4,4,3,0,2
+13/05/1998,Male,Torfaen,7.6,Fitness,TRUE,TRUE,Attended as a child,N/A,3,2,None,3.96,1,0,3,5,4,4,7,4,2,2,2,0
+05/10/1948,Female,Monmouthshire,10.5,Rehabilitation,TRUE,FALSE,Never attended lessons,N/A,3,5,None,3.81,0,2,1,4,5,8,10,8,6,6,4,3
+14/10/1985,Female,Caerphilly,10.9,Fitness,FALSE,TRUE,Currently attending,N/A,5,4,Cost,4.18,2,2,2,1,3,4,3,3,2,1,1,4
+30/12/2033,Female,Bridgend,8.1,Competitive training,TRUE,TRUE,Private lessons,No provision,5,5,Cost,5.62,2,1,8,7,5,6,4,3,2,3,4,1
+07/07/2016,Female,Rhondda Cynon Taf,5.4,Competitive training,TRUE,TRUE,Never attended lessons,Weekly,2,3,Confidence,2.26,1,1,2,2,1,7,10,9,2,5,4,3
+09/04/1989,Male,Pembrokeshire,3,Fitness,FALSE,TRUE,Attended as a child,N/A,4,4,Transport,5.93,1,2,2,1,4,4,6,7,0,4,2,1
+29/04/2006,Female,Neath Port Talbot,14.9,Fitness,FALSE,TRUE,Currently attending,N/A,1,4,None,2.59,2,2,2,5,4,4,7,5,2,5,3,0
+20/10/1980,Female,Neath Port Talbot,16,Leisure,FALSE,TRUE,School-only lessons,N/A,1,4,Time,4.22,3,2,5,3,5,7,4,2,2,3,3,2
+18/08/1964,Male,Wrexham,5.3,Leisure,FALSE,TRUE,Currently attending,N/A,2,3,None,2.92,1,2,4,4,0,5,6,5,4,1,0,4
+02/02/1972,Female,Blaenau Gwent,4.7,Fitness,FALSE,TRUE,Currently attending,N/A,5,5,Transport,4.01,2,3,3,2,6,2,3,7,0,1,3,0
+25/03/1969,Female,Powys,3.7,Leisure,FALSE,TRUE,Attended as a child,N/A,5,2,Confidence,5.6,3,0,0,1,2,6,3,6,4,4,3,2
+21/12/1999,Female,Conwy,11.1,Fitness,FALSE,FALSE,Private lessons,N/A,2,3,Confidence,5.74,3,1,4,2,4,3,3,6,5,3,5,1
+02/03/1998,Female,Rhondda Cynon Taf,14.5,Fitness,TRUE,TRUE,Private lessons,N/A,2,3,Cost,3.78,7,0,1,5,4,4,2,5,4,3,3,1
+25/09/2019,Male,Cardiff,13.4,Leisure,FALSE,TRUE,School-only lessons,Weekly,2,2,None,4.07,1,2,1,1,2,6,4,5,5,4,3,0
+26/09/1966,Male,Powys,7.8,Competitive training,TRUE,TRUE,School-only lessons,N/A,2,5,Transport,7.81,2,2,3,2,4,4,6,9,2,1,2,3
+03/09/1998,Female,Gwynedd,8.4,Fitness,FALSE,TRUE,Attended as a child,N/A,4,5,Transport,5.35,3,3,3,5,2,6,7,6,5,2,4,4
+02/11/1997,Female,Vale of Glamorgan,14.6,Social,FALSE,TRUE,Private lessons,N/A,1,5,Transport,€ 7.29,0,2,1,2,2,7,8,9,4,0,0,1
+16/12/2018,Female,Torfaen,6.7,Fitness,FALSE,TRUE,Attended as a child,Irregular,3,5,Cost,0,0,3,4,2,4,2,6,5,1,5,1,6
+23/04/1996,Male,Ceredigion,2.2,Fitness,FALSE,TRUE,Private lessons,N/A,2,5,Cost,3.93,0,1,1,1,2,5,8,9,1,2,2,2
